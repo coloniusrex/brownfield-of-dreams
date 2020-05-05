@@ -1,69 +1,70 @@
 <main class="tutorials">
-<h2><%= @facade.title %></h2>
-<h1 id="message"></h1>
-<div class="col col-4">
-  <h4>Videos</h4>
-  <ul>
-    <% @facade.videos.each do |video| %>
+  <h2><%= @facade.title %></h2>
+  <h1 id="message"></h1>
+  <div class="col col-4">
+    <h4>Videos</h4>
+    <ul>
+      <% @facade.videos.each do |video| %>
       <li>
         <h3><%= link_to video.title, tutorial_path(video_id: video.id), class: "show-link", id: video.position %></h3>
       </li>
-    <% end %>
-  </ul>
-</div>
-
-<div class="col col-8">
-  <div class="title-bookmark">
-    <h3><%= @facade.current_video.title %></h3>
-    <div class="bookmarks-btn">
-      <% if current_user %>
-      <%= button_to "Bookmark", user_videos_path(video_id: @facade.current_video.id, user_id: current_user.id), method: :post, class: "btn btn-outline mb1 teal" %>
-      <% else %>
-      <%= link_to "Bookmark", login_path, class: "btn btn-outline mb1 teal" %>
       <% end %>
-    </div>
+    </ul>
   </div>
 
-  <div id="player">
-    <script src="https://www.youtube.com/player_api"></script>
-    <script>
-    // create youtube player
-    var player;
-    var position;
-    function onYouTubePlayerAPIReady() {
-      player = new YT.Player('player', {
-        width: '640',
-        height: '390',
-        videoId: '<%= @facade.current_video.video_id %>',
-        events: {
-          onReady: onPlayerReady,
-          onStateChange: onPlayerStateChange
+  <div class="col col-8">
+    <div class="title-bookmark">
+      <h3><%= @facade.current_video.title %></h3>
+      <div class="bookmarks-btn">
+        <% if current_user %>
+        <%= button_to "Bookmark", user_videos_path(video_id: @facade.current_video.id, user_id: current_user.id), method: :post, class: "btn btn-outline mb1 teal" %>
+        <% else %>
+        <%= button_to "Bookmark", user_videos_path, method: :post, class: "btn btn-outline mb1 teal" %>
+        <% end %>
+      </div>
+    </div>
+
+    <div id="player">
+      <script src="https://www.youtube.com/player_api"></script>
+      <script>
+        // create youtube player
+        var player;
+        var position;
+
+        function onYouTubePlayerAPIReady() {
+          player = new YT.Player('player', {
+            width: '640',
+            height: '390',
+            videoId: '<%= @facade.current_video.video_id %>',
+            events: {
+              onReady: onPlayerReady,
+              onStateChange: onPlayerStateChange
+            }
+          });
         }
-      });
-    }
 
-    // autoplay video
-    function onPlayerReady(event) {
-      event.target.playVideo();
-    }
+        // autoplay video
+        function onPlayerReady(event) {
+          event.target.playVideo();
+        }
 
-    // when video ends
-    function onPlayerStateChange(event) {
-      if(event.data === 0 && <%= @facade.play_next_video? %>) {
-        window.location = "/tutorials/<%=@facade.id%>?video_id=<%=@facade.next_video.id %>";
-      } else if(event.data === 0 && <%= @facade.play_next_video? == false %>) {
-        const message = document.querySelector(`#message`);
-        message.innerHTML = "You watched them all. Bask in the glory of your new skills."
-      }
-    }
-  </script>
-</div>
+        // when video ends
+        function onPlayerStateChange(event) {
+          if (event.data === 0 && < %= @facade.play_next_video ? % > ) {
+            window.location = "/tutorials/<%=@facade.id%>?video_id=<%=@facade.next_video.id %>";
+          } else if (event.data === 0 && < %= @facade.play_next_video ? == false % > ) {
+            const message = document.querySelector(`#message`);
+            message.innerHTML = "You watched them all. Bask in the glory of your new skills."
+          }
+        }
+      </script>
+    </div>
 
-  <h4>Description</h4>
-  <p data-controller="tutorials" id="description-<%= @facade.current_video.id %>">
-    <%= @facade.current_video.description.truncate(50) %>...
-    <%= link_to "More", "#", "data-action" => "click->tutorials#showDescription", id: @facade.current_video.id, class: "show-link"%>
-  </p>
-</div>
+    <h4>Description</h4>
+    <p data-controller="tutorials" id="description-<%= @facade.current_video.id %>">
+      <%= @facade.current_video.description.truncate(50) %>...
+      <%= link_to "More", "#", "data-action" => "click->tutorials#showDescription", id: @facade.current_video.id, class: "show-link"%>
+    </p>
+  </div>
 
 </main>
