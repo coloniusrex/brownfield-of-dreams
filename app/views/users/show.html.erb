@@ -10,7 +10,7 @@
   <section>
     <h1>Bookmarked Segments</h1>
   </section>
-  <% if ENV['GITHUB_TOKEN'] != nil %>
+  <% if current_user.token != nil %>
     <section class='user-github'>
       <h3><%= @github_username %>'s GitHub</h3>
       <% @repos[0..4].each do |repo| %>

@@ -17,7 +17,7 @@ class TutorialFacade < SimpleDelegator
   end
 
   def play_next_video?
-    !(current_video.position >= maximum_video_position)
+    current_video.position <= maximum_video_position
   end
 
   private
@@ -27,6 +27,6 @@ class TutorialFacade < SimpleDelegator
   end
 
   def maximum_video_position
-    videos.max_by { |video| video.position }.position
+    videos.max_by(&:position).position
   end
 end
