@@ -4,7 +4,10 @@ class UsersController < ApplicationController
       faraday.headers['authorization'] = ENV["GITHUB_TOKEN"]
     end
     response = conn.get('/user/repos')
+    user_response = conn.get('/user')
     json = JSON.parse(response.body, symbolize_names: true)
+    user_json = JSON.parse(user_response.body, symbolize_names: true)
+    @github_username = user_json[:login]
     @repos = json.map do |repo_data|
       Repo.new(repo_data)
     end
