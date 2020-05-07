@@ -10,4 +10,14 @@
   <section>
     <h1>Bookmarked Segments</h1>
   </section>
+  <% if ENV['GITHUB_TOKEN'] != nil %>
+    <section class='user-github'>
+      <h3>GitHub</h3>
+      <% @repos[0..4].each do |repo| %>
+        <ul class='repo'>
+          <li class="name"><%= link_to repo.name, repo.html_url %></li>
+        </ul>
+      <% end %>
+    </section>
+  <% end %>
 </section>
