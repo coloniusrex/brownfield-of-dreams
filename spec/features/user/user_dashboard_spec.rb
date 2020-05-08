@@ -40,10 +40,3 @@ describe 'As a logged in user when' do
     end
   end
 end
-
-
-# As a logged in user
-# When I visit /dashboard
-# Then I should see a section for "Github"
-# And under that section I should see another section titled "Followers"
-# And I should see list of all followers with their handles linking to their Github profile
