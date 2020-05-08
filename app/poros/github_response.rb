@@ -10,4 +10,11 @@ class GithubResponse
     json = GithubService.new.user_info
     json[:login]
   end
+
+  def followers
+    json = GithubService.new.user_followers
+    json.map do |follower_data|
+      Follower.new(follower_data)
+    end
+  end
 end
