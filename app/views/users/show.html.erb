@@ -13,11 +13,21 @@
   <% if current_user.token != nil %>
     <section class='user-github'>
       <h3><%= @github_username %>'s GitHub</h3>
-      <% @repos[0..4].each do |repo| %>
+      <section class='repos'>
+        <% @repos[0..4].each do |repo| %>
         <ul class='repo'>
           <li class="name"><%= link_to repo.name, repo.html_url %></li>
         </ul>
-      <% end %>
+        <% end %>
+      </section>
+      <section class='followers'>
+        <h4>Followers</h4>
+        <% @followers.each do |follower| %>
+          <ul>
+            <li class='follower'><%= link_to follower.username, follower.html_url %></li>
+          </ul>
+        <% end %>
+      </section>
     </section>
   <% end %>
 </section>

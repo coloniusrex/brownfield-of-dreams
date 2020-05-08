@@ -3,6 +3,7 @@ class UsersController < ApplicationController
     response = GithubResponse.new
     @repos = response.repos
     @github_username = response.user_name
+    @followers = response.followers
   end
 
   def new
