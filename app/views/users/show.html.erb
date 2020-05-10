@@ -28,6 +28,14 @@
           </ul>
         <% end %>
       </section>
+      <section class='following'>
+        <h4>Following</h4>
+        <% @followees.each do |followee| %>
+          <ul>
+            <li class='followee'><%= link_to followee.username, followee.html_url %></li>
+          </ul>
+        <% end %>
+      </section>
     </section>
   <% end %>
 </section>
