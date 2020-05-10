@@ -19,4 +19,9 @@ class GithubService
     followers_response = conn.get('/user/followers')
     JSON.parse(followers_response.body, symbolize_names: true)
   end
+
+  def user_followees
+    followees_response = conn.get('/user/following')
+    JSON.parse(followees_response.body, symbolize_names: true)
+  end
 end

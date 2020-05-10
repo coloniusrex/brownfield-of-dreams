@@ -17,4 +17,11 @@ class GithubResponse
       Follower.new(follower_data)
     end
   end
+
+  def followees
+    json = GithubService.new.user_followees
+    json.map do |followee_data|
+      Followee.new(followee_data)
+    end
+  end
 end
