@@ -39,4 +39,18 @@ describe 'As a logged in user when' do
       end
     end
   end
+
+  it "I can see a section within Github section, titled Following with a list of users I follow handles as links when I have a token" do
+    user = create(:user)
+    user.token = ENV["GITHUB_TOKEN"]
+
+    allow_any_instance_of(ApplicationController).to receive(:current_user).and_return(user)
+    visit '/dashboard'
+
+    within '.user-github' do
+      within '.following' do
+        expect(page).to have_css('.followee')
+      end
+    end
+  end
 end
