@@ -4,11 +4,11 @@ module YouTube
     attr_accessor :position
 
     def initialize(data = {})
-      @thumbnail = data[:items].first[:snippet][:thumbnails][:high][:url]
-      @title = data[:items].first[:snippet][:title]
-      @description = data[:items].first[:snippet][:description]
-      @id = data[:items].first[:id]
-      @position = 0
+      @id = data[:id]
+      @title = data[:title]
+      @description = data[:description]
+      @thumbnail = data[:thumbnail][:url]
+      @position = data[:position]
     end
 
     def self.by_id(id)
@@ -17,10 +17,13 @@ module YouTube
 
     def self.by_playlist_id(playlist_id)
       playlist = YoutubeService.new.playlist_info(playlist_id)
-      playlist[:items].map do |item|
-        video_id = item[:contentDetails][:videoId]
-        self.by_id(video_id)
+      new_playlist = playlist[:items].map do |item|
+          new({video_id: item[:contentDetails][:videoId],
+              title: item[:snippet][:title],
+              description: item[:snippet][:description],
+              position: item[:snippet][:description],
+              thumbnail: item[:snippet][:thumbnails][:maxres]})
       end
-    end
+     end
   end
 end

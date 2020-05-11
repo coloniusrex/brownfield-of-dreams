@@ -23,12 +23,12 @@ class Admin::VideosController < Admin::BaseController
         redirect_to edit_admin_tutorial_path(id: tutorial.id)
       elsif params[:video].nil?
         playlist = YouTube::Video.by_playlist_id(params[:playlistId])
-        playlist.each_with_index do |item, index|
+        playlist.each do |item|
           tutorial.videos.create({title: item.title,
                                   description: item.description,
                                   thumbnail: item.thumbnail,
                                   video_id: item.id,
-                                  position: index})
+                                  position: item.position})
         end
         flash[:success] = "Tutorial created. #{view_context.link_to 'View it here', tutorial_path(tutorial)}."
 
