@@ -1,0 +1,7 @@
+<h1>Welcome</h1>
+<%= form_with url: admin_tutorial_videos_path(@tutorial.id) do |f| %>
+  <%= f.label :playlistId %>
+  <%= f.text_field :playlistId, class: "block col-4 field" %>
+
+  <%= f.submit 'Submit' %>
+<% end %>
