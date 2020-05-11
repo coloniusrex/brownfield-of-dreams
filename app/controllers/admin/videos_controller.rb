@@ -24,19 +24,19 @@ class Admin::VideosController < Admin::BaseController
       elsif params[:video].nil?
         playlist = YouTube::Video.by_playlist_id(params[:playlistId])
         playlist.each_with_index do |item, index|
-          tutorial.videos.create({title:item.title,
-                                  description:item.description,
-                                  thumbnail:item.thumbnail,
-                                  video_id:item.id,
-                                  position:index})
+          tutorial.videos.create({title: item.title,
+                                  description: item.description,
+                                  thumbnail: item.thumbnail,
+                                  video_id: item.id,
+                                  position: index})
         end
+        flash[:success] = "Tutorial created. #{view_context.link_to 'View it here', tutorial_path(tutorial)}."
+
         redirect_to admin_dashboard_path
       end
     rescue StandardError
       flash[:error] = 'Unable to create video.'
     end
-
-
   end
 
   private
