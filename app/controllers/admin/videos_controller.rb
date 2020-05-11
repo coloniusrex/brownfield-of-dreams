@@ -20,22 +20,23 @@ class Admin::VideosController < Admin::BaseController
         video = tutorial.videos.new(new_video_params.merge(thumbnail: thumbnail))
         video.save
         flash[:success] = 'Successfully created video.'
+        redirect_to edit_admin_tutorial_path(id: tutorial.id)
       elsif params[:video].nil?
         playlist = YouTube::Video.by_playlist_id(params[:playlistId])
         playlist.each_with_index do |item, index|
           tutorial.videos.create({title:item.title,
-                         description:item.description,
-                           thumbnail:item.thumbnail,
-                            video_id:item.id,
-                            position:index})
+                                  description:item.description,
+                                  thumbnail:item.thumbnail,
+                                  video_id:item.id,
+                                  position:index})
         end
+        redirect_to admin_dashboard_path
       end
     rescue StandardError
       flash[:error] = 'Unable to create video.'
     end
 
-    # redirect_to edit_admin_tutorial_path(id: tutorial.id)
-    redirect_to admin_dashboard_path
+
   end
 
   private
@@ -45,6 +46,6 @@ class Admin::VideosController < Admin::BaseController
   end
 
   def new_video_params
-    params.require(:video).permit(:title, :description, :video_id, :thumbnail)
+    params.require(:video).permit(:title, :description, :video_id, :thumbnail, :tag_list)
   end
 end

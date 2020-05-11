@@ -1,0 +1,256 @@
+{
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/QQqyNkj3FSRqCPp7JbiBQr8Lvnk\"",
+    "nextPageToken": "CAUQAA",
+    "pageInfo": {
+        "totalResults": 21,
+        "resultsPerPage": 5
+    },
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/quHZDI04bB3yseApj4i7-wZhL5M\"",
+            "id": "UExEZEU5ay05Zk96c0k5dHRQWnBfeWZxMml1NVRwSVNqby41NkI0NEY2RDEwNTU3Q0M2",
+            "snippet": {
+                "publishedAt": "2016-10-08T22:23:05.000Z",
+                "channelId": "UCQdQuv2Xx80qZI1RIulipZQ",
+                "title": "GRiZ - Gettin' Live",
+                "description": "New GRiZ single, 'Hard Times', from 'Rebel Era' Album: http://bit.ly/19N5zJ8\n\nSupport the artist, free download on SoundCloud: http://soundcloud.com/griz/griz-gettin-live\nFollow GRiZ on Facebook: https://www.facebook.com/therealGRiZ\nFollow on SoundCloud: http://soundcloud.com/griz\nFollow on Twitter: https://twitter.com/mynameisGRiZ\n\n¤¤GIVING YOU A TASTE OF CHRONIC MUSIC, EVERY DAY¤¤\nhttp://www.headytunes.co/\nhttp://www.facebook.com/HeadyTunes.co\nhttp://www.twitter.com/headytunes\nhttp://soundcloud.com/headytunes-co\nhttp://www.youtube.com/user/HeadyTunesMusicFeed?feature=mhee\nhttp://headytunes.tumblr.com/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/y6n0XsiX_QQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/y6n0XsiX_QQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/y6n0XsiX_QQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/y6n0XsiX_QQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/y6n0XsiX_QQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Hannah Abel",
+                "playlistId": "PLDdE9k-9fOzsI9ttPZp_yfq2iu5TpISjo",
+                "position": 0,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "y6n0XsiX_QQ"
+                }
+            },
+            "contentDetails": {
+                "videoId": "y6n0XsiX_QQ",
+                "videoPublishedAt": "2013-04-05T02:00:53.000Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/IAMDjcrDmUa-Ut-yqY-kumzDtJY\"",
+            "id": "UExEZEU5ay05Zk96c0k5dHRQWnBfeWZxMml1NVRwSVNqby4yODlGNEE0NkRGMEEzMEQy",
+            "snippet": {
+                "publishedAt": "2016-10-08T22:23:29.000Z",
+                "channelId": "UCQdQuv2Xx80qZI1RIulipZQ",
+                "title": "Stop Trippin' - GRiZ (with iDA HAWK) (Audio)",
+                "description": "Official audio for Detroit based electronica future funk DJ GRiZ's 2015 single “Stop Trippin\" featuring iDA HAWK, off the Say It Loud album.\nSubscribe for more GRiZ: http://bit.ly/1QUolAC\nGet this track: http://apple.co/1po3vS1\nGet GRiZ’s new studio album, Say It Loud: \niTunes: http://apple.co/1V6DvmH\n\nFollow GRiZ On:\nFacebook: https://www.facebook.com/therealGRiZ\nSoundCloud: https://soundcloud.com/griz\nTwitter: https://twitter.com/mynameisGRiZ\nInstagram: https://instagram.com/mynameisgriz/\n\nGRiZ Website:\nHome: http://www.mynameisgriz.com/\nTour Dates: http://www.mynameisgriz.com/tour\nMusic: http://www.mynameisgriz.com/music\n\nListen To GRiZ On:\niTunes: http://apple.co/1LJ4wI1\nSpotify: http://bit.ly/1OqD9si\nGoogle Play: http://bit.ly/1KvLFzY\nAmazon MP3: http://amzn.to/1Ti8Dnj\n\nWatch More GRiZ:\nPopular Videos: http://bit.ly/1KrclEo\nSay It Loud (Full Album): http://bit.ly/1KrclEo\nOfficial Audio: http://bit.ly/21EWzOd\nMusic Videos: http://bit.ly/1QouGT9\nRemixes: http://bit.ly/1T4YtGg\nLive Show Recaps: http://bit.ly/1WSF5KJ\nSay It Loud Tour 2015: http://bit.ly/1FpX7jZ\nEurope Tour 2015: http://bit.ly/1ndN8pi\nGRiZMAS Charity Drive: http://bit.ly/1TMBmiz\nLive Performances: http://bit.ly/1LrNHHJ\n\nGRiZ Bio:\nToday at age 25, GRiZ (or Grant Kwiecinski, to his mom) is already being hailed as visionary. With his latest releases Say It Loud and Chasing The Golden Hour Pt. 1 (both via his All Good Records imprint), follow-ups to their predecessors, End of The World Party, Rebel Era and Mad Liberation, GRiZ has had a massive year. A sold out spring tour saw the artist headlining some of the nation’s top venues in New York, Chicago, Los Angeles, Philly, Nashville etc., the legendary Red Rocks Amphitheatre and the Detroit Masonic Temple in his beloved hometown. Just this year alone, the sax man released six singles that all claimed the coveted #1 spot on Hype Machine’s most popular charts.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/p8P28RXa3zY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/p8P28RXa3zY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/p8P28RXa3zY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/p8P28RXa3zY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/p8P28RXa3zY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Hannah Abel",
+                "playlistId": "PLDdE9k-9fOzsI9ttPZp_yfq2iu5TpISjo",
+                "position": 1,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "p8P28RXa3zY"
+                }
+            },
+            "contentDetails": {
+                "videoId": "p8P28RXa3zY",
+                "videoPublishedAt": "2015-01-27T17:46:39.000Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/PdCGoyC8CKi0B_CjEp4iygkroGI\"",
+            "id": "UExEZEU5ay05Zk96c0k5dHRQWnBfeWZxMml1NVRwSVNqby4wMTcyMDhGQUE4NTIzM0Y5",
+            "snippet": {
+                "publishedAt": "2016-10-08T22:24:05.000Z",
+                "channelId": "UCQdQuv2Xx80qZI1RIulipZQ",
+                "title": "GRiZ - Take It High ft Ivan Neville Bonus Track",
+                "description": "Song: http://bit.ly/takeithigh (iTunes)\nAlbum: http://apple.co/1Dp21MN (iTunes)",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/KqlD8zKl-KM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/KqlD8zKl-KM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/KqlD8zKl-KM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/KqlD8zKl-KM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/KqlD8zKl-KM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Hannah Abel",
+                "playlistId": "PLDdE9k-9fOzsI9ttPZp_yfq2iu5TpISjo",
+                "position": 2,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "KqlD8zKl-KM"
+                }
+            },
+            "contentDetails": {
+                "videoId": "KqlD8zKl-KM",
+                "videoPublishedAt": "2015-04-01T14:10:49.000Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/xjrWgosPjpM0oNwfjTCkYiK5xzI\"",
+            "id": "UExEZEU5ay05Zk96c0k5dHRQWnBfeWZxMml1NVRwSVNqby41MjE1MkI0OTQ2QzJGNzNG",
+            "snippet": {
+                "publishedAt": "2016-10-08T22:24:21.000Z",
+                "channelId": "UCQdQuv2Xx80qZI1RIulipZQ",
+                "title": "GRiZ - It’s All Good ft  Jessie Arlen",
+                "description": "The beat drop at : 1:39\n\nGRiZ just released his new album \"Say It Loud\", and I in love with this new song \"It's All Good\".\n\nSay It Loud available here : http://www.mynameisgriz.com/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/3HaplDZMY2c/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/3HaplDZMY2c/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/3HaplDZMY2c/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/3HaplDZMY2c/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/3HaplDZMY2c/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Hannah Abel",
+                "playlistId": "PLDdE9k-9fOzsI9ttPZp_yfq2iu5TpISjo",
+                "position": 3,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "3HaplDZMY2c"
+                }
+            },
+            "contentDetails": {
+                "videoId": "3HaplDZMY2c",
+                "videoPublishedAt": "2015-03-31T10:46:27.000Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/Az2loKQZd_DYHHZqnC5KUmCVT0I\"",
+            "id": "UExEZEU5ay05Zk96c0k5dHRQWnBfeWZxMml1NVRwSVNqby4wOTA3OTZBNzVEMTUzOTMy",
+            "snippet": {
+                "publishedAt": "2016-10-08T22:24:43.000Z",
+                "channelId": "UCQdQuv2Xx80qZI1RIulipZQ",
+                "title": "Get Down - GRiZ (ft. Sunsquabi & Manic Focus) (Audio) | Say It Loud",
+                "description": "Official audio for Detroit based electronica future funk DJ GRiZ's 2015 song “Get Down\" featuring Sunsquabi and Manic Focus, off the Say It Loud album.\nSubscribe for more GRiZ: http://bit.ly/1QUolAC\nGet this track: http://apple.co/1po3vS1\nGet GRiZ’s new studio album, Say It Loud: \niTunes: http://apple.co/1V6DvmH\n\nFollow GRiZ On:\nFacebook: https://www.facebook.com/therealGRiZ\nSoundCloud: https://soundcloud.com/griz\nTwitter: https://twitter.com/mynameisGRiZ\nInstagram: https://instagram.com/mynameisgriz/\n\nGRiZ Website:\nHome: http://www.mynameisgriz.com/\nTour Dates: http://www.mynameisgriz.com/tour\nMusic: http://www.mynameisgriz.com/music\n\nListen To GRiZ On:\niTunes: http://apple.co/1LJ4wI1\nSpotify: http://bit.ly/1OqD9si\nGoogle Play: http://bit.ly/1KvLFzY\nAmazon MP3: http://amzn.to/1Ti8Dnj\n\nWatch More GRiZ:\nPopular Videos: http://bit.ly/1KrclEo\nSay It Loud (Full Album): http://bit.ly/1KrclEo\nOfficial Audio: http://bit.ly/21EWzOd\nMusic Videos: http://bit.ly/1QouGT9\nRemixes: http://bit.ly/1T4YtGg\nLive Show Recaps: http://bit.ly/1WSF5KJ\nSay It Loud Tour 2015: http://bit.ly/1FpX7jZ\nEurope Tour 2015: http://bit.ly/1ndN8pi\nGRiZMAS Charity Drive: http://bit.ly/1TMBmiz\nLive Performances: http://bit.ly/1LrNHHJ\n\nGRiZ Bio:\nToday at age 25, GRiZ (or Grant Kwiecinski, to his mom) is already being hailed as visionary. With his latest releases Say It Loud and Chasing The Golden Hour Pt. 1 (both via his All Good Records imprint), follow-ups to their predecessors, End of The World Party, Rebel Era and Mad Liberation, GRiZ has had a massive year. A sold out spring tour saw the artist headlining some of the nation’s top venues in New York, Chicago, Los Angeles, Philly, Nashville etc., the legendary Red Rocks Amphitheatre and the Detroit Masonic Temple in his beloved hometown. Just this year alone, the sax man released six singles that all claimed the coveted #1 spot on Hype Machine’s most popular charts.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/XSg8oFRj-vk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/XSg8oFRj-vk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/XSg8oFRj-vk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/XSg8oFRj-vk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/XSg8oFRj-vk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Hannah Abel",
+                "playlistId": "PLDdE9k-9fOzsI9ttPZp_yfq2iu5TpISjo",
+                "position": 4,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "XSg8oFRj-vk"
+                }
+            },
+            "contentDetails": {
+                "videoId": "XSg8oFRj-vk",
+                "videoPublishedAt": "2015-04-03T00:11:44.000Z"
+            }
+        }
+    ]
+}
