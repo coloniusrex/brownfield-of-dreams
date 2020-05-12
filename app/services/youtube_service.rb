@@ -10,31 +10,24 @@ class YoutubeService
   end
 
   def playlist_info(id)
+    all_items = []
     params = { part: 'snippet,contentDetails', playlistId: id, maxResults: 50 }
 
     json = get_json('youtube/v3/playlistItems', params)
-    require "pry"; binding.pry
-    # check JSON for nextPageToken or items/page comparison
-
-    # check for valid nextPageToken
-      # if yes
-        # store current json[:items] into paginated_json[:items], send new request
-        # do until totalResults == paginated_json[:items].count
-        # return paginated_json
-      # elsif no
-        # return json
-      # end
-
-    # check for totalResults > itemsPerPage
-      # if yes
-        # store current request data, send new request
-        # do until totalResults == paginated_items
-      # elsif no
-        # return json
-      # end
-
-
-
+    new_json = {}
+    if json[:nextPageToken].present?
+      new_json[:nextPageToken] = json[:nextPageToken]
+      until new_json[:nextPageToken].nil? do
+        params[:pageToken] = json[:nextPageToken]
+        new_json = get_json('youtube/v3/playlistItems', params)
+        json[:nextPageToken] = new_json[:nextPageToken]
+        
+        new_json[:items].each do |item|
+          json[:items] << item
+        end
+      end
+    end
+    json
   end
 
   private
