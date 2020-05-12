@@ -28,8 +28,7 @@ class Admin::VideosController < Admin::BaseController
                                   description: item.description,
                                   thumbnail: item.thumbnail,
                                   video_id: item.id,
-                                  position: item.position,
-                                  tutorial_id: params[:tutorial_id]})
+                                  position: item.position})
         end
         flash[:success] = "Tutorial created. #{view_context.link_to 'View it here', tutorial_path(tutorial)}."
         redirect_to admin_dashboard_path

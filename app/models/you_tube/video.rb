@@ -1,7 +1,6 @@
 module YouTube
   class Video
-    attr_reader :title, :description, :thumbnail, :id
-    attr_accessor :position
+    attr_reader :title, :description, :thumbnail, :id, :position
 
     def initialize(data = {})
       @id = data[:id]
@@ -24,6 +23,6 @@ module YouTube
               position: item[:snippet][:position],
               thumbnail: item[:snippet][:thumbnails][:standard][:url] })
       end
-     end
+    end
   end
 end
