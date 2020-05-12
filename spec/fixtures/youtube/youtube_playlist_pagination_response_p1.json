@@ -1,0 +1,2456 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/johOjWmkFs6jRQL2GmpnfBBn0-M\"",
+  "nextPageToken": "CDIQAA",
+  "pageInfo": {
+    "totalResults": 100,
+    "resultsPerPage": 50
+  },
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/U-SIRO6H_Jkhv4Q5eD3gjIY5p-8\"",
+      "id": "UExESW9VT2hRUVBsWHI2M0lfdndGOUdEOHNBS2g3N2RXVS4zNkU5OUMzNzNFMEEwNEUx",
+      "snippet": {
+        "publishedAt": "2020-05-11T23:10:57.000Z",
+        "channelId": "UCX9oPuvJYZsG8wnHTwOBVPA",
+        "title": "Doja Cat - Say So ft. Nicki Minaj",
+        "description": "Doja Cat - \"Say So\" ft. Nicki Minaj out now!: https://smarturl.it/xSaySoRemix\n\n'Hot Pink' out now! https://smarturl.it/xHotPink \n\nSubcribe to Doja Cat's Official YoutTube Channel: https://smarturl.it/DojaYTSubcribe \n\nFollow Doja Cat:\nhttps://www.instagram.com/dojacat/\nhttps://twitter.com/DojaCat\nhttps://www.facebook.com/DojaCat\nhttp://www.dojacat.com/\n\nFollow NickiMinaj\nhttps://www.instagram.com/nickiminaj\nhttps://twitter.com/nickiminaj\nhttps://facebook.com/nickiminaj\nhttps://www.mypinkfriday.com\n\n#DojaCat #NickiMinaj #SaySo",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/marAFsQo3VE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/marAFsQo3VE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/marAFsQo3VE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/marAFsQo3VE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/marAFsQo3VE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chillax",
+        "playlistId": "PLDIoUOhQQPlXr63I_vwF9GD8sAKh77dWU",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "marAFsQo3VE"
+        }
+      },
+      "contentDetails": {
+        "videoId": "marAFsQo3VE",
+        "videoPublishedAt": "2020-05-01T21:58:37.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/pdj6U7UjOFL_MyYR68Lo5bzq-cw\"",
+      "id": "UExESW9VT2hRUVBsWHI2M0lfdndGOUdEOHNBS2g3N2RXVS5DMTY1Mzc1QjRBNTM5MURF",
+      "snippet": {
+        "publishedAt": "2020-05-11T23:11:07.000Z",
+        "channelId": "UCX9oPuvJYZsG8wnHTwOBVPA",
+        "title": "Megan Thee Stallion - Savage Remix (feat. Beyoncé) [Official Audio]",
+        "description": "The official audio for Megan Thee Stallion's \"Savage Remix\" featuring Beyoncé - Out Now! With all artists’ proceeds benefitting Bread Of Life Houston's COVID-19 Relief efforts in their hometown.\nStream \"Savage Remix (feat. Beyoncé)\" on all platforms now:\nhttps://megantheestallion.ffm.to/savageremix \n\nStream 'SUGA': \nhttps://megantheestallion.ffm.to/suga\n\nFollow Megan Thee Stallion:\nhttps://www.instagram.com/theestallion\nhttps://twitter.com/theestallion\nhttps://www.facebook.com/theestallionn\n\nFollow Beyoncé:\nhttps://www.Beyonce.com\nhttps://www.instagram.com/Beyonce\nhttps://www.facebook.com/Beyonce\nhttps://twitter.com/Beyonce\n\nLYRICS:\nIntro (Beyoncé):\nQueen B, want no smoke with me (okay)\nBeen turnt this motherfucker up 800 degrees\nThe whole team eat, chef kiss cause she’s a treat (muah) Oh she’s so bougie bougie, bon appétit\n\nVerse 1 (Megan):\nI’m a savage\nAttitude nasty\nTalk big shit but my bank account match it\nHood but I’m classy, rich but I’m ratchet\nHaters kept my name in they mouth now they gaggin, ah Bougie, he said the way that thing move is a movie\nI told that boy we gotta keep it low, leave me the room key I done bled the block and now it’s hot , bitch I’m Tunchie\nA mood and I’m moody\n\nChorus (Megan and Beyoncé):\nI'm a savage (okay)\nClassy, bougie, ratchet (okay)\nSassy, moody, nasty\nActing stupid, what's happening? Bitch\nWhat's happening? Bitch\nI'm a savage, (okay)\nClassy, bougie, ratchet (okay)\nSassy, moody, nasty\nActing stupid, what's happening? Bitch (whoa, whoa) What's happening? Bitch (whoa, whoa)\n\nVerse 2 (Beyoncé):\nHips tick tock when I dance (dance)\nOn that demon time she might start a Only Fans \nBig B and that B stand for bands \nIf you wanna see some real ass baby here's your chance\nI said left cheek, right cheek, drop it low and then swang \nTexas up in this thang, put you up on this game\nIvy Park on my frame, gang, gang, gang, gang\nIf you don't jump to put jeans on, baby you don't feel my pain (hold up) Please don't get me hyped, write my name in ice \nCan't argue with these lazy bitches , I just raise my price\nI’m a BOSS, I'm a leader, I pull up in my 2 seater\nAnd my mama was a Savage \nNigga got the shit from Tina\n\nChorus (Megan and Beyoncé):\nI'm a savage (yeah)\nClassy, bougie, ratchet (okay)\nSassy, moody, nasty (okay)\nActing stupid, what's happening? Bitch What's happening? Bitch (whoa, whoa) I'm a savage, yeah\nClassy, bougie, ratchet, (okay)\nSassy, moody, nasty (okay)\nActing stupid, what's happening? Bitch What's happening? (whoa, whoa)\n\nPost Chorus (Megan and Beyoncé):\nLike Beyoncé, like me (like me)\nHe want a bitch like the Stallion with the knees\nHe be like damn how that thang moving in them jeans Even D4L couldn’t do it like me\n\nBridge (Beyoncé):\nOoh..\nI done got this body ready just for you\nGirl I hope he don’t catch me messing around with you Talking to myself in the mirror like bitch you my boo\n\nPre (Megan):\nI’m the shit ou\nI need a mop to clean the floor, it’s too much drip ou I keep a knot, I keep a watch ou\nLets play a game ,Simon says I’m still that bitch aye I’m still that bitch\n\nChorus (Megan and Beyoncé):\nI'm a savage (okay)\nClassy, bougie, ratchet (okay)\nSassy, moody, nasty (nasty)\nActing stupid, what's happening? Bitch (whoa, whoa) What's happening? Bitch (whoa, whoa)\nI'm a savage (okay)\nClassy, bougie, ratchet (okay)\nSassy, moody, nasty (nasty)\nActing stupid, what's happening? Bitch\nWhat's happening?\n\nVerse 3 (Beyoncé):\nI heard they asking for the queen , they brought some cameras in here I’m a bad bitch, she’s a savage, no comparison here\nI’ma flip my hair and look back while I twerk in the mirror\nAll this money in the room, think some scammers in here\nI’m coming straight up out the third Whip the whip like I stirred it\nWood grain, we swerving\nKeeping his mind all on these curves Coupe fly like a bird\nCold on ‘em like burrrr\nAlways keep my word\nNo I don’t do cross word\nStallion when I ride he like them hot girls with them hips huh...\nI hopped that shit the way I hopped out and slid\nI pop my shit now watch me pop up again\nI mop the floor now watch me sweep up these Ms\n\nChorus (Megan and Beyoncé):\nI'm a savage (yeah)\nClassy, bougie, ratchet (okay)\nSassy, moody, nasty (okay)\nActing stupid, what's happening? Bitch (okay), What's happening? Bitch (whoa, whoa)\nI'm a savage, yeah\nClassy, bougie, ratchet, yeah\nSassy, moody, nasty (okay)\nActing stupid, what's happening? Bitch (okay)\n\nOutro (Beyoncé):\nIt’s the Stallion and the Bee H-Town going down\n\n--\n#MeganTheeStallion #Savage #Beyonce #SUGA #OfficialAudio\n\n© 2020 1501 Certified Ent LLC under exclusive license to 300 Entertainment",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lEIqjoO0-Bs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lEIqjoO0-Bs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lEIqjoO0-Bs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/lEIqjoO0-Bs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/lEIqjoO0-Bs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chillax",
+        "playlistId": "PLDIoUOhQQPlXr63I_vwF9GD8sAKh77dWU",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "lEIqjoO0-Bs"
+        }
+      },
+      "contentDetails": {
+        "videoId": "lEIqjoO0-Bs",
+        "videoPublishedAt": "2020-04-29T19:06:00.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/nT89-NdRsVWb8tOej2SRd1f-sUw\"",
+      "id": "UExESW9VT2hRUVBsWHI2M0lfdndGOUdEOHNBS2g3N2RXVS4xNENDREYwM0NFNzY5NjhG",
+      "snippet": {
+        "publishedAt": "2020-03-06T00:10:08.000Z",
+        "channelId": "UCX9oPuvJYZsG8wnHTwOBVPA",
+        "title": "The Weeknd - Blinding Lights",
+        "description": "Official music video for The Weeknd \"Blinding Lights\" - available everywhere now: http://theweeknd.co/blindinglightsYD\n\n►Subscribe to The Weeknd on YouTube: http://theweeknd.co/subscribeYD \n\n►Get exclusive merch: https://shop.theweeknd.com/\n\n►Follow The Weeknd:\nhttps://twitter.com/theweeknd\nhttps://www.facebook.com/theweeknd\nhttps://www.instagram.com/theweeknd\nhttps://www.theweeknd.com\nSubscribe to YouTube Music: http://theweeknd.co/blindinglightsYD/youtubemusic \n\nDirector: Anton Tammi\n\nProduction Company: Somesuch \nExecutive Producer: Saskia Whinney\nProducer: Sarah Park\n\nDirector of Photography: Oliver Millar\n2nd Unit DP: Devin “Daddy” Karringten\nSteadicam Op: Niels Lindelien\nGaffer: Nizar Najm\nKey Grip: Marlow Nunez\nProduction Designer: Adam William Wilson\n\n1st AD: Kenneth Taylor\n\nEditor: Janne Vartia & Tim Montana\nPost Production Supervisor: Alec Ernest\nVFX: Mathematic\nColorist: Nicke Jacobsson\nSound Designer: Akseli Soini\n3D: Oscar Böckerman\nTitle Design: Aleksi Tammi\n\n\n►\"Blinding Lights\" Lyrics:\n\nYeah\nI been tryna call\nI been on my own for long enough\nMaybe you can show me how to love, maybe\nI'm going through withdrawals\nYou don't even have to do too much\nYou can turn me on with just a touch, baby\nI look around and Sin City's cold and empty (oh)\nNo one's around to judge me (oh)\nI can't see clearly when you're gone\nI said, ooh, I'm blinded by the lights\nNo, I can't sleep until I feel your touch\nI said, ooh, I'm drowning in the night\nOh, when I'm like this, you're the one I trust\nHey, hey, hey\nI'm running out of time\n'Cause I can see the sun light up the sky\nSo I hit the road in overdrive, baby\nOh, the city's cold and empty (oh)\nNo one's around to judge me (oh)\nI can't see clearly when you're gone\nI said, ooh, I'm blinded by the lights\nNo, I can't sleep until I feel your touch\nI said, ooh, I'm drowning in the night\nOh, when I'm like this, you're the one I trust\nI'm just walking by to let you know (by to let you know)\nI can never say it on the phone (say it on the phone)\nWill never let you go this time (ooh)\nI said, ooh, I'm blinded by the lights\nNo, I can't sleep until I feel your touch\nHey, hey, hey\nHey, hey, hey\nI said, ooh, I'm blinded by the lights\nNo, I can't sleep until I feel your touch\n\n#TheWeeknd #BlindingLights\n\n\nMusic video by The Weeknd performing Blinding Lights. © 2020 The Weeknd XO, Inc., manufactured and marketed by Republic Records, a division of UMG Recordings, Inc.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4NRXx6U8ABQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4NRXx6U8ABQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4NRXx6U8ABQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4NRXx6U8ABQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4NRXx6U8ABQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chillax",
+        "playlistId": "PLDIoUOhQQPlXr63I_vwF9GD8sAKh77dWU",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "4NRXx6U8ABQ"
+        }
+      },
+      "contentDetails": {
+        "videoId": "4NRXx6U8ABQ",
+        "videoPublishedAt": "2020-01-21T18:00:10.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/poPD3mqJq17nFGASU4XptNFn1cA\"",
+      "id": "UExESW9VT2hRUVBsWHI2M0lfdndGOUdEOHNBS2g3N2RXVS5BMTJGNjk0NkI3NDEyNkE1",
+      "snippet": {
+        "publishedAt": "2020-04-20T11:23:32.000Z",
+        "channelId": "UCX9oPuvJYZsG8wnHTwOBVPA",
+        "title": "Drake - Toosie Slide",
+        "description": "Music video by Drake performing Toosie Slide. © 2020 OVO, under exclusive license to Republic Records, a division of UMG Recordings, Inc.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xWggTb45brM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xWggTb45brM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xWggTb45brM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xWggTb45brM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xWggTb45brM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chillax",
+        "playlistId": "PLDIoUOhQQPlXr63I_vwF9GD8sAKh77dWU",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "xWggTb45brM"
+        }
+      },
+      "contentDetails": {
+        "videoId": "xWggTb45brM",
+        "videoPublishedAt": "2020-04-03T04:15:05.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/NcVVjUgxuxjLuG7Ho9hEaKL_Zqc\"",
+      "id": "UExESW9VT2hRUVBsWHI2M0lfdndGOUdEOHNBS2g3N2RXVS5BNjIxOThCMjIwNkEyMDU1",
+      "snippet": {
+        "publishedAt": "2020-02-29T10:50:53.000Z",
+        "channelId": "UCX9oPuvJYZsG8wnHTwOBVPA",
+        "title": "Roddy Ricch - The Box [Official Music Video]",
+        "description": "Roddy Ricch - The Box\r\nStream/Download - https://roddyricch.lnk.to/PleaseExcuseMeForBeingAntisocial\r\nGet official merch here: http://smarturl.it/RoddyRicchStore\nDon't wear no shoes in my house floor mat: http://ricchessentials.com\n\r\nFollow Roddy Ricch\r\nhttps://instagram.com/roddyricch\r\nhttps://twitter.com/roddyricch\r\nhttps://soundcloud.com/roddyricch\r\nhttps://facebook.com/RoddyRicch/\nhttp://roddyricch.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UNZqm3dxd2w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UNZqm3dxd2w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UNZqm3dxd2w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UNZqm3dxd2w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/UNZqm3dxd2w/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chillax",
+        "playlistId": "PLDIoUOhQQPlXr63I_vwF9GD8sAKh77dWU",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "UNZqm3dxd2w"
+        }
+      },
+      "contentDetails": {
+        "videoId": "UNZqm3dxd2w",
+        "videoPublishedAt": "2020-02-28T23:00:10.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/FLO7QaiXcVe7iO-YG-5GE1TX6tk\"",
+      "id": "UExESW9VT2hRUVBsWHI2M0lfdndGOUdEOHNBS2g3N2RXVS45ODM3QTU3OUI4ODJGM0ZE",
+      "snippet": {
+        "publishedAt": "2020-01-14T21:19:34.000Z",
+        "channelId": "UCX9oPuvJYZsG8wnHTwOBVPA",
+        "title": "Dua Lipa - Don't Start Now (Official Music Video)",
+        "description": "Get the new album Future Nostalgia : https://dualipa.co/futurenostalgia\n\nStream Break My Heart : https://dualipa.co/breakmyheart\n\n\nFollow me online:\nInstagram:  https://dualipa.co/instagram\nFacebook: http://dualipa.co/facebook\nTwitter: http://dualipa.co/twitter\nYouTube: https://dualipa.co/youtube\nSpotify: http://dualipa.co/spotify\nApple Music: https://dualipa.co/apple-music\nDeezer URL: http://dualipa.co/deezer\nAmazon Music: https://dualipa.co/amazonmusic",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oygrmJFKYZY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oygrmJFKYZY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oygrmJFKYZY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/oygrmJFKYZY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/oygrmJFKYZY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chillax",
+        "playlistId": "PLDIoUOhQQPlXr63I_vwF9GD8sAKh77dWU",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "oygrmJFKYZY"
+        }
+      },
+      "contentDetails": {
+        "videoId": "oygrmJFKYZY",
+        "videoPublishedAt": "2019-11-01T13:00:11.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/14I_Mbvw03xXWMqamci1FvZR3ww\"",
+      "id": "UExESW9VT2hRUVBsWHI2M0lfdndGOUdEOHNBS2g3N2RXVS5EODAxMDM2RDQxOUQwRkIy",
+      "snippet": {
+        "publishedAt": "2020-05-11T23:11:36.000Z",
+        "channelId": "UCX9oPuvJYZsG8wnHTwOBVPA",
+        "title": "Drake - Pain 1993 (Audio) ft. Playboi Carti",
+        "description": "Dark Lane Demo Tapes - available everywhere now: https://Drake.lnk.to/DLDTVD\n\nConnect with Drake:\nhttps://www.instagram.com/champagnepapi\nhttps://www.facebook.com/Drake\nhttps://twitter.com/drake\nhttps://www.drakeofficial.com\n\n#Drake #DarkLaneDemo #Pain1993\n\nMusic video by Drake performing Pain 1993 (Audio). © 2020 OVO, under exclusive license to Republic Records, a division of UMG Recordings, Inc.\n\nhttp://vevo.ly/5Zipln",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Q5jnuOCJvK0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Q5jnuOCJvK0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Q5jnuOCJvK0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Q5jnuOCJvK0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Q5jnuOCJvK0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chillax",
+        "playlistId": "PLDIoUOhQQPlXr63I_vwF9GD8sAKh77dWU",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Q5jnuOCJvK0"
+        }
+      },
+      "contentDetails": {
+        "videoId": "Q5jnuOCJvK0",
+        "videoPublishedAt": "2020-05-01T04:48:24.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/Pi8SlzZb6WWHQTJYL1XFtdeadoo\"",
+      "id": "UExESW9VT2hRUVBsWHI2M0lfdndGOUdEOHNBS2g3N2RXVS45NTFFM0RCNEI0ODA2MkEy",
+      "snippet": {
+        "publishedAt": "2019-09-12T23:24:44.000Z",
+        "channelId": "UCX9oPuvJYZsG8wnHTwOBVPA",
+        "title": "Post Malone - Circles",
+        "description": "Official music video by Post Malone performing “Circles” – off his new album 'Hollywood's Bleeding’ available now: https://PostMalone.lnk.to/hollywoodsbleedingYD\n\n►Subscribe to Post Malone: https://PostMalone.lnk.to/SubscribeYD\n\n►Get tickets to the Runaway tour here: http://www.postmalone.com/\n\n►Exclusive Merch: https://shop.postmalone.com/\n\n►Follow Post Malone Online\nInstagram: https://www.instagram.com/postmalone/\nFacebook: https://www.facebook.com/postmalone\nTwitter: https://twitter.com/postmalone\nWebsite: http://www.postmalone.com/\n\nOfficial “Circles” Lyrics\n\nWe couldn’t turn around\nTil we were upside down\nI’ll be the bad guy now\nBut know I ain’t too proud\nI couldn’t be there\nEven when I tried\nYou don’t believe it\nWe do this every time\n\nSeasons change and our love went cold\nFeed the flame because we can’t let go\nRunaway but we’re running in circles\nRunaway, runaway\nI dare you to do something\nI’m waiting on you again\nSo I don’t take the blame\nRunaway but we’re running in circles\nRunaway, runaway, runaway\n\nLet go\nI got a feeling that it’s time to let go\nI said so\nI knew that this was doomed from the get go\nYou thought that it was special, special\nBut it was just the sex though, the sex though\nAnd I still hear the echoes, the echoes\nI got a feeling that it’s time to let it go\nLet it go\n\nSeasons change and our love went cold\nFeed the flame because we can’t let go\nRunaway but we’re running in circles\nRunaway, runaway\nI dare you to do something\nI’m waiting on you again\nSo I don’t take the blame\nRunaway but we’re running in circles\nRunaway, runaway, runaway\n\nMaybe you don’t understand what I’m going thru\nIt’s only me, what you got to lose\nMake up your mind, tell me what are you gonna do\nIt’s only me, let it go\n\nSeasons change and our love went cold\nFeed the flame because we can’t let go\nRunaway but we’re running in circles\nRunaway, runaway\nI dare you to do something\nI’m waiting on you again\nSo I don’t take the blame\nRunaway but we’re running in circles\nRunaway, runaway, runaway\n\nVideo Director: Colin Tiley\nVideo Producer: Jamee Ranta\nfor Boy In The Castle\n\n#PostMalone #Circles #HollywoodsBleeding\n\nMusic video by Post Malone performing Circles. © 2019 Republic Records, a division of UMG Recordings, Inc.\n\nhttp://vevo.ly/jrYkRZ",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wXhTHyIgQ_U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wXhTHyIgQ_U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wXhTHyIgQ_U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wXhTHyIgQ_U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wXhTHyIgQ_U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chillax",
+        "playlistId": "PLDIoUOhQQPlXr63I_vwF9GD8sAKh77dWU",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "wXhTHyIgQ_U"
+        }
+      },
+      "contentDetails": {
+        "videoId": "wXhTHyIgQ_U",
+        "videoPublishedAt": "2019-09-03T17:00:11.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/cyhSsSDw_hOHWHmgI4cCRUkXxXM\"",
+      "id": "UExESW9VT2hRUVBsWHI2M0lfdndGOUdEOHNBS2g3N2RXVS4zNjkwOEVDNDhGOTA4QzE0",
+      "snippet": {
+        "publishedAt": "2020-05-11T23:11:57.000Z",
+        "channelId": "UCX9oPuvJYZsG8wnHTwOBVPA",
+        "title": "DaBaby – ROCKSTAR FT RODDY RICCH [Audio]",
+        "description": "DaBaby – ROCKSTAR FT RODDY RICH \nListen: https://smarturl.it/BlameItOnBaby\nSpotify: https://smarturl.it/BlameItOnBaby/spotify\nApple Music: https://smarturl.it/BlameItOnBaby/Applemusic\n \nConnect:\nhttps://instagram.com/dababy\nhttps://twitter.com/dababydababy\nhttps://www.facebook.com/babyjesus704/\n \n#Dababy #BlameItOnBaby",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/83xBPCw5hh4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/83xBPCw5hh4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/83xBPCw5hh4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/83xBPCw5hh4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Chillax",
+        "playlistId": "PLDIoUOhQQPlXr63I_vwF9GD8sAKh77dWU",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "83xBPCw5hh4"
+        }
+      },
+      "contentDetails": {
+        "videoId": "83xBPCw5hh4",
+        "videoPublishedAt": "2020-04-17T04:00:08.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/IT3hGwL9qrDC1hONNkF0etT8IPM\"",
+      "id": "UExESW9VT2hRUVBsWHI2M0lfdndGOUdEOHNBS2g3N2RXVS4yQjU2NEE0NUJCMEJCMjhB",
+      "snippet": {
+        "publishedAt": "2020-02-12T23:01:12.000Z",
+        "channelId": "UCX9oPuvJYZsG8wnHTwOBVPA",
+        "title": "Justin Bieber - Intentions (Official Video (Short Version)) ft. Quavo",
+        "description": "Changes: https://justinbieber.lnk.to/Changes\n\nWatch Official Video:\nhttps://justinbieber.lnk.to/IntentionsVideo\n\nJoin Justin Bieber in supporting Alexandria House's mission to help women and children move from crisis to stability by donating to the INTENTIONS Fund here: https://www.alexandriahouse.org/inten...\n\nFollow Justin:\nhttp://facebook.com/justinbieber\nhttp://twitter.com/justinbieber\nhttp://instagram.com/justinbieber\n\nSign up for Justin’s newsletter: http://justinbiebermusic.com\n\nDirected by: Michael D. Ratner\n\nProduction company: OBB Pictures\nExecutive Producers: Michael D. Ratner, Scott Ratner, Miranda Sherman, Kfir Goldberg and Andy Mininger\n\n\nMusic video by Justin Bieber performing Intentions (Official Video (Short Version)). © 2020 Def Jam Recordings, a division of UMG Recordings, Inc.\n\nhttp://vevo.ly/DHc2fp",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3AyMjyHu1bA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3AyMjyHu1bA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3AyMjyHu1bA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3AyMjyHu1bA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/3AyMjyHu1bA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chillax",
+        "playlistId": "PLDIoUOhQQPlXr63I_vwF9GD8sAKh77dWU",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "3AyMjyHu1bA"
+        }
+      },
+      "contentDetails": {
+        "videoId": "3AyMjyHu1bA",
+        "videoPublishedAt": "2020-02-12T20:00:01.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/Pmjah4NHE4qvDOys_jWnMzQhfZo\"",
+      "id": "UExESW9VT2hRUVBsWHI2M0lfdndGOUdEOHNBS2g3N2RXVS42NEE1NUNFRUEwNzI1Q0Y0",
+      "snippet": {
+        "publishedAt": "2020-05-03T10:33:00.000Z",
+        "channelId": "UCX9oPuvJYZsG8wnHTwOBVPA",
+        "title": "THE SCOTTS, Travis Scott, Kid Cudi - THE SCOTTS (FORTNITE ASTRONOMICAL EVENT)",
+        "description": "THE SCOTTS OUT NOW: https://THESCOTTS.lnk.to/THESCOTTS\n \nOFFICIAL STORE: https://shop.travisscott.com\n \nhttps://instagram.com/travisscott\nhttps://instagram.com/kidcudi\nhttps://instagram.com/cactusjack\nhttps://twitter.com/trvisXX\nhttps://twitter.com/KidCudi\nhttps://travisscott.com\nhttp://www.kidcudi.com/\n \n(C) 2020 Epic Records. With Cactus Jack / Wicked Awesome.\n\n#TravisScott #KidCudi #FORTNITE #ASTRONOMICAL #THESCOTTS #FortniteTravisScottEvent",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8oaW16lGNxE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8oaW16lGNxE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8oaW16lGNxE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8oaW16lGNxE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8oaW16lGNxE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chillax",
+        "playlistId": "PLDIoUOhQQPlXr63I_vwF9GD8sAKh77dWU",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "8oaW16lGNxE"
+        }
+      },
+      "contentDetails": {
+        "videoId": "8oaW16lGNxE",
+        "videoPublishedAt": "2020-04-24T04:00:02.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/H74osmtTyDJx0DunNGC6rK6vvt8\"",
+      "id": "UExESW9VT2hRUVBsWHI2M0lfdndGOUdEOHNBS2g3N2RXVS5DM0Q3OEIwOTA1N0YyNDEy",
+      "snippet": {
+        "publishedAt": "2020-01-22T01:48:33.000Z",
+        "channelId": "UCX9oPuvJYZsG8wnHTwOBVPA",
+        "title": "Future - Life Is Good (Official Music Video) ft. Drake",
+        "description": "\"Life is Good\" available at: https://smarturl.it/LifeIsGood.Future\nOfficial Audio: https://youtu.be/ZBOoVj6IW3s\n\nDirected by Director X\n\nFuture online:\nhttps://www.twitter.com/1future\nhttps://www.instagram.com/future\nhttps://www.soundcloud.com/futureisnow\nhttps://www.facebook.com/FutureOfficial\nhttp://www.freebandz.com/\n\n(C) 2020 Epic Records, a division of Sony Music Entertainment. With Freebandz.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/l0U7SxXHkPY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/l0U7SxXHkPY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/l0U7SxXHkPY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/l0U7SxXHkPY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/l0U7SxXHkPY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chillax",
+        "playlistId": "PLDIoUOhQQPlXr63I_vwF9GD8sAKh77dWU",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "l0U7SxXHkPY"
+        }
+      },
+      "contentDetails": {
+        "videoId": "l0U7SxXHkPY",
+        "videoPublishedAt": "2020-01-10T05:00:08.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/gBFymdzrMtnQeeiudJLCgYQyObU\"",
+      "id": "UExESW9VT2hRUVBsWHI2M0lfdndGOUdEOHNBS2g3N2RXVS5DNEVBNkRBRDUxQTVFNEYx",
+      "snippet": {
+        "publishedAt": "2020-01-14T21:20:05.000Z",
+        "channelId": "UCX9oPuvJYZsG8wnHTwOBVPA",
+        "title": "Harry Styles - Adore You (Official Video)",
+        "description": "Listen to Harry Styles’ new album ‘Fine Line’ now: https://HStyles.lnk.to/FineLineAY \n\nHARRY STYLES. LOVE ON TOUR. 2020.\nhttps://hstyles.co.uk/tour\n\nFollow Harry Styles:\nFacebook: https://HarryStyles.lnk.to/followFI\nInstagram: https://HarryStyles.lnk.to/followII\nTwitter: https://HarryStyles.lnk.to/followTI\nWebsite: https://HarryStyles.lnk.to/followWI\nSpotify: https://HarryStyles.lnk.to/followSI\nYouTube: https://HarryStyles.lnk.to/subscribeYD\n\nDirected by Dave Meyers\nWritten by Chris Shafer & Dave Meyers\nStarring Harry Styles\nScore by Kid Harpoon\nProduced by Nathan Scherrer\nLine Produced by Jo Coombes, Ellen De Faux, & Tom Gardner\nCinematographer Scott Cunningham\nProduction Designer Laura Ellis Cricks\nMr. Styles Styling by Harry Lambert\nCast Styling by Verity May Lane\nEdited by Alyssa Oh\nTelecine Stefan Sonnenfeld\nVFX by Mathematic \nSound Design Chris Afzal at Wave Studios\nPost Produced by Adam Parker & Nathan Scherrer\nVideo Commissioner Bryan Younce\n \nA Freenjoy Production \n \nFull Stop Management\nColumbia Records\nContent Creative\n \nThanks:\nAudri Kenley\nLS Productions\nSomesuch\nEntire cast and crew\n\nLyrics:\n\nWalk in your rainbow paradise\nStrawberry lipstick state of mind\nI get so lost inside your eyes\nWould you believe it?\n\nYou don’t have to say you love me\nYou don’t have to say nothing\nYou don’t have to say you’re mine\n\nHoney\nI’d walk through fire for you\nJust let me adore you\nOh honey\nI’d walk through fire for you\nJust let me adore you\nLike it’s the only thing I’ll ever do\nLike it’s the only thing I’ll ever do\n\nYour wonder under summer skies\nBrown skin and lemon over ice\nWould you believe it?\n\nYou don't have to say you love me\nI just wanna tell you something\nLately you’ve been on my mind\n\nHoney\nI’d walk through fire for you\nJust let me adore you\nOh honey\nI’d walk through fire for you\nJust let me adore you\nLike it’s the only thing I’ll ever do\nLike it’s the only thing I’ll ever do\n\nIt’s the only thing I’ll ever do\n\nI’d walk through fire for you\nJust let me adore you\nOh honey\nI’d walk through fire for you\nJust let me adore you\nLike it’s the only thing I’ll ever do\n\nI’d walk through fire for you\nJust let me adore you\nOh honey\nOh honey\n\nI’d walk through fire for you\nJust let me adore you\nLike it’s the only thing I’ll ever do\n\n#HarryStyles #AdoreYou #FineLine",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VF-r5TtlT9w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VF-r5TtlT9w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VF-r5TtlT9w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VF-r5TtlT9w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/VF-r5TtlT9w/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chillax",
+        "playlistId": "PLDIoUOhQQPlXr63I_vwF9GD8sAKh77dWU",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "VF-r5TtlT9w"
+        }
+      },
+      "contentDetails": {
+        "videoId": "VF-r5TtlT9w",
+        "videoPublishedAt": "2020-01-09T14:00:03.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/ItlTz2NsgDfb3LvTh9uo6hdNJy8\"",
+      "id": "UExESW9VT2hRUVBsWHI2M0lfdndGOUdEOHNBS2g3N2RXVS43OEE4Mjg3QUM3N0IxMUYy",
+      "snippet": {
+        "publishedAt": "2020-02-28T19:49:28.000Z",
+        "channelId": "UCX9oPuvJYZsG8wnHTwOBVPA",
+        "title": "Richie Krisak - Spend That Time feat. Ivar Lisinski (Lyrics / Lyric Video)",
+        "description": "Richie Krisak - Spend That Time with Ivar Lisinski (Lyrics / Lyric Video)\n🎧 Stream or Download : https://ocean-music.lnk.to/STT\n\n\n• LIT NETWORK  •\n\nSubscribe! : https://goo.gl/D6Pnv6\n🔔 Turn on the bell for new music :) \nFollow us on Instagram : https://www.instagram.com/lit.network/\n\n• Richie Krisak • \nSoundcloud : https://soundcloud.com/richiekrisakofficial\nFacebook: http://facebook.com/richiekrisak\nTwitter: http://twitter.com/richiekrisak\nInstagram: http://instagram.com/richiekrisak/\n\n• Ivar Lisinski •\nInstagram : https://instagram.com/ivarlisinski\n\n___________________________________________________\n\n• Richie Krisak - Spend That Time (Lyrics) :\n\nI feel light just like a feather\nBut someone’s holding me down\nMy whole life feels like a prison\nAnd I need to break out\n\nThere’s another man behind this corporate suit\nand tie\nSo much more than meets the eye\n\nToday the doors are locked\nBut in my mind they’re not\nGuess it’s time I’ll go and tell ’em \nI don’t give a fuck\nI’ll show them who’s the boss\n\nAin’t gonna waste no time\nGonna spend it all on me\nI’m gonna take what’s mine\nGot a date with destiny\nNo more ”pushing papers till the day I die”\nCuz it just ain’t right\nI’d rather Spend That Time on me\n\nI’m a lover, I’m a dreamer\nLike my mom raised me to be\nI just wanna make a difference\nLike my dad before me\n\nYou will never see this kid give up without a fight\n’Cause I’m not that kind of guy, so\n\nToday the doors are locked\nBut in my mind they’re not\nGuess it’s time I’ll go and tell ’em I don’t give a\nfuck\nI’ll show them who’s the boss\n\nAin’t gonna waste no time\nGonna spend it all on me\nI’m gonna take what’s mine\nGot a date with destiny\nNo more ”pushing papers till the day I die”\nCuz it just ain’t right\nI’d rather Spend That Time on me\n\nYeah, it just ain’t right\nI’d rather, I’d rather Spend That Time\nSpend That Time\nI’m gonna, I’m gonna Spend That Time\nSpend That Time\n\nAin’t gonna waste no time\nGonna spend it all on me\nI’m gonna take what’s mine\nGot a date with destiny\nNo more ”pushing papers till the day I die”\nCuz it just ain’t right\n\nI’d rather Spend That Time on me\n\n\ntags:\n#SpendThatTime #RichieKrisak #Lyrics #LyricVideo #LitNetwork\n\n✉  Submit your music : itslitnetwork@gmail.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tOaq1jsbyws/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tOaq1jsbyws/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tOaq1jsbyws/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tOaq1jsbyws/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/tOaq1jsbyws/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chillax",
+        "playlistId": "PLDIoUOhQQPlXr63I_vwF9GD8sAKh77dWU",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "tOaq1jsbyws"
+        }
+      },
+      "contentDetails": {
+        "videoId": "tOaq1jsbyws",
+        "videoPublishedAt": "2019-11-07T15:14:15.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/Yvusb-q5wz_QjlhETZwAhK5qIoQ\"",
+      "id": "UExESW9VT2hRUVBsWHI2M0lfdndGOUdEOHNBS2g3N2RXVS5BNkNBMDFDMkQzN0RDODRC",
+      "snippet": {
+        "publishedAt": "2020-02-03T19:48:20.000Z",
+        "channelId": "UCX9oPuvJYZsG8wnHTwOBVPA",
+        "title": "Billie Eilish - everything i wanted",
+        "description": "Listen to “everything i wanted”, out now: http://smarturl.it/everythingiwanted\n\nDirected by Billie Eilish\nDeveloped/Edited by John Paul Horstmann\nVFX by Ingenuity Studios\n\nFollow Billie Eilish:\nFacebook: https://www.facebook.com/billieeilish\nInstagram: https://www.instagram.com/billieeilish\nTwitter: https://twitter.com/billieeilish\nYouTube: https://www.youtube.com/BillieEilish\nEmail: http://smarturl.it/BillieEilishEmail\nStore: http://smarturl.it/BillieEilishStore\n\nMusic video by Billie Eilish performing everything i wanted. © 2020 Darkroom/Interscope Records",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EgBJmlPo8Xw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EgBJmlPo8Xw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EgBJmlPo8Xw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/EgBJmlPo8Xw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/EgBJmlPo8Xw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chillax",
+        "playlistId": "PLDIoUOhQQPlXr63I_vwF9GD8sAKh77dWU",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "EgBJmlPo8Xw"
+        }
+      },
+      "contentDetails": {
+        "videoId": "EgBJmlPo8Xw",
+        "videoPublishedAt": "2020-01-23T20:00:02.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/QM3tBODnkJbXTADvZxMLKByZ9hU\"",
+      "id": "UExESW9VT2hRUVBsWHI2M0lfdndGOUdEOHNBS2g3N2RXVS44M0YwNkI0MUFDMzZBMEZC",
+      "snippet": {
+        "publishedAt": "2019-09-24T22:10:30.000Z",
+        "channelId": "UCX9oPuvJYZsG8wnHTwOBVPA",
+        "title": "Lewis Capaldi - Someone You Loved",
+        "description": "Stream/download ’Someone You Loved’ https://lewiscapaldi.lnk.to/LC_SYLYD\n\nGet the extended edition of my debut album 'Divinely Uninspired To A Hellish Extent' here: https://lewiscapaldi.lnk.to/DUTAHE_Repack\n\nListen to my latest single “Before You Go” here: https://lewiscapaldi.lnk.to/beforeyougo\n\nTickets: http://tickets.lewiscapaldi.com\n\nDirector: Ozzie Pullin\nProducer: Byron McNally\nDirector of Photography: Ula Pontikos BSC\nEditor: Meg Thorne @ Cut & Run\nProduction Company: Partizan\nExec Producer: Mayling Wong\nColour: Jack McGinity @ CHEAT\n\n——————————————————\n\nLyrics \n\nI’m going under and this time I fear there’s no one to save me\nThis all or nothing really got a way of driving me crazy\n\nI need somebody to heal\nsomebody to know\nsomebody to have\nsomebody to hold\nIt’s easy to say\nbut it’s never the same\nI guess I kinda liked the way you numbed all the pain\n\nNow the day bleeds, into nightfall\nand you’re not here, to get me through it all\nI let my guard down and then you pulled the rug\nI was getting kinda used to being someone you loved\n\nI’m going under and this time I fear there’s no one to turn to\nThis all or nothing way of loving got me sleeping without you\nNow I need somebody to know \nsomebody to heal \nsomebody to have \njust to know how it feels\nIt’s easy to say\nbut it’s never the same\nI guess I kinda liked the way you helped me escape\n\nNow the day bleeds, into nightfall \nand you’re not here, to get me through it all\nI let my guard down and then you pulled the rug\nI was getting kinda used to being someone you loved\n\nAnd I tend to close my eyes when it hurts sometimes\nI fall into your arms \nI'll be safe in your sound til I come back around\n\nFor now the day bleeds, into nightfall \nand you’re not here, to get me through it all\nI let my guard down and then you pulled the rug\nI was getting kinda used to being someone you loved\n\nBut now the day bleeds, into nightfall \nand you’re not here, to get me through it all\nI let my guard down and then you pulled the rug\nI was getting kinda used to being someone you loved\n\nI let my guard down and then you pulled the rug\nI was getting kinda used to being someone you loved\n\n——————————————————\n\nLewis Capaldi \nSubscribe to Lewis: https://www.youtube.com/channel/UCveF...\nLike Lewis on Facebook: https://www.facebook.com/lewiscapaldi/\nFollow Lewis on Twitter: https://twitter.com/LewisCapaldi\nFollow Lewis on Instagram: https://www.instagram.com/lewiscapaldi/\nFollow Lewis online: https://www.lewiscapaldi.com/ \n\n#LewisCapaldi #SomeoneYouLoved #OfficialVideo\n\nMusic video by Lewis Capaldi performing Someone You Loved. © 2019 Universal Music GmbH",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zABLecsR5UE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zABLecsR5UE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zABLecsR5UE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zABLecsR5UE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zABLecsR5UE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chillax",
+        "playlistId": "PLDIoUOhQQPlXr63I_vwF9GD8sAKh77dWU",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "zABLecsR5UE"
+        }
+      },
+      "contentDetails": {
+        "videoId": "zABLecsR5UE",
+        "videoPublishedAt": "2019-08-29T17:00:11.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/R0eT1rUw8c5MGLViwSioS7mMqYE\"",
+      "id": "UExESW9VT2hRUVBsWHI2M0lfdndGOUdEOHNBS2g3N2RXVS4yRjFEQzg0OTlBMkEyMENE",
+      "snippet": {
+        "publishedAt": "2020-02-12T23:05:29.000Z",
+        "channelId": "UCX9oPuvJYZsG8wnHTwOBVPA",
+        "title": "Arizona Zervas - ROXANNE (Official Video)",
+        "description": "Listen to “ROXANNE” now: https://ArizonaZervas.lnk.to/ROXANNE\n\nSee my first LA show ever on feb 24th at The Echo: https://ArizonaZervas.lnk.to/EchoAY\n\nFollow Me:\nTWITTER: https://Twitter.com/ArizonaZervas\nINSTAGRAM: https://Instagram.com/ArizonaZervas\nSPOTIFY: https://ArizonaZervas.lnk.to/spotify\nITUNES: https://ArizonaZervas.lnk.to/itunes\nSOUNDCLOUD: https://Soundcloud.com/ArizonaZervas\nTIK TOK: https://www.tiktok.com/@arizona.zervas\nWEBSITE: http://ArizonaZervas.Com\nSNAPCHAT: ArizonaZervas\n\nProd Co - FREENJOY\nDirector - Nicholas Jandora\nStory By – Arizona Zervas & Nicholas Jandora\nExecutive Producer - Nathan Scherrer\nProducer - Jeff Kopchia\nProducer/Commissioner – Saul Levitz\n \nDP - Ben Carey\nProduction Designer - Spencer Graves\nEditor - Nicholas Jandora\nColor - Sam Gursky\nVFX - JR Strickland @ Nocturnal FX\nAZ Stylist - Carie Wendel\n\nLYRICS:\nRoxanne \nRoxanne\nAll she wanna do is party all night\nGod damn\nRoxanne\nNever gunna love me but it’s alright\nShe think i’ma asshole\nShe think i’m a playa\nShe keep running back tho\nOnly cause i pay up\nRoxanne \nRoxanne \nAll she wanna do is party all night\n\nMet her at a party in the hills ya\nShe just wanna do it for the thrill ya\nShorty drive a poodle with no top aye\nBut if i throw this money she gone drop\n\nShe don’t wait in lines if it’s too long\nShe don’t drive the whip unless the roof off\nOnly wanna call when the cash out\nOnly take the pic when her ass out\n\nShe from \nMalibu \nMalibu\nIf you don’t gotta foreign then she laugh at you \nMalibu \nMalibu\nSpending daddy’s money with a attitude\n\nRoxanne \nRoxanne\nAll she wanna do is party all night\nGod damn\nRoxanne\nNever gunna love me but it’s alright\nShe think i’ma asshole\nShe think i’m a playa\nShe keep running back tho\nOnly cause i pay up\nRoxanne \nRoxanne \nAll she wanna do is party all night\n\n(I just wanna have fun!)\n\nIn LA ya \nGot no breaks ya\nLiving fast \nRicky bobby \nShake and bake ya\nSee the chain ya\nIssa lake ya \nSwipe the chase oo\nNow she wanna date ya\n\nStraight to nobu \nOn the coast oo\nShorty only like cocaine and whole foods \nSnappin all up on the gram ass goin crazy \nNow she wanna fuck me in the foreign going 80\n\nShe from \nMalibu \nMalibu\nIf you don’t gotta foreign then she laugh at you \nMalibu \nMalibu\nSpending daddy’s money with a attitude\n\nRoxanne \nRoxanne\nAll she wanna do is party all night\nGod damn\nRoxanne\nNever gunna love me but it’s alright\nShe think i’ma asshole\nShe think i’m a playa\nShe keep running back tho\nOnly cause i pay up\nRoxanne \nRoxanne \nAll she wanna do is party all night\n\n#ArizonaZervas #Roxanne",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/16YnOUnbE6s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/16YnOUnbE6s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/16YnOUnbE6s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/16YnOUnbE6s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/16YnOUnbE6s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chillax",
+        "playlistId": "PLDIoUOhQQPlXr63I_vwF9GD8sAKh77dWU",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "16YnOUnbE6s"
+        }
+      },
+      "contentDetails": {
+        "videoId": "16YnOUnbE6s",
+        "videoPublishedAt": "2020-02-12T17:00:11.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/tMHNxfGWE7PO7UqtKqpw9N6bCZE\"",
+      "id": "UExESW9VT2hRUVBsWHI2M0lfdndGOUdEOHNBS2g3N2RXVS5DMUM4MDIwOUM1QjAxMjEx",
+      "snippet": {
+        "publishedAt": "2019-11-26T13:17:15.000Z",
+        "channelId": "UCX9oPuvJYZsG8wnHTwOBVPA",
+        "title": "TONES AND I - DANCE MONKEY (OFFICIAL VIDEO)",
+        "description": "2nd single from debut EP 'The Kids Are Coming' out now.\nhttps://tonesandi.lnk.to/TheKidsAreComingYT\n\nTones And I - Dance Monkey - https://tonesandi.lnk.to/DanceMonkeyYT\n\nDirected by: Liam Kelly & Nick Kozakis\nDirector of Photography: Carl Allison\nMakeup by: Danielle Ruth\nProduced by: Visible Studios\nhttps://www.visiblestudios.com.au/\n\nDon't forget to subscribe to my channel: http://smarturl.it/TonesAndI.YT\n\nJoin the fan club: https://bit.ly/2tL6gAW\n\nFollow: \nhttps://www.tonesandi.com\nhttps://www.facebook.com/TONESANDI\nhttps://www.instagram.com/tonesandi\n\nContact Management Worldwide: \nLemon Tree Music + Artists Only\nmgmt@tonesandi.com\n\nLYRICS:\nThey say oh my god I see the way you shine \nTake your hands my dear and place them both in mine\nYou know you stopped me dead while I was passing by\nAnd now I beg to see you dance just one more time \nOhhh I \nSee you see you seen you every time \nand oh my I, I like you style \nYou, you make me make me make me wanna cry \nAnd now I beg to see you dance just one more time \n\nSo they say \nDance for me\nDance for me \nDance for me \nOh oh oh \nI’ve never seen anybody do the things you do before \nThey say\nMove for me \nMove for me \nMove for me \nEh eh eh \nAnd when you’re done i'll make you do it all again \n\nI said \nOh my god I see you walking by \nTake my hands my dear and look me in my eyes\nJust like a monkey I’ve been dancing my whole life \nBut you just beg to see me dance just one more time \nOoh I \nSee you see you seen you every time\nAnd oh my I, I like your style \nYou, you make me make me make me wanna cry \nAnd now I beg to see you dance just one more time \n\nSo they say \nDance for me\nDance for me \nDance for me \nOh oh oh\nI’ve never seen anybody do the things you do before \nThey say \nMove for me \nMove for me \nMove for me \nEh eh eh \nAnd when you’re done i'll make you do it all again\nThey say \nDance for me \nDance for me \nDance for me \nOh oh oh, oh oh oh oh \nI’ve never seen anybody do the things you do before \nThey say \nMove for me \nMove for me \nMove for me \nEh eh eh \nAnd when you’re done i'll make you do it all again\n\nOooooo\n\nThey say \nDance for me\nDance for me \nDance for me \nOh oh oh\nI’ve never seen anybody do the things you do before \nThey say \nMove for me \nMove for me \nMove for me \nEh eh eh \nAnd when you’re done i'll make you do it all again\nThey say \nDance for me \nDance for me \nDance for me \nOh oh oh, oh oh oh oh \nI’ve never seen anybody do the things you do before \nThey say \nMove for me \nMove for me \nMove for me \nEh eh eh \nAnd when you’re done i'll make you do it all again\nAll again",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/q0hyYWKXF0Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/q0hyYWKXF0Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/q0hyYWKXF0Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/q0hyYWKXF0Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/q0hyYWKXF0Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chillax",
+        "playlistId": "PLDIoUOhQQPlXr63I_vwF9GD8sAKh77dWU",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "q0hyYWKXF0Q"
+        }
+      },
+      "contentDetails": {
+        "videoId": "q0hyYWKXF0Q",
+        "videoPublishedAt": "2019-06-24T22:01:36.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/MY84OW4D5ikU2_4XblOVJgm3dsM\"",
+      "id": "UExESW9VT2hRUVBsWHI2M0lfdndGOUdEOHNBS2g3N2RXVS5CNzFFRjM0RTVGRDE4MDQ5",
+      "snippet": {
+        "publishedAt": "2019-12-07T12:41:06.000Z",
+        "channelId": "UCX9oPuvJYZsG8wnHTwOBVPA",
+        "title": "The Weeknd - Heartless (Official Video)",
+        "description": "Official music video for The Weeknd \"Heartless\" - available everywhere now: http://theweeknd.co/heartlessYD\n\n►Subscribe to The Weeknd on YouTube: http://theweeknd.co/subscribeYD \n\n►Follow The Weeknd:\nhttps://twitter.com/theweeknd\nhttps://www.facebook.com/theweeknd\nhttps://www.instagram.com/theweeknd\nhttps://www.theweeknd.com\n\nDirector: Anton Tammi\nProducers: Alli Maxwell & Elizabeth Gross\nExecutive Producer: Saskia Whinney\nProduction Company: Somesuch \n\nDirector of Photography: Erik Henriksson\nSteadicam: Niels Lindelien\nGaffer: Sean Hogan\nProduction Designer: Miranda Lorenz\nArt Director: Haley Appell\nEditor: Nick Rondeau @ Work Editorial\nVFX: Mathematic\nAddt'l VFX: JAM VFX\nColorist: Nicke Jacobsson\n3D: Oscar Böckerman\nTitles and Graphic Design: Aleksi Tammi\nPost Producer: Nat Vrandich\nKey Grip: Robert Exner \nProduction Supervisor: Danielle Billman\n\n►\"Heartless\" Lyrics:\n\nNever need a bitch, I’m what a bitch needs\nTrying to find the one that can fix me\nI’ve been dodging death in the six speed\nAmphetamine got my stummy feeling sickly\nYeah, I want it all now\nI’ve been running through the pussy, need a dog pound\nHundred models getting faded in the compound\nTrying to love me but they never get a pulse down\n\nCause I’m heartless and I’m back to my ways cause I’m heartless\nAll this money and this pain got me heartless\nLow life for life cause I’m heartless\nSaid I’m heartless\nTrying to be a better man but I’m heartless \nNever be a wedding plan for the heartless \nLow life for life cause I’m heartless\n\nSaid I’m heartless\nSo much pussy it be falling out the pocket\nMetro Boomin turn this hoe into a moshpit\nTesla pill got me flying like a cockpit\nYeah, I got her watching \nCall me up turn that pussy to a faucet\nDuffel bags full of drugs and rocket\nStix drunk but he never miss a target\nPhotoshoots I’m a star now\nI’m talking Time, Rolling Stone and Bazaar now\nSellin dreams to these girls with their guard down\nSeven years I’ve been swimming with the sharks now\n\nCause I’m heartless and I’m back to my ways cause I’m heartless\nAll this money and this pain got me heartless\nLow life for life cause I’m heartless\nSaid I’m heartless\nTrying to be a better man but I’m heartless \nNever be a wedding plan for the heartless \nLow life for life cause I’m heartless\n\nI lost my heart and my mind\nI try to always do right \nI thought I lost you this time\nYou just came back in my life\nYou never gave up on me\nI’ll never know what you see \nI don’t do well when alone \nYou hear it clear in my tone\n\nCause I’m heartless and I’m back to my ways cause I’m heartless\nAll this money and this pain got me heartless\nLow life for life cause I’m heartless\nSaid I’m heartless\nTrying to be a better man but I’m heartless \nNever be a wedding plan for the heartless \nLow life for life cause I’m heartless\n\n#TheWeeknd #Heartless",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1DpH-icPpl0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1DpH-icPpl0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1DpH-icPpl0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1DpH-icPpl0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1DpH-icPpl0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chillax",
+        "playlistId": "PLDIoUOhQQPlXr63I_vwF9GD8sAKh77dWU",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "1DpH-icPpl0"
+        }
+      },
+      "contentDetails": {
+        "videoId": "1DpH-icPpl0",
+        "videoPublishedAt": "2019-12-03T22:30:12.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/jwrz7zh5tvGw_43V9ltoJPGt7ks\"",
+      "id": "UExESW9VT2hRUVBsWHI2M0lfdndGOUdEOHNBS2g3N2RXVS42NkYzMkU0NDQ2MTM5NzVE",
+      "snippet": {
+        "publishedAt": "2019-10-08T14:31:09.000Z",
+        "channelId": "UCX9oPuvJYZsG8wnHTwOBVPA",
+        "title": "Maroon 5 - Memories (Official Video)",
+        "description": "“Memories” is out now:\nhttps://smarturl.it/MemoriesMaroon5\n\nFor more, visit:\nhttps://www.facebook.com/maroon5\nhttps://twitter.com/maroon5\nhttps://www.instagram.com/maroon5\n\nSign up for updates: http://smarturl.it/Maroon5.News\n\n#Maroon5 #Memories #M5\n\nMusic video by Maroon 5 performing Memories. © 2019 Interscope Records (222 Records)\n\nhttp://vevo.ly/wdiQiA",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SlPhMPnQ58k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SlPhMPnQ58k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SlPhMPnQ58k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/SlPhMPnQ58k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/SlPhMPnQ58k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chillax",
+        "playlistId": "PLDIoUOhQQPlXr63I_vwF9GD8sAKh77dWU",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "SlPhMPnQ58k"
+        }
+      },
+      "contentDetails": {
+        "videoId": "SlPhMPnQ58k",
+        "videoPublishedAt": "2019-10-08T14:00:10.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/_70Do3-TzBiMAp9YRs9TmU3thjY\"",
+      "id": "UExESW9VT2hRUVBsWHI2M0lfdndGOUdEOHNBS2g3N2RXVS4yREMyQThGRjREMUQzQ0Mw",
+      "snippet": {
+        "publishedAt": "2020-01-14T21:21:14.000Z",
+        "channelId": "UCX9oPuvJYZsG8wnHTwOBVPA",
+        "title": "blackbear - hot girl bummer [big budget music video]",
+        "description": "blackbear - hot girl bummer \n\nlisten: https://smarturl.it/hotgirlbummer\nspotify: https://smarturl.it/hotgirlbummer/spotify\napple music: https://smarturl.it/hotgirlbummer/applemusic\niTunes: https://smarturl.it/hotgirlbummer/itunes \n\nfollow bear: \nhttp://twitter.com/iamblackbear\nhttp://instagram.com/bear \nhttp://www.beartrap.la \n\n#blackbear #hotgirlbummer \n\nMusic video by blackbear performing hot girl bummer. © 2019 Beartrap, LLC",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5cPW0ggFq04/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5cPW0ggFq04/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5cPW0ggFq04/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5cPW0ggFq04/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5cPW0ggFq04/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chillax",
+        "playlistId": "PLDIoUOhQQPlXr63I_vwF9GD8sAKh77dWU",
+        "position": 20,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "5cPW0ggFq04"
+        }
+      },
+      "contentDetails": {
+        "videoId": "5cPW0ggFq04",
+        "videoPublishedAt": "2019-11-21T12:00:10.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/8mZ0cg-5PlfIp5vNIOvnFPhpwq8\"",
+      "id": "UExESW9VT2hRUVBsWHI2M0lfdndGOUdEOHNBS2g3N2RXVS4wNDRFRDhEQUJGNTg0RjI2",
+      "snippet": {
+        "publishedAt": "2019-10-15T00:31:54.000Z",
+        "channelId": "UCX9oPuvJYZsG8wnHTwOBVPA",
+        "title": "Dan + Shay, Justin Bieber - 10,000 Hours (Official Music Video)",
+        "description": "LISTEN EVERYWHERE:\nhttp://wmna.sh/10kHours",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Y2E71oe0aSM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Y2E71oe0aSM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Y2E71oe0aSM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Y2E71oe0aSM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Y2E71oe0aSM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chillax",
+        "playlistId": "PLDIoUOhQQPlXr63I_vwF9GD8sAKh77dWU",
+        "position": 21,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Y2E71oe0aSM"
+        }
+      },
+      "contentDetails": {
+        "videoId": "Y2E71oe0aSM",
+        "videoPublishedAt": "2019-10-04T17:00:11.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/ivb_gIU9W-4DKR_iGCYRl2IZXWw\"",
+      "id": "UExESW9VT2hRUVBsWHI2M0lfdndGOUdEOHNBS2g3N2RXVS44NDQ2Q0YyM0VBNzYxNTJD",
+      "snippet": {
+        "publishedAt": "2020-05-10T02:38:52.000Z",
+        "channelId": "UCX9oPuvJYZsG8wnHTwOBVPA",
+        "title": "Sam Creighton - Reaction (Official Quarantine Music Video)",
+        "description": "Reaction (Official Quarantine Video)\n\nWOWWWW What a time to be alive. This song perfectly describes what I have been feeling during this crazy time. We made this video via Zoom and Facetime, all shot on either an iPhone, or through a computer screen. It was so incredible to get creative in a new way, despite what we're all going through. Hope you enjoy!!!\n\nSong available here: https://tinyurl.com/ycpcprn4\n\nDirector - Shawn Binder\nProducer - Sam Creighton\nDirector of Photography - Shawn Binder\nEditor - Joe Desantis\nBig shout out to Facetime and ZOOM (or as Joe so cleverly edited in the video, \"Yoom\" lol) for allowing this video come to life during the times of social distancing. \n\nMusic video by Sam Creighton performing Reaction. © 2020 GNGR Records",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sJUwRsMvt6o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sJUwRsMvt6o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sJUwRsMvt6o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/sJUwRsMvt6o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/sJUwRsMvt6o/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chillax",
+        "playlistId": "PLDIoUOhQQPlXr63I_vwF9GD8sAKh77dWU",
+        "position": 22,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "sJUwRsMvt6o"
+        }
+      },
+      "contentDetails": {
+        "videoId": "sJUwRsMvt6o",
+        "videoPublishedAt": "2020-05-08T18:00:12.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/qbr-2qu2KoDoBa16Mlze6vnc6Ro\"",
+      "id": "UExESW9VT2hRUVBsWHI2M0lfdndGOUdEOHNBS2g3N2RXVS41M0YyRDc3OEFERDhEQjU2",
+      "snippet": {
+        "publishedAt": "2020-03-06T00:15:47.000Z",
+        "channelId": "UCX9oPuvJYZsG8wnHTwOBVPA",
+        "title": "Jonas Brothers - What A Man Gotta Do (Official Video)",
+        "description": "Official music video by Jonas Brothers performing \"What A Man Gotta Do\" - available everywhere now: https://JonasBrothers.lnk.to/WAMGDYD\n\n►Subscribe for more official content from Jonas Brothers: https://JonasBrothers.lnk.to/SubcribeYD \n\n►Exclusive Merch: https://shop.jonasbrothers.com/ \n\n►Follow Jonas Brothers Online\nInstagram: https://www.instagram.com/jonasbrothers/ \nFacebook: https://www.facebook.com/JonasBrothers/ \nTwitter: https://twitter.com/jonasbrothers \nWebsite: https://jonasbrothers.com/ \n\nVideo directed by Joseph Kahn\nVideo produced by Charleen Manca\nfor Supply & Demand\n\n►\"What A Man Gotta Do\" Lyrics:\n\nCut my heart about one, two times\nDon't need to question the reason, I'm yours, I'm yours\nI know the other lose a fight just to see you smile\n'Cause you got no flaws, no flaws\n\nI'm not tryin' to be your part-time lover\nSign me up for the full-time, I'm yours, all yours\n\nSo, what a man gotta do?\nWhat a man gotta do?\nTo be totally locked up by you\nWhat a man gotta say?\nWhat a man gotta pray?\nTo be your last good night and your first good day\nSo, what a man gotta do?\nWhat a man gotta do?\nTo be totally locked up by you\nWhat a man gotta do?\nWhat a man gotta prove?\nTo be totally locked up by you\n\nYou ain’t trying to be wasting time\nOn stupid people and cheap lines, I'm sure, I'm sure\nSo I'd give a million dollars just to go grab me by the collar\nAnd I’m gonna be lost, be lost\n\nI'm not tryin' to be your part-time lover\nSign me up for the full-time, I'm yours, I'm yours, woo!\n\nSo, what a man gotta do?\nWhat a man gotta do?\nTo be totally locked up by you\nWhat a man gotta say?\nWhat a man gotta pray?\nTo be your last good night and your first good day\nSo, what a man gotta do?\nWhat a man gotta do?\nTo be totally locked up by you\nWhat a man gotta do?\nWhat a man gotta prove?\nTo be totally locked up by you\n\nOoh-ooh-ooh-ooh-ooh-ooh-ooh-ooh-ooh\nOoh-ooh-ooh-ooh-ooh-ooh-ooh-ooh-ooh\nTell me what a man gotta do?\n\nSo, what a man gotta do? (What a man gotta do?)\nWhat a man gotta do? (What a man gotta do, yeah?)\nTo be totally locked up by you (Totally locked up by you)\nWhat a man gotta say? (What a man gotta say?)\nWhat a man gotta pray? (What a man gotta pray?)\nTo be your last good night and your first good day (Aay)\nSo, what a man gotta do? (What a man gotta do?)\nWhat a man gotta do? (Woah)\nTo be totally locked up by you (Totally locked up by you)\nWhat a man gotta do? (Hey, baby)\nWhat a man gotta prove? (What a man gotta prove?)\nTo be totally locked up by you (Totally locked up by you)\n\n#JonasBrothers #WhatAManGottaDo\n\n\nMusic video by Jonas Brothers performing What A Man Gotta Do. © 2020 Jonas Brothers Recording, Limited Liability Company, under exclusive license to Republic Records, a division of UMG Recordings, Inc.\n\nhttp://vevo.ly/Lzr7Wm",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XejVB_fba04/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XejVB_fba04/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XejVB_fba04/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XejVB_fba04/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/XejVB_fba04/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chillax",
+        "playlistId": "PLDIoUOhQQPlXr63I_vwF9GD8sAKh77dWU",
+        "position": 23,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "XejVB_fba04"
+        }
+      },
+      "contentDetails": {
+        "videoId": "XejVB_fba04",
+        "videoPublishedAt": "2020-01-17T05:00:11.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/p0L_3WfKLpwVl93xuQDMY7EdRCo\"",
+      "id": "UExESW9VT2hRUVBsWHI2M0lfdndGOUdEOHNBS2g3N2RXVS5CQkIyMUJFOUM2QzJERTlC",
+      "snippet": {
+        "publishedAt": "2019-11-26T13:17:09.000Z",
+        "channelId": "UCX9oPuvJYZsG8wnHTwOBVPA",
+        "title": "DaBaby - BOP on Broadway (Hip Hop Musical)",
+        "description": "BOP on Broadway \n\nDaBaby - BOP\nProduced by Jetsonmade\nVideo Produced by Reel Goats\nDir x Reel Goats\nEdited by Reel Goats\n\nShoutout every single dancer that came out to be great.Shout Cherry and Danileigh for the Choreography.\n\nMuch love to Paramount for letting us run wild on their studio lot. \n\nKirk Album Out Now. The Kirk Tour starts this weekend if you ain't got your tickets, go get them you bitch ass niggas.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/28hYUZMufDg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/28hYUZMufDg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/28hYUZMufDg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/28hYUZMufDg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/28hYUZMufDg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chillax",
+        "playlistId": "PLDIoUOhQQPlXr63I_vwF9GD8sAKh77dWU",
+        "position": 24,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "28hYUZMufDg"
+        }
+      },
+      "contentDetails": {
+        "videoId": "28hYUZMufDg",
+        "videoPublishedAt": "2019-11-15T16:32:59.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/YHT8M-52zcS4VIYIdGtRRzSvPsY\"",
+      "id": "UExESW9VT2hRUVBsWHI2M0lfdndGOUdEOHNBS2g3N2RXVS42QTdDRkRERUJDMUFDNEZC",
+      "snippet": {
+        "publishedAt": "2020-01-14T21:20:22.000Z",
+        "channelId": "UCX9oPuvJYZsG8wnHTwOBVPA",
+        "title": "Maren Morris - The Bones (Official Video)",
+        "description": "Listen to \"The Bones” by Maren Morris, available now on her second studio album, GIRL: http://smarturl.it/MMGIRL?IQid=youtube\n \nApple Music: http://smarturl.it/MMGIRL/applemusic?IQid=youtube\nSpotify: http://smarturl.it/MMGIRL/spotify?IQid=youtube\nAmazon Music: http://smarturl.it/MMGIRL/az?IQid=youtube\nYouTube Music: http://smarturl.it/MMGIRL/youtubemusic?IQid=youtube\nYouTube: http://smarturl.it/MMGIRL/youtube?IQid=youtube\nPandora: http://smarturl.it/MMGIRL/pandora?IQid=youtube\niTunes: http://smarturl.it/MMGIRL/itunes?IQid=youtube\nAll Retailers: http://smarturl.it/MMGIRL?IQid=youtube\n \nStay updated on Maren:\nOfficial website: http://www.marenmorris.com\nSubscribe: http://smarturl.it/MMyoutubesub?IQid=youtube\nFacebook: http://www.facebook.com/marenmorris\nTwitter: http://twitter.com/marenmorris\nInstagram: http://instagram.com/marenmorris\nJoin The HEROES Fan Club: http://smarturl.it/TheHEROESfanclub?IQid=youtube\nShop: http://smarturl.it/MarenMorrisShop?IQid=youtube\n \n#MarenMorris #TheBones #GIRL",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gvPMVKUI9go/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gvPMVKUI9go/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gvPMVKUI9go/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/gvPMVKUI9go/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/gvPMVKUI9go/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chillax",
+        "playlistId": "PLDIoUOhQQPlXr63I_vwF9GD8sAKh77dWU",
+        "position": 25,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "gvPMVKUI9go"
+        }
+      },
+      "contentDetails": {
+        "videoId": "gvPMVKUI9go",
+        "videoPublishedAt": "2019-08-15T16:15:09.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/m2xkuMpUtTgENIhE8SkOxdWOONc\"",
+      "id": "UExESW9VT2hRUVBsWHI2M0lfdndGOUdEOHNBS2g3N2RXVS4zNDZGNTJDRDNDRDIzNDU5",
+      "snippet": {
+        "publishedAt": "2020-05-10T02:38:41.000Z",
+        "channelId": "UCX9oPuvJYZsG8wnHTwOBVPA",
+        "title": "Logan Alexandra - Realized I Don't Need You (Official Video)",
+        "description": "Hope you enjoy this music video as much as we did making it! \n\n“Realized I Don’t Need You” is out now:\nhttps://ampl.ink/emqAp\n\n(this video was filmed before the orders of social distancing were in place) \n\nDirector - Ryan Brennan\nCinematographer - Isaac O’Farrell & Bowen Moreno \n\nCast:\nLogan Alexandra as Logan Alexandra\nKeys- Abby Macintyre\nGuitarist - Matt McCartin\nDrummer - Max Stabile\nAbby Neighbors\nIsiah Johnson\n\nWritten and preformed by Logan Alexandra \nSong Produced by Chris Calderon \n\nsee end of video for full credits!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tKoG5DO76ww/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tKoG5DO76ww/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tKoG5DO76ww/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tKoG5DO76ww/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/tKoG5DO76ww/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chillax",
+        "playlistId": "PLDIoUOhQQPlXr63I_vwF9GD8sAKh77dWU",
+        "position": 26,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "tKoG5DO76ww"
+        }
+      },
+      "contentDetails": {
+        "videoId": "tKoG5DO76ww",
+        "videoPublishedAt": "2020-04-18T00:33:32.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/Lg6iUiemCzxtiRNF0YTEHfsv57c\"",
+      "id": "UExESW9VT2hRUVBsWHI2M0lfdndGOUdEOHNBS2g3N2RXVS5CQUUxNDNDQTFCNTFGN0NC",
+      "snippet": {
+        "publishedAt": "2020-03-06T00:14:49.000Z",
+        "channelId": "UCX9oPuvJYZsG8wnHTwOBVPA",
+        "title": "The Weeknd - After Hours (Audio)",
+        "description": "Official audio for The Weeknd \"After Hours\" - available everywhere now: http://theweeknd.co/afterhours-single\n\n►Subscribe to The Weeknd on YouTube: http://theweeknd.co/subscribeYD \n\n►Follow The Weeknd:\nhttps://twitter.com/theweeknd\nhttps://www.facebook.com/theweeknd\nhttps://www.instagram.com/theweeknd\nhttps://www.theweeknd.com\nSubscribe to YouTube Music: http://theweeknd.co/afterhours-singleYD/...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ygTZZpVkmKg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ygTZZpVkmKg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ygTZZpVkmKg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ygTZZpVkmKg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ygTZZpVkmKg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chillax",
+        "playlistId": "PLDIoUOhQQPlXr63I_vwF9GD8sAKh77dWU",
+        "position": 27,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ygTZZpVkmKg"
+        }
+      },
+      "contentDetails": {
+        "videoId": "ygTZZpVkmKg",
+        "videoPublishedAt": "2020-02-19T05:00:26.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/HiUNmrFmlAfLsMajxHbJarzrUsw\"",
+      "id": "UExESW9VT2hRUVBsWHI2M0lfdndGOUdEOHNBS2g3N2RXVS43QzdDMkUyRTE2NEYzMjRD",
+      "snippet": {
+        "publishedAt": "2019-10-28T18:34:26.000Z",
+        "channelId": "UCX9oPuvJYZsG8wnHTwOBVPA",
+        "title": "Selena Gomez - Lose You To Love Me (Official Music Video)",
+        "description": "Get Selena's new album 'Rare', out now: http://smarturl.it/RARESG\n\nGet 'Lose You To Love Me,' out now: http://smarturl.it/LoseYouToLoveMe\nGet 'Look At Her Now': http://smarturl.it/LookAtHerNow\n\nListen On @applemusic #shotoniphone\nDirected by Sophie Muller\n\nFollow Selena:\nInstagram: https://www.instagram.com/selenagomez/\nTwitter: https://twitter.com/selenagomez\nFacebook: https://www.facebook.com/Selena\nTik Tok: https://www.tiktok.com/@selenagomez\nYouTube: https://smarturl.it/SelenaYT\n\nListen on Apple Music: https://smarturl.it/SGEssentials\nListen on Spotify: https://smarturl.it/SelenaGomezTheHitsSp\n\nGet exclusive Selena Gomez merch, available at: http://smarturl.it/SelenaStore\nSign-up to be the first to hear news from Selena: http://smarturl.it/SelenaGomez.News\nBest of Selena Gomez https://goo.gl/mgJg2s\nSelena Gomez Audio https://goo.gl/dmJYbd\n\nLYRICS\n\nYou promised the world and I fell for it \nI put you first and you adored it\nYou set fires to my forest\nAnd you let it burn \nSang off key in my chorus \nCause it wasn’t yours \nI saw the signs and I ignored it \nRose colored glasses all distorted \nYou set fire to my purpose\nAnd I let it burn \nYou got off on the hurtin’ \nWhen it wasn’t yours \nWe’d always go into it blindly\nI needed to lose you to find me \nThis dancing was killing me softly\nI needed to hate you to love me \n\nTo love love yeah\nTo love love yeah\nTo love yeah\nI needed to lose you to love me \nTo love love yeah\nTo love love yeah\nTo love yeah\nI needed to lose you to love me\nI gave my all and they all know it\nYou tore me down and now it’s showing \nIn two months you replaced us\nLike it was easy\nMade me think I deserved it\nIn the thick of healing \nWe’d always go into it blindly\nI needed to lose you to find me \nThis dancing was killing me softly \nI needed to hate you to love me \n\nTo love love yeah\nTo love love yeah\nTo love yeah\nI needed to lose you to love me \nTo love love yeah\nTo love love yeah\nTo love yeah\nI needed to lose you to love me \nYou promised the world and I fell for it \nI put you first and you adored it\nYou set fires to my forest\nAnd you let it burn \nSang off key in my chorus- \n\nTo love love yeah\nTo love love yeah\nTo love yeah\nI needed to hate you to love me\nTo love love yeah\nTo love love yeah\nTo love yeah\nI needed to lose you to love me\nTo love love yeah\nTo love love yeah\nTo love yeah\n\nAnd now the chapter is closed and done \nAnd now it’s goodbye\nIt’s goodbye for us\n\nMusic video by Selena Gomez performing Lose You To Love Me. © 2019 Interscope Records",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zlJDTxahav0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zlJDTxahav0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zlJDTxahav0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zlJDTxahav0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zlJDTxahav0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chillax",
+        "playlistId": "PLDIoUOhQQPlXr63I_vwF9GD8sAKh77dWU",
+        "position": 28,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "zlJDTxahav0"
+        }
+      },
+      "contentDetails": {
+        "videoId": "zlJDTxahav0",
+        "videoPublishedAt": "2019-10-23T04:00:11.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/vAChCP21K_ia90ks2jsEFugS2Ic\"",
+      "id": "UExESW9VT2hRUVBsWHI2M0lfdndGOUdEOHNBS2g3N2RXVS4xQTNBM0VERjQ0QTIzRUMz",
+      "snippet": {
+        "publishedAt": "2019-11-26T13:17:28.000Z",
+        "channelId": "UCX9oPuvJYZsG8wnHTwOBVPA",
+        "title": "Mustard - Ballin’ ft. Roddy Ricch",
+        "description": "'Perfect Ten' out now: http://smartURL.it/PerfectTen\n\nFollow Mustard:\nhttp://www.instagram.com/Mustard\nhttp://www.facebook.com/DJMustardOnTheBeat\nhttp://www.twitter.com/Mustard\n\n#Mustard #RoddyRicch #Ballin #PerfectTen\n\nMusic video by Mustard performing Ballin’. © 2019 10 Summers Records, Inc./Interscope Records\n\nhttp://vevo.ly/CuRI6I",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YS0h2-hy9rw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YS0h2-hy9rw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YS0h2-hy9rw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YS0h2-hy9rw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YS0h2-hy9rw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chillax",
+        "playlistId": "PLDIoUOhQQPlXr63I_vwF9GD8sAKh77dWU",
+        "position": 29,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "YS0h2-hy9rw"
+        }
+      },
+      "contentDetails": {
+        "videoId": "YS0h2-hy9rw",
+        "videoPublishedAt": "2019-10-02T16:00:06.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/KCHBY_S6d0rN4fnpaAD6h6L9EV0\"",
+      "id": "UExESW9VT2hRUVBsWHI2M0lfdndGOUdEOHNBS2g3N2RXVS4xRUE3NkZCRjhBNEFDRDA1",
+      "snippet": {
+        "publishedAt": "2020-02-12T23:01:43.000Z",
+        "channelId": "UCX9oPuvJYZsG8wnHTwOBVPA",
+        "title": "Camila Cabello - My Oh My (Official Music Video) ft. DaBaby",
+        "description": "\"Romance\" available at:  https://CamilaCabello.lnk.to/Romance\n\nFollow Camila: \nhttps://twitter.com/camila_cabello\nhttps://www.instagram.com/camila_cabello\nhttps://www.facebook.com/camilacabello\nhttps://www.camilacabello.com\n\n(C) 2020 Simco Ltd. under exclusive license to Epic Records, a division of Sony Music Entertainment",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6fd2kkLmSDQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6fd2kkLmSDQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6fd2kkLmSDQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6fd2kkLmSDQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6fd2kkLmSDQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chillax",
+        "playlistId": "PLDIoUOhQQPlXr63I_vwF9GD8sAKh77dWU",
+        "position": 30,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "6fd2kkLmSDQ"
+        }
+      },
+      "contentDetails": {
+        "videoId": "6fd2kkLmSDQ",
+        "videoPublishedAt": "2020-02-12T20:00:11.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/IooBJiiHUzu_8fYOMf_SjePhOPw\"",
+      "id": "UExESW9VT2hRUVBsWHI2M0lfdndGOUdEOHNBS2g3N2RXVS5FQjMwRUZGOTIyODI4MTlC",
+      "snippet": {
+        "publishedAt": "2020-01-09T11:20:37.000Z",
+        "channelId": "UCX9oPuvJYZsG8wnHTwOBVPA",
+        "title": "Justin Bieber - Yummy (Official Video)",
+        "description": "Changes: https://justinbieber.lnk.to/Changes\n\nFollow Justin: \nhttp://facebook.com/justinbieber\nhttp://twitter.com/justinbieber\nhttp://instagram.com/justinbieber\n\nSign up for Justin’s newsletter: http://justinbiebermusic.com\n\nDirected by Bardia Zeinali\nProduced by Roisin Audrey Moloney\nExecutive Producers: Danielle Hinde, Jason Cole\nVideo Commissioner: Yolande Geralds\nProduction Company: Doomsday Entertainment\nDirector of Photography: Ben Carey\nProduction Designer: Natalie Ziering\nProduction Manager: David Garcia\nProduction Coordinator: Tori Stosh\nChoreographer: Nick De Moura\nArtist Styling: Karla Welch\nArtist Grooming: Florido Basallo\nCast Styling: Gadir Rajab\nCast Make-up: Adam Burrell\nCast Hair: Lucas Wilson\nEdited by: William Town, Graham Patterson @ Modern Post\nColorist: Tim Masick @ Company 3\n\n#JustinBieber #Yummy #Changes\n\n \nMusic video by Justin Bieber performing Yummy (Official Video). © 2020 Def Jam Recordings, a division of UMG Recordings, Inc.\n \nhttp://vevo.ly/b5CIQg",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8EJ3zbKTWQ8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8EJ3zbKTWQ8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8EJ3zbKTWQ8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8EJ3zbKTWQ8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8EJ3zbKTWQ8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chillax",
+        "playlistId": "PLDIoUOhQQPlXr63I_vwF9GD8sAKh77dWU",
+        "position": 31,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "8EJ3zbKTWQ8"
+        }
+      },
+      "contentDetails": {
+        "videoId": "8EJ3zbKTWQ8",
+        "videoPublishedAt": "2020-01-04T17:00:11.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/PEMSeYiQ94lp6JPMPRWha7nTGK4\"",
+      "id": "UExESW9VT2hRUVBsWHI2M0lfdndGOUdEOHNBS2g3N2RXVS5GQkU0MzAwMzE4NDRDRkVB",
+      "snippet": {
+        "publishedAt": "2020-02-28T19:49:02.000Z",
+        "channelId": "UCX9oPuvJYZsG8wnHTwOBVPA",
+        "title": "Hanne Leland - Stay (Lyrics)",
+        "description": "Hanne Leland - Stay (Lyrics)\n\n• LIT NETWORK  •\n\nSubscribe! : https://goo.gl/D6Pnv6\n🔔 Turn on the bell for new music :) \nFollow us on Instagram : https://www.instagram.com/lit.network/\n\n🎧  Stream/Download: \niTunes: https://itun.es/no/t2lZD\nSpotify: https://goo.gl/eHsa8u\n\n• Hanne Leland • \nhttp://www.hanneleland.com\nhttp://www.facebook.com/hannelelandmusic\nhttp://www.twitter.com/hanne_leland\nhttp://www.instagram.com/hanneleland\n\n✖  The channel is created to promote talented artists & musicians, filmmakers & photographers.\n\n✉  Submit your music, artwork or fanart to : itslitnetwork@gmail.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EE-TQyOP9g0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EE-TQyOP9g0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EE-TQyOP9g0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/EE-TQyOP9g0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/EE-TQyOP9g0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chillax",
+        "playlistId": "PLDIoUOhQQPlXr63I_vwF9GD8sAKh77dWU",
+        "position": 32,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "EE-TQyOP9g0"
+        }
+      },
+      "contentDetails": {
+        "videoId": "EE-TQyOP9g0",
+        "videoPublishedAt": "2018-06-27T15:55:40.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/Jlz0h5YgXaJUp5zK8GMiGgorRsA\"",
+      "id": "UExESW9VT2hRUVBsWHI2M0lfdndGOUdEOHNBS2g3N2RXVS40RENGMkVDNTUyQzRDM0JC",
+      "snippet": {
+        "publishedAt": "2019-11-26T13:16:55.000Z",
+        "channelId": "UCX9oPuvJYZsG8wnHTwOBVPA",
+        "title": "Lil Baby - Woah (Official Audio)",
+        "description": "Stream/Download \"Woah\": https://qualitycontrol.lnk.to/WoahYD\n\nFollow Lil Baby Everywhere:\nhttps://www.instagram.com/lilbaby_1/\nhttps://twitter.com/lilbaby4PF\nhttps://www.facebook.com/4pflilbaby\n\nwww.qualitycontrolmusic.com\n\nMusic video by Lil Baby performing Woah (Audio). © 2019 Quality Control Music, LLC, under exclusive license to UMG Recordings, Inc.\n\nhttp://vevo.ly/yl7eP6",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iVVbokygD-A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iVVbokygD-A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iVVbokygD-A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/iVVbokygD-A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/iVVbokygD-A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chillax",
+        "playlistId": "PLDIoUOhQQPlXr63I_vwF9GD8sAKh77dWU",
+        "position": 33,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "iVVbokygD-A"
+        }
+      },
+      "contentDetails": {
+        "videoId": "iVVbokygD-A",
+        "videoPublishedAt": "2019-11-08T05:00:09.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/futyVOn_xoH6h010ihlz6u6-cK0\"",
+      "id": "UExESW9VT2hRUVBsWHI2M0lfdndGOUdEOHNBS2g3N2RXVS4zMjY5ODU0NEU2NENGMkE1",
+      "snippet": {
+        "publishedAt": "2020-01-14T21:22:20.000Z",
+        "channelId": "UCX9oPuvJYZsG8wnHTwOBVPA",
+        "title": "Roddy Ricch - High Fashion (feat. Mustard) [Official Audio]",
+        "description": "Roddy Ricch - High Fashion (feat. Mustard)\nStream - https://roddyricch.lnk.to/PleaseExcuseMeForBeingAntisocial\n\nFollow Roddy Ricch\nhttps://www.instagram.com/roddyricch\nhttps://twitter.com/roddyricch\nhttps://soundcloud.com/roddyricch\nhttps://www.facebook.com/RoddyRicch/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iGU66wsjIPA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iGU66wsjIPA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iGU66wsjIPA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/iGU66wsjIPA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/iGU66wsjIPA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chillax",
+        "playlistId": "PLDIoUOhQQPlXr63I_vwF9GD8sAKh77dWU",
+        "position": 34,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "iGU66wsjIPA"
+        }
+      },
+      "contentDetails": {
+        "videoId": "iGU66wsjIPA",
+        "videoPublishedAt": "2019-12-06T05:05:28.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/D1XINk0bgiUUZorwWnK9napjCIo\"",
+      "id": "UExESW9VT2hRUVBsWHI2M0lfdndGOUdEOHNBS2g3N2RXVS4yMDY2QkUyNDkxMEZBRkRC",
+      "snippet": {
+        "publishedAt": "2020-03-06T00:20:56.000Z",
+        "channelId": "UCX9oPuvJYZsG8wnHTwOBVPA",
+        "title": "Halsey - You should be sad",
+        "description": "Halsey’s new album ‘Manic’ out now! https://halsey.lnk.to/manicthealbumID\niTunes: https://halsey.lnk.to/manicthealbumID/iTunes\nSpotify: https://halsey.lnk.to/manicthealbumID/spotify \nApple Music: https://halsey.lnk.to/manicthealbumID/applemusic\nAmazon: https://halsey.lnk.to/manicthealbumID/amazon\nGoogle Play: https://halsey.lnk.to/manicthealbumID/google-play\n\nGet tickets to #ManicWorldTour! Each ticket purchase comes with a physical copy of ‘Manic’.\nhttps://halsey.lnk.to/MANICWorldTourID\n\nFollow Halsey –\nTwitter: http://twitter.com/halsey \nFacebook: https://www.facebook.com/HalseyMusic \nInstagram: http://instagram.com/iamhalsey\nSpotify: https://halsey.lnk.to/InMyHeadID\nOfficial Site: http://iamhalsey.com\n\n#halsey #manic #youshouldbesad\n\nMusic video by Halsey performing You should be sad. © 2020 Capitol Records, LLC",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8nBFqZppIF0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8nBFqZppIF0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8nBFqZppIF0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8nBFqZppIF0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8nBFqZppIF0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chillax",
+        "playlistId": "PLDIoUOhQQPlXr63I_vwF9GD8sAKh77dWU",
+        "position": 35,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "8nBFqZppIF0"
+        }
+      },
+      "contentDetails": {
+        "videoId": "8nBFqZppIF0",
+        "videoPublishedAt": "2020-01-10T05:00:12.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/lPCBt4qZe6Wfuife6TMgBkhUhFE\"",
+      "id": "UExESW9VT2hRUVBsWHI2M0lfdndGOUdEOHNBS2g3N2RXVS4yMTMwMjBBNDJEQTM0NUQ3",
+      "snippet": {
+        "publishedAt": "2019-10-03T17:37:52.000Z",
+        "channelId": "UCX9oPuvJYZsG8wnHTwOBVPA",
+        "title": "Lizzo - Good As Hell (Video)",
+        "description": "The official audio of \"Good As Hell (Official Video)\" by Lizzo\nDownload/Stream - https://Lizzo.lnk.to/GoodAsHellAY\nListen to Lizzo’s new album ‘Cuz I Love You’ out now!\nhttps://Lizzo.lnk.to/CuzILoveYouAY\n\nSubscribe for more content from Lizzo: \nhttps://lnk.to/SubscribeToLizzo\n\nFollow Lizzo\nhttps://instagram.com/f/lizzobeeating\nhttps://facebook.com/LizzoMusic\nhttps://twitter.com/lizzo\nhttps://soundcloud.com/lizzomusic\nhttp://lizzomusic.com\n\nThe official YouTube channel of Atlantic Records and Nice Life artist Lizzo. Subscribe for the latest music videos, performances, and more.\n\nBorn in Houston and raised in Detroit, Lizzo adopted her moniker in 2011 and fronted Lizzo & the Larva Ink after moving to Minneapolis. Her work began to intertwine with the city's indie scene, allowing her to work with artists like Gayngs and Doomtree.\n\nSince then, Lizzo has collaborated with a variety of creatives--Clean Bandit, Bastille, and Big Freedia, to name a few--and was named one of Forbes Magazine's 2018 \"30 Under 30\". Her top singles \"Good As Hell\" and \"Truth Hurts\" have gained over 34.5 million Spotify streams combined. In addition to headlining her own Good As Hell tour in 2017, Lizzo joined Haim on the Sister Sister Sister tour in 2018.\n\nSubscribe for the latest official music videos, official audio videos, performances, bts and more from Lizzo: https://lnk.to/SubscribeToLizzo\n\n#Lizzo #GoodAsHell #CoconutOil #OfficialVideo #AtlanticRecords #Atlantic\n\nListen to Best of Lizzo playlist ➤ https://bit.ly/3afMdhW\r\nWatch Lizzo’s Official Music Videos ➤ https://bit.ly/3bgDQ5y",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SmbmeOgWsqE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SmbmeOgWsqE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SmbmeOgWsqE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/SmbmeOgWsqE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/SmbmeOgWsqE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chillax",
+        "playlistId": "PLDIoUOhQQPlXr63I_vwF9GD8sAKh77dWU",
+        "position": 36,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "SmbmeOgWsqE"
+        }
+      },
+      "contentDetails": {
+        "videoId": "SmbmeOgWsqE",
+        "videoPublishedAt": "2016-05-11T15:02:07.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/ejwUF4izTIz20jyEyVjFNGh7UbY\"",
+      "id": "UExESW9VT2hRUVBsWHI2M0lfdndGOUdEOHNBS2g3N2RXVS5COTBCMTlDNDZDOTExNTc5",
+      "snippet": {
+        "publishedAt": "2020-02-28T19:49:57.000Z",
+        "channelId": "UCX9oPuvJYZsG8wnHTwOBVPA",
+        "title": "Topi Mandela - Mustang (Music Video)",
+        "description": "\u200bThe music video for Topi Mandela's \"Mustang\" single, produced by Eestbound & JuiceBangers.\n\n• LIT NETWORK  •\nSubscribe! : https://goo.gl/D6Pnv6\n🔔 Turn on the bell for new music :) \n\n🎧 Stream / Download : http://smarturl.it/MustangSingle\n\n• Follow Topi Mandela :\nTwitter: https://twitter.com/topimandela\nInstagram: https://www.instagram.com/topimandela/\nSoundcloud: https://soundcloud.com/topimandela\nYoutube : https://www.youtube.com/channel/UC5643_RVolar_b-c3htxg5w\n\n• A film by Calvin Herbst\n\n• Cinematography by Kai Dickson\n\nThe channel is created to promote talented artists & musicians, filmmakers & photographers.\n\n✉  Submit your content here : itslitnetwork@gmail.com\nFollow us on Instagram : https://www.instagram.com/lit.network/\nLIT Music\n\n\nTopi Mandela - Mustang Lyrics :\n\nLet me be your Mustang, shawty wanna ride\nYou can't bring me home, so enjoy the test drive\nSparking the ignition, vroom vroom, you arrive when you need to get away\n'Cause I make you feel alive\n\nLet me be your Mustang, shawty wanna ride\nYou can't bring me home, so enjoy the test drive\nSparking the ignition, vroom vroom, you arrive when you need to get away\n'Cause I make you feel alive\n\nLet me be your Mustang, shawty wanna ride\nYou can't bring me home, so enjoy the test drive\nSparking the ignition, vroom vroom, you arrive when you need to get away\n'Cause I make you feel alive\n\nTo be honest, I'm exhausted\nI was running on \"E\", now my ex wanna gas me up\nShe lost it\nUsed to be a sweet talking, slick walking lover boy\nNow, I'm heartless\nI know I ain't got the time to dedicate, but I play the game, regardless\nA little fun ain't harmless\nImpolite girl, ooh! Yeah!\nOne night girl, ooh! Yeah!\nMama told me, \"Trust me, that ain't the right girl,\" ooh! Yeah!\nTelling me you want a taste of the mocha\nWhen you lonely, you inviting me over\nTryna cuddle up when we on the sofa\nAsking me to stretch you out like it's yoga\nWoah!\nI know you ain't tryna introduce me to your fam\nI know you ain't tryna have a rapper as your man\nSnapping on me, like the crack of a whip\nGrinding gears like a stick\nSince you wanna trip, well\n\nx2\nLet me be your Mustang, shawty wanna ride\nYou can't bring me home, so enjoy the test drive\nSparking the ignition, vroom vroom, you arrive when you need to get away\n'Cause I make you feel alive\n\nLet me be your Mustang, your uh\nYour uh uh uh\nMustang, let me be your\nYour vroom vroom, skrr\nMustang, your uh\nYour uh uh uh\nMustang, let me be your\nYour vroom vroom vroom\n\nRevving up\nHorsepower, you can pony up\nLast minute, I can come in clutch\nI know you ain't looking for too much\nJust trust me, ain't no rush\nWe can cruise\nTime and place, you can choose\nI hope I don't blow a fuse\nBurning out for you\nI need more fuel\nDrop the top when you with me\nPromise that you won't forget me\nYou can get a little moody\nBad girl like Britney\nOut in public, you ignore me\nIndoors, you adore me\nSecrets you cannot afford in a two-door Ford when you bored\nHit me when it's late\nLeave me hanging all day\nBut, at night, you wanna play\nI know you ain't tryna date\nAll I'm saying is you snapping on me, like the crack of a whip\nGrinding gears like a stick\nSince you wanna trip, well\n\nx2\nLet me be your Mustang, shawty wanna ride\nYou can't bring me home, so enjoy the test drive\nSparking the ignition, vroom vroom, you arrive when you need to get away\n'Cause I make you feel alive",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fYCZrmfooGk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fYCZrmfooGk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fYCZrmfooGk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fYCZrmfooGk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fYCZrmfooGk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chillax",
+        "playlistId": "PLDIoUOhQQPlXr63I_vwF9GD8sAKh77dWU",
+        "position": 37,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "fYCZrmfooGk"
+        }
+      },
+      "contentDetails": {
+        "videoId": "fYCZrmfooGk",
+        "videoPublishedAt": "2018-04-15T15:08:12.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/8QJ9GJWMnRWi0xp9nVqBcyUOX9g\"",
+      "id": "UExESW9VT2hRUVBsWHI2M0lfdndGOUdEOHNBS2g3N2RXVS5GMkUzNjEzMkRDMTdDREMx",
+      "snippet": {
+        "publishedAt": "2020-03-06T00:15:18.000Z",
+        "channelId": "UCX9oPuvJYZsG8wnHTwOBVPA",
+        "title": "YoungBoy Never Broke Again - Lil Top [Official Music Video]",
+        "description": "YoungBoy Never Broke Again - Lil Top\nStill Flexin, Still Steppin OUT NOW!\nStream/Download: https://youngboy.lnk.to/StillFlexinStillSteppinID \n\nSubscribe for more official content from YoungBoy NBA: \nhttps://youngboy.lnk.to/Subscribe\n\nConnect with YoungBoy Never Broke Again:\nhttp://www.youngboynba.com\nhttps://www.facebook.com/nbayoungboy\nhttps://www.twitter.com/GGYOUNGBOY\nhttps://www.instagram.com/nba_youngboy\nhttps://www.soundcloud.com/nba-youngboy\n\nThe official YouTube channel of Atlantic Records artist YoungBoy Never Broke Again. Subscribe for the latest music videos, performances, and more.\n\n#YoungBoyNeverBrokeAgain #StillFlexinStillSteppin #LilTop",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lUmYlsulfYo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lUmYlsulfYo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lUmYlsulfYo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/lUmYlsulfYo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/lUmYlsulfYo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chillax",
+        "playlistId": "PLDIoUOhQQPlXr63I_vwF9GD8sAKh77dWU",
+        "position": 38,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "lUmYlsulfYo"
+        }
+      },
+      "contentDetails": {
+        "videoId": "lUmYlsulfYo",
+        "videoPublishedAt": "2020-02-21T05:02:01.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/NmsKR3aTmJdyiycpBa4D0Iv_7nk\"",
+      "id": "UExESW9VT2hRUVBsWHI2M0lfdndGOUdEOHNBS2g3N2RXVS40QTE4NjI2MzAzQjU5OTAx",
+      "snippet": {
+        "publishedAt": "2020-01-15T18:55:30.000Z",
+        "channelId": "UCX9oPuvJYZsG8wnHTwOBVPA",
+        "title": "Trevor Daniel - Falling (Official Music Video)",
+        "description": "Stream Falling: https://smarturl.it/TDFalling\n\nFollow Trevor Daniel:\n►Instagram: https://www.instagram.com/iamtrevordaniel/\n►Twitter:https://twitter.com/Iamtrevordaniel\n►Soundcloud: https://soundcloud.com/iamtrevordaniel\n►YouTube:https://www.youtube.com/channel/UCLvAxkjgDXIrO-IDNIBgnEg\n\n[Intro]\nOh\nOoh, ooh\n\n[Chorus]\nMy last made me feel like I would never try again\nBut when I saw you, I felt something I never felt\nCome closer, give you all my love\nIf you treat me right, baby, I'll give you everything\nMy last made me feel like I would never try again\nBut when I saw you, I felt something I never felt\nCome closer, give you all my love\nIf you treat me right, baby, I'll give you everything\n\n[Verse]\nTalk to me, I need to hear you need me like I need ya\nFall for me, I wanna know you feel how I feel for you, love\nBefore you, baby, I was numb, drown out pain by pourin' up\nSpeedin' fast on the run, never wanna get caught up\nNow you're the one that I'm callin'\nSwore that I'd never forget, don't think I'm just talkin'\nI think I might go all in, no exceptions, girl, I need ya\n\n[Bridge]\nThink I'm out of my mind, 'cause I can't get enough\nOnly one that I give my time, 'cause I got eyes for ya\nMight make an exception for ya, 'cause I been feelin' ya\nThink I might be out of my mind, I think that you're the one\n\n[Chorus]\nMy last made me feel like I would never try again\nBut when I saw you, I felt something I never felt\nCome closer, give you all my love\nIf you treat me right, baby, I'll give you everything\nMy last made me feel like I would never try again\nBut when I saw you, I felt something I never felt\nCome closer, give you all my love\nIf you treat me right, baby, I'll give you everything\n\n[Outro]\nI'll never give my all again\n'Cause I'm sick of falling down\nWhen I open up and give my trust\nThey find a way to break it down\nBreak down\nTear me up inside\nWhen you break me down\n\n#falling #trevordaniel",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/L7mfjvdnPno/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/L7mfjvdnPno/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/L7mfjvdnPno/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/L7mfjvdnPno/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/L7mfjvdnPno/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chillax",
+        "playlistId": "PLDIoUOhQQPlXr63I_vwF9GD8sAKh77dWU",
+        "position": 39,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "L7mfjvdnPno"
+        }
+      },
+      "contentDetails": {
+        "videoId": "L7mfjvdnPno",
+        "videoPublishedAt": "2020-01-15T17:00:10.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/C7n1J0zxhpINvYnvDe6S5JclTGo\"",
+      "id": "UExESW9VT2hRUVBsWHI2M0lfdndGOUdEOHNBS2g3N2RXVS5GODY3RDUzODU3MUI2OTE2",
+      "snippet": {
+        "publishedAt": "2020-03-06T00:15:31.000Z",
+        "channelId": "UCX9oPuvJYZsG8wnHTwOBVPA",
+        "title": "POP SMOKE - DIOR (OFFICIAL VIDEO)",
+        "description": "Dior - (Official Video) by Pop Smoke \nDownload here: https://PopSmoke.lnk.to/MeetTheWooYD\n \nSubscribe to Pop Smoke’s channel:\nhttps://PopSmoke.lnk.to/Subscribe \n \nFollow Pop Smoke:\nhttps://instagram.com/realpopsmoke \nhttps://facebook.com/realpopsmoke\nhttps://twitter.com/popsmoke10\nhttps://soundcloud.com/biggavelipro\n \nCredits:\nVideo Director: JLShotThat\nVideo Producer: JLShotThat\nVideo Editor: JLShotThat\n \n#PopSmoke #Dior #RealPopSmoke\n \nMusic video by Pop Smoke performing Dior. Victor Victor Worldwide;  © 2019 Republic Records, a division of UMG Recordings, Inc.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oorVWW9ywG0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oorVWW9ywG0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oorVWW9ywG0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/oorVWW9ywG0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/oorVWW9ywG0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chillax",
+        "playlistId": "PLDIoUOhQQPlXr63I_vwF9GD8sAKh77dWU",
+        "position": 40,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "oorVWW9ywG0"
+        }
+      },
+      "contentDetails": {
+        "videoId": "oorVWW9ywG0",
+        "videoPublishedAt": "2019-09-03T21:00:11.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/T6lW3czmZcxmTonUDCH6GNqtWBQ\"",
+      "id": "UExESW9VT2hRUVBsWHI2M0lfdndGOUdEOHNBS2g3N2RXVS40MzFENzUxMTJGNDFEMDVB",
+      "snippet": {
+        "publishedAt": "2019-06-18T11:01:17.000Z",
+        "channelId": "UCX9oPuvJYZsG8wnHTwOBVPA",
+        "title": "Chris Brown - No Guidance (Audio) ft. Drake",
+        "description": "Official audio for \"No Guidance\" by Chris Brown\u200b featuring Drake\nChris Brown & Young Thug - \"Slime & B\" out now!: https://smarturl.it/SLIMEnB\u200b\n\nListen to Chris Brown: https://ChrisBrown.lnk.to/listenYD\u200b\n\nSubscribe to the official Chris Brown YouTube channel: https://ChrisBrown.lnk.to/subscribeYD\u200b\n\nWatch more videos by Chris Brown: https://ChrisBrown.lnk.to/listenYD/youtube\u200b\n\nFollow Chris Brown: \u200b\nFacebook: https://ChrisBrown.lnk.to/followFI \u200b\nTwitter: https://ChrisBrown.lnk.to/followTI \u200b\nInstagram: https://ChrisBrown.lnk.to/followII \u200b\nWebsite: https://ChrisBrown.lnk.to/followWI \u200b\nSpotify: https://ChrisBrown.lnk.to/followSI \u200b\n\nChorus:\nYou got it, girl, you got it (Ayy)\nYou got it, girl, you got it\n\n#ChrisBrown #Drake #NoGuidance #SLIMEnB\u200b",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oOni4BMeMp0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oOni4BMeMp0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oOni4BMeMp0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/oOni4BMeMp0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/oOni4BMeMp0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chillax",
+        "playlistId": "PLDIoUOhQQPlXr63I_vwF9GD8sAKh77dWU",
+        "position": 41,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "oOni4BMeMp0"
+        }
+      },
+      "contentDetails": {
+        "videoId": "oOni4BMeMp0",
+        "videoPublishedAt": "2019-06-08T04:00:02.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/teVZxwZO5kwnKsA51zoBb8Gso80\"",
+      "id": "UExESW9VT2hRUVBsWHI2M0lfdndGOUdEOHNBS2g3N2RXVS5FN0JGNzg3MzhFN0IyQjky",
+      "snippet": {
+        "publishedAt": "2020-01-14T21:27:17.000Z",
+        "channelId": "UCX9oPuvJYZsG8wnHTwOBVPA",
+        "title": "Sam Hunt - Kinfolks (Official Audio)",
+        "description": "Purchase Sam Hunt’s latest music: http://umgn.us/samhuntpurchase\nStream the latest from Sam Hunt: http://umgn.us/samhuntstream\nSign up to receive email updates from Sam Hunt: http://umgn.us/samhuntupdates\n\nBest of Sam Hunt: https://goo.gl/pvKaG4\nSubscribe here: https://goo.gl/pHwRMr\n\nWebsite: http://www.samhunt.com/\nFacebook: https://www.facebook.com/SamHuntMusic\nInstagram: https://www.instagram.com/samhuntmusic\nTwitter: https://twitter.com/samhuntmusic\n\n#SamHunt #CountryMusic #Kinfolks\n\nMusic video by Sam Hunt performing Kinfolks (Audio). © 2019 UMG Recordings, Inc.\n\nhttp://vevo.ly/0k79IC",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Wk7ITw2Bl8s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Wk7ITw2Bl8s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Wk7ITw2Bl8s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Wk7ITw2Bl8s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Wk7ITw2Bl8s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chillax",
+        "playlistId": "PLDIoUOhQQPlXr63I_vwF9GD8sAKh77dWU",
+        "position": 42,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Wk7ITw2Bl8s"
+        }
+      },
+      "contentDetails": {
+        "videoId": "Wk7ITw2Bl8s",
+        "videoPublishedAt": "2019-10-10T21:00:12.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/zP7DEaZUmPFLwdfAl1MsFwvvJPM\"",
+      "id": "UExESW9VT2hRUVBsWHI2M0lfdndGOUdEOHNBS2g3N2RXVS5CQjI2QTkzRThBMTMyRDE4",
+      "snippet": {
+        "publishedAt": "2019-06-23T15:12:21.000Z",
+        "channelId": "UCX9oPuvJYZsG8wnHTwOBVPA",
+        "title": "Shawn Mendes, Camila Cabello - Señorita",
+        "description": "Señorita: https://Senorita.lnk.to/OutNow \n\nCatch Shawn on tour this year: https://www.shawnmendesthetour.com/ \n\nStream/buy Shawn Mendes: The Album now: https://IslandRecs.lnk.to/ShawnMendes \n\nFollow Shawn Mendes: Twitter: https://twitter.com/shawnmendes Instagram: https://www.instagram.com/shawnmendes Facebook: https://www.facebook.com/ShawnMendesO... Website: https://www.shawnmendesofficial.com \n\nFollow Camila Cabello: Twitter: https://twitter.com/Camila_Cabello Instagram: https://www.instagram.com/camila_cabe... Facebook: https://www.facebook.com/camilacabello/ Website: https://www.camilacabello.com/ \n\nLyrics:\nI love it when you call me señorita\nI wish I could pretend I didn't need ya\nBut every touch is ooh la la la\nIt's true, la la la\nOoh, I should be running\nOoh, you keep me coming for you\n\nLand in Miami\nThe air was hot from summer rain\nSweat dripping off me\nBefore I even knew her name, la la la\nIt felt like ooh la la la\nYeah no\nSapphire moonlight\nWe danced for hours in the sand\nTequila sunrise\nHer body fit right in my hands, la la la\nIt felt like ooh la la la, yeah\n\nI love it when you call me señorita\nI wish I could pretend I didn't need you\nBut every touch is ooh la la la\nIt's true, la la la\nOoh, I should be running\nOoh, you know I love it when you call me señorita\nI wish it wasn't so damn hard to leave you\nBut every touch is ooh la la la\nIt's true, la la la\nOoh, I should be running\nOoh, you keep me coming for ya\n\nLocked in the hotel\nThere's just some things that never change\nYou say we're just friends\nBut friends don't know the way you taste, la la la\n'Cause you know it's been a long time coming\nDon't you let me fall\n\nOoh, when your lips undress me\nHooked on your tongue\nOoh love, your kiss is deadly\nDon't stop\n\nI love it when you call me señorita\nI wish I could pretend I didn't need you\nBut every touch is ooh la la la\nIt's true, la la la\nOoh, I should be running\nOoh, you know I love it when you call me señorita\nI wish it wasn't so damn hard to leave ya\nBut every touch is ooh la la la\nIt's true, la la la\nOoh, I should be running\nOoh, you keep me coming for you\nAll along I've been coming for you\nAnd I hope it meant something to you\nCall my name, I'll be coming for you\nComing for you, coming for you, coming for you\n\nFor you (ooh, she loves it when I come)\nFor you\n\nOoh, I should be running\nOoh, you keep me coming for you\n\n\nMusic video by Shawn Mendes, Camila Cabello performing Señorita. © 2019 Island Records, a division of UMG Recordings, Inc. \n\nhttp://vevo.ly/zZcRQm",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Pkh8UtuejGw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Pkh8UtuejGw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Pkh8UtuejGw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Pkh8UtuejGw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Pkh8UtuejGw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chillax",
+        "playlistId": "PLDIoUOhQQPlXr63I_vwF9GD8sAKh77dWU",
+        "position": 43,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Pkh8UtuejGw"
+        }
+      },
+      "contentDetails": {
+        "videoId": "Pkh8UtuejGw",
+        "videoPublishedAt": "2019-06-21T03:57:42.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/nQLqjQBTbwonj57J6vi8mLlZha4\"",
+      "id": "UExESW9VT2hRUVBsWHI2M0lfdndGOUdEOHNBS2g3N2RXVS5BMzFEMDEwMUVCMjExN0M5",
+      "snippet": {
+        "publishedAt": "2020-01-14T21:21:57.000Z",
+        "channelId": "UCX9oPuvJYZsG8wnHTwOBVPA",
+        "title": "Billie Eilish - bad guy",
+        "description": "Listen to \"bad guy\" from the debut album \"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?\", out now: http://smarturl.it/BILLIEALBUM\n\nFollow Billie Eilish:\nFacebook: https://www.facebook.com/billieeilish\nInstagram: https://www.instagram.com/billieeilish\nTwitter: https://twitter.com/billieeilish\nYouTube: https://www.youtube.com/BillieEilish\nEmail: http://smarturl.it/BillieEilishEmail\nStore: http://smarturl.it/BillieEilishStore\n\nMusic video by Billie Eilish performing bad guy. © 2019 Darkroom/Interscope Records\n\nhttp://vevo.ly/xedZeW",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DyDfgMOUjCI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DyDfgMOUjCI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DyDfgMOUjCI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DyDfgMOUjCI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/DyDfgMOUjCI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chillax",
+        "playlistId": "PLDIoUOhQQPlXr63I_vwF9GD8sAKh77dWU",
+        "position": 44,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "DyDfgMOUjCI"
+        }
+      },
+      "contentDetails": {
+        "videoId": "DyDfgMOUjCI",
+        "videoPublishedAt": "2019-03-29T16:00:04.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/jlwQZvBueXlIIR0B5K0pWLIVJto\"",
+      "id": "UExESW9VT2hRUVBsWHI2M0lfdndGOUdEOHNBS2g3N2RXVS5DMUY3RUI4QUJDRDY4NDA0",
+      "snippet": {
+        "publishedAt": "2020-03-06T00:16:26.000Z",
+        "channelId": "UCX9oPuvJYZsG8wnHTwOBVPA",
+        "title": "Eminem - Godzilla (Lyric Video) ft. Juice WRLD",
+        "description": "From the album Music To Be Murdered By, out now: https://smarturl.it/MTBMB\n\nhttp://eminem.com\nhttp://facebook.com/eminem\nhttp://twitter.com/eminem\nhttp://instagram.com/eminem\n\nhttp://shadyrecords.com\nhttp://facebook.com/shadyrecords\nhttp://twitter.com/shadyrecords\nhttp://instagram.com/shadyrecords\n\nDirected by Kyle Cogan\nVideo by SIMIAN.LA\nAnimators: Kyle Cogan, Brad Chmielewski, Logan Hennessy, Ryan Perea, Logan Powaski\n\n\nMusic video by Eminem performing Godzilla (Lyric Video). © 2020 Marshall B. Mathers III\n\nhttp://vevo.ly/eobcXG",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3qFvCPmee8U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3qFvCPmee8U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3qFvCPmee8U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3qFvCPmee8U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/3qFvCPmee8U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chillax",
+        "playlistId": "PLDIoUOhQQPlXr63I_vwF9GD8sAKh77dWU",
+        "position": 45,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "3qFvCPmee8U"
+        }
+      },
+      "contentDetails": {
+        "videoId": "3qFvCPmee8U",
+        "videoPublishedAt": "2020-03-04T05:00:00.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/uxmpPphVhzV9ad4im44DwofZg6U\"",
+      "id": "UExESW9VT2hRUVBsWHI2M0lfdndGOUdEOHNBS2g3N2RXVS44MURFOUQxQUU1MDJENzg3",
+      "snippet": {
+        "publishedAt": "2020-01-14T21:30:45.000Z",
+        "channelId": "UCX9oPuvJYZsG8wnHTwOBVPA",
+        "title": "Black Eyed Peas, J Balvin - RITMO (Bad Boys For Life)",
+        "description": "\"RITMO (Bad Boys For Life)\" single available at: https://smarturl.it/RITMO\n\nFollow Black Eyed Peas online\nFacebook: https://www.facebook.com/blackeyedpeas\nTwitter: https://twitter.com/bep \nInstagram: https://www.instagram.com/bep\nMore Videos: https://www.youtube.com/playlist?list=PLgZwaNdNnwLpNLAN8Kh2DoWsD1ViSlNDN\n\nFollow Bad Boys For Life online\nOfficial Site: https://www.badboysforlife.movie/?hs308=ritmo\nWatch Trailer: https://www.youtube.com/watch?time_continue=1&v=jKCj3XuPG8M\nFacebook: https://www.facebook.com/BadBoysMovie\nTwitter: https://twitter.com/BadBoys\nInstagram: https://www.instagram.com/BadBoys/\n\nVisit Bad Boys For Life Official Site\nLink: https://www.badboysforlife.movie/?hs308=ritmo",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EzKkl64rRbM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EzKkl64rRbM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EzKkl64rRbM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/EzKkl64rRbM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/EzKkl64rRbM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chillax",
+        "playlistId": "PLDIoUOhQQPlXr63I_vwF9GD8sAKh77dWU",
+        "position": 46,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "EzKkl64rRbM"
+        }
+      },
+      "contentDetails": {
+        "videoId": "EzKkl64rRbM",
+        "videoPublishedAt": "2019-10-11T04:00:04.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/AvE-5omAuxRhS8q2fZ-j8_PzisU\"",
+      "id": "UExESW9VT2hRUVBsWHI2M0lfdndGOUdEOHNBS2g3N2RXVS5DMjZENDQyQzBBQzFFNkMy",
+      "snippet": {
+        "publishedAt": "2020-01-14T21:29:52.000Z",
+        "channelId": "UCX9oPuvJYZsG8wnHTwOBVPA",
+        "title": "Kane Brown - Homesick (Official Video)",
+        "description": "Thank you to the California Army National Guard, those who submitted their personal videos, and all of our brave men and women in the armed forces.\n\nGet “Homesick” on Kane Brown’s new album, Experiment, available now!\n\nApple Music: http://smarturl.it/kbexperiment/applemusic?IQid=yt \niTunes: http://smarturl.it/kbexperiment/itunes?IQid=yt\nSpotify: http://smarturl.it/kbexperiment/spotify?IQid=yt\nAmazon Music: http://smarturl.it/kbexperiment/az?IQid=yt\nYouTube Music: http://smarturl.it/kbexperiment/youtubemusic?IQid=yt\nPandora: http://smarturl.it/kbexperiment/pandora?IQid=yt\n\nFollow Kane Brown: Official Website: http://kanebrownmusic.com \nFacebook: https://www.facebook.com/kaneallenbrown \nInstagram: https://www.instagram.com/kanebrown_music\nTwitter: https://twitter.com/kanebrown",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ukHikH_10CA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ukHikH_10CA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ukHikH_10CA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ukHikH_10CA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ukHikH_10CA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chillax",
+        "playlistId": "PLDIoUOhQQPlXr63I_vwF9GD8sAKh77dWU",
+        "position": 47,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ukHikH_10CA"
+        }
+      },
+      "contentDetails": {
+        "videoId": "ukHikH_10CA",
+        "videoPublishedAt": "2018-09-20T18:24:49.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/F1u5zA7Sf7zArkp1Ay9bSScyRWk\"",
+      "id": "UExESW9VT2hRUVBsWHI2M0lfdndGOUdEOHNBS2g3N2RXVS5BM0RBREQ3MUVFNzQxRkYy",
+      "snippet": {
+        "publishedAt": "2019-10-15T00:32:04.000Z",
+        "channelId": "UCX9oPuvJYZsG8wnHTwOBVPA",
+        "title": "Travis Scott - HIGHEST IN THE ROOM (Official Music Video)",
+        "description": "HIGHEST IN THE ROOM OUT NOW  https://travisscott.lnk.to/HIGHEST\nOFFICIAL STORE: https://shop.travisscott.com/\n\nDirected by Dave Meyers and Travis Scott\nProduced by Nathan Scherrer, Randy Donaldson, Sam Lecca\nProduction company: Freenjoy\n\nTravis Scott online:\nhttps://twitter.com/trvisXX\nhttps://www.instagram.com/travisscott/\nhttps://soundcloud.com/travisscott-2\nhttps://www.facebook.com/travisscottlaflame\nhttps://travisscott.com/\n\n(c) 2019 Epic Records/Sony. With Cactus Jack.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tfSS1e3kYeo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tfSS1e3kYeo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tfSS1e3kYeo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tfSS1e3kYeo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/tfSS1e3kYeo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chillax",
+        "playlistId": "PLDIoUOhQQPlXr63I_vwF9GD8sAKh77dWU",
+        "position": 48,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "tfSS1e3kYeo"
+        }
+      },
+      "contentDetails": {
+        "videoId": "tfSS1e3kYeo",
+        "videoPublishedAt": "2019-10-04T04:00:05.000Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/Xv7Sfu0jpnlEoqc-ZfhT8aUbJLU\"",
+      "id": "UExESW9VT2hRUVBsWHI2M0lfdndGOUdEOHNBS2g3N2RXVS4zOTA4MkQxMUM2NEYyNkVF",
+      "snippet": {
+        "publishedAt": "2019-08-13T20:27:15.000Z",
+        "channelId": "UCX9oPuvJYZsG8wnHTwOBVPA",
+        "title": "SHAED - Trampoline (Official Video)",
+        "description": "SHAED- Trampoline (Official Video) \n\nStream or download SHAED’s new EP “Melt” featuring “Trampoline” \nhttps://shaed.lnk.to/MELTEP\n\n“Trampoline”, as heard in the 2018 MacBook Air commercial. \n\nFollow:\nhttp://www.twitter.com/SHAEDband\nhttp://www.facebook.com/SHAEDband\nhttp://www.instagram.com/SHAEDband \nhttp://www.shaedband.com\n\n\nLyrics:\nI've been havin dreams\nJumpin on a trampoline\nFlippin in the air\nI never land just float there\nAs I'm looking up\nSuddenly the sky erupts\nFlames alight the trees\nSpread to fallin leaves\nNow they're right upon me\n\nWait if I'm on fire\nHow am I so deep in love?\nWhen I dream of dying\nI never feel so loved\n\nI've been having dreams\nSplashin in a summer stream\nTrip and I fall in\nI wanted it to happen\nMy body turns to ice\nCrushin weight of paradise\nSolid block of gold\nLying in the cold\nI feel right at home\n\nWait if I'm on fire\nHow am I so deep in love?\nWhen I dream of dying\nI never feel so loved\n\nDirected by Max Haben\n\nCreative Direction: Design Army \nCreative Director: Pum Lefebure \nProduction Company: Shanton & Co. \nFirst Assistant Director: Taylor Shanton\n\nDirector of Photography: Jake Colletta\n1st AC: Brandon Habuda\n2nd AC: Hadi Dimachkieh\nColorist: Jacob McKee\nGaffer: Jay Warrior\nKey Grip: Matthew Moniuszko\n\nArt Director: Heloise Condroyer\nArt Director: Gaby Hernandez\nWardrobe/Stylist: Christine de Lassus \nHair & Make-Up: Dale Johnson \nStudio & Set Design: AT YOLK\nStudio Manager: Olivia Prinzi\n\nSet Photographers: Matt Francisco & Rachel Knobloch\nProduction Assistants: Allie Enck, Tiffany Palacios, Samine Joudat, MJ Minutoli\n\nSpecial Thanks to:\nJohn Carrington\nCapital Camera\nThe Washington Source\nCaravan & Charlotte Film Rentals\nKarla Colletto Swimwear\nSaint-Germain Salon\nSidra Forman\nJulie Wolfe\n\nMusic video by SHAED performing Trampoline. © 2018 Photo Finish Records\n\nhttp://vevo.ly/ZT8tyz",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4h26oYuE2h0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4h26oYuE2h0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4h26oYuE2h0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4h26oYuE2h0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4h26oYuE2h0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chillax",
+        "playlistId": "PLDIoUOhQQPlXr63I_vwF9GD8sAKh77dWU",
+        "position": 49,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "4h26oYuE2h0"
+        }
+      },
+      "contentDetails": {
+        "videoId": "4h26oYuE2h0",
+        "videoPublishedAt": "2018-12-05T21:32:31.000Z"
+      }
+    }
+  ]
+}
