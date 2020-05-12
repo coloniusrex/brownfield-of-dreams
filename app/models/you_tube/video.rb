@@ -21,7 +21,7 @@ module YouTube
               title: item[:snippet][:title],
               description: item[:snippet][:description],
               position: item[:snippet][:position],
-              thumbnail: item[:snippet][:thumbnails][:standard][:url] })
+              thumbnail: item[:snippet][:thumbnails][:default][:url] })
       end
     end
   end
