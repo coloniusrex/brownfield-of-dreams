@@ -23,6 +23,7 @@ class Admin::VideosController < Admin::BaseController
         redirect_to edit_admin_tutorial_path(id: tutorial.id)
       elsif params[:video].nil?
         playlist = YouTube::Video.by_playlist_id(params[:playlistId])
+        tutorial.update(playlist_id: params[:playlistId])
         playlist.each do |item|
           tutorial.videos.create({title: item.title,
                                   description: item.description,
