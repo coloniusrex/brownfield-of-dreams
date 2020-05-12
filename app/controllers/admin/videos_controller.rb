@@ -28,10 +28,10 @@ class Admin::VideosController < Admin::BaseController
                                   description: item.description,
                                   thumbnail: item.thumbnail,
                                   video_id: item.id,
-                                  position: item.position})
+                                  position: item.position,
+                                  tutorial_id: params[:tutorial_id]})
         end
         flash[:success] = "Tutorial created. #{view_context.link_to 'View it here', tutorial_path(tutorial)}."
-
         redirect_to admin_dashboard_path
       end
     rescue StandardError

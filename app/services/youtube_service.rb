@@ -6,13 +6,13 @@ class YoutubeService
 
     data = {id: id, title: json[:items].first[:snippet][:title],
       description: json[:items].first[:snippet][:description],
-      thumbnail: json[:items].first[:snippet][:thumbnails][:maxres]}
+      thumbnail: json[:items].first[:snippet][:thumbnails][:standard][:url]}
   end
 
   def playlist_info(id)
     params = { part: 'snippet,contentDetails', playlistId: id, maxResults: 50 }
 
-    get_json('youtube/v3/playlistItems', params)
+    json = get_json('youtube/v3/playlistItems', params)
   end
 
   private
