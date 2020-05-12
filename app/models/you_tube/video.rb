@@ -1,13 +1,28 @@
 module YouTube
   class Video
-    attr_reader :thumbnail
+    attr_reader :title, :description, :thumbnail, :id, :position
 
     def initialize(data = {})
-      @thumbnail = data[:items].first[:snippet][:thumbnails][:high][:url]
+      @id = data[:id]
+      @title = data[:title]
+      @description = data[:description]
+      @thumbnail = data[:thumbnail]
+      @position = data[:position]
     end
 
     def self.by_id(id)
       new(YoutubeService.new.video_info(id))
+    end
+
+    def self.by_playlist_id(playlist_id)
+      playlist = YoutubeService.new.playlist_info(playlist_id)
+      playlist[:items].map do |item|
+          new({id: item[:contentDetails][:videoId],
+              title: item[:snippet][:title],
+              description: item[:snippet][:description],
+              position: item[:snippet][:position],
+              thumbnail: item[:snippet][:thumbnails][:default][:url] })
+      end
     end
   end
 end

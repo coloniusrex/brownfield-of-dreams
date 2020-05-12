@@ -1,6 +1,39 @@
 require 'rails_helper'
 
 describe 'User' do
+  before(:each) do
+    mock_response = File.read('spec/fixtures/github/github_user_repos_response.json')
+    stub_request(:get, "https://api.github.com/user/repos").
+    with(
+         headers: {'Authorization' => "token #{ENV['GITHUB_TOKEN']}"
+           }).
+      to_return(status: 200, body: mock_response, headers: {})
+
+    mock_response_user = File.read('spec/fixtures/github/github_user_response.json')
+      stub_request(:get, "https://api.github.com/user").
+           with(
+             headers: {
+         	  'Authorization'=>"token #{ENV['GITHUB_TOKEN']}"
+             }).
+           to_return(status: 200, body: mock_response_user, headers: {})
+
+    mock_response_followers = File.read('spec/fixtures/github/github_user_followers_response.json')
+    stub_request(:get, "https://api.github.com/user/followers").
+         with(
+           headers: {
+       	  'Authorization'=>"token #{ENV['GITHUB_TOKEN']}"
+           }).
+         to_return(status: 200, body: mock_response_followers, headers: {})
+
+    mock_response_following = File.read('spec/fixtures/github/github_user_following_response.json')
+    stub_request(:get, "https://api.github.com/user/following").
+         with(
+           headers: {
+       	  'Authorization'=>"token #{ENV['GITHUB_TOKEN']}"
+           }).
+         to_return(status: 200, body: mock_response_following, headers: {})
+  end
+
   it 'user can sign in' do
     user = create(:user)
 
@@ -22,6 +55,8 @@ describe 'User' do
   end
 
   it 'can log out', :js do
+    WebMock.allow_net_connect!
+
     user = create(:user)
 
     visit login_path
@@ -40,6 +75,7 @@ describe 'User' do
     expect(current_path).to eq(root_path)
     expect(page).to_not have_content(user.first_name)
     expect(page).to have_content('SIGN IN')
+
   end
 
   it 'is shown an error when incorrect info is entered' do
