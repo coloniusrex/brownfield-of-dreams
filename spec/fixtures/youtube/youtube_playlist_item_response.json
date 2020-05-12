@@ -1,256 +1,598 @@
 {
- "kind": "youtube#playlistItemListResponse",
- "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/ZkhLPg_DSxuX3CTwf4JOr1xj0UE\"",
- "nextPageToken": "CAUQAA",
- "pageInfo": {
-  "totalResults": 1,
-  "resultsPerPage": 5
- },
- "items": [
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/bAK784kZQZFSdfMOksJIpN_fFNw\"",
-   "id": "UExDbzhBME1BV3ZZbmxiaW5GeENJLVYzSXRDVVBGMFp1aS41NkI0NEY2RDEwNTU3Q0M2",
-   "snippet": {
-    "publishedAt": "2016-10-18T16:59:30.000Z",
-    "channelId": "UCkEsnx-qZuVMwRJrH-GXmVg",
-    "title": "Wicked - GRiZ (ft. Eric Krasno) | Good Will Prevail",
-    "description": "Official audio for \"Wicked\" by GRiZ (ft. Eric Krasno) off the Good Will Prevail album.\nGet the album: iTunes: http://geni.us/GWPitunes | GooglePlay: http://geni.us/GWPgoogleplay\nSubscribe to GRiZ: http://bit.ly/subGRiZ | Steam album free: http://bit.ly/GWPfree\n\nGood Will Prevail, also Available On:\nAmazon: http://geni.us/GWPamazon\nSpotify: http://geni.us/GRiZspotify\n\nFollow GRiZ On:\nFacebook: https://www.facebook.com/mynameisgriz\nSoundCloud: https://soundcloud.com/griz\nTwitter: https://twitter.com/mynameisGRiZ\nInstagram: https://instagram.com/mynameisgriz/\n\nGRiZ Website:\nHome: http://www.mynameisgriz.com/\nTour Dates: http://www.mynameisgriz.com/tour\nMusic: http://www.mynameisgriz.com/music\n\nListen To GRiZ On:\niTunes: http://apple.co/1LJ4wI1\nSpotify: http://bit.ly/1OqD9si\nGooglePlay: http://bit.ly/1KvLFzY\nAmazon: http://amzn.to/1Ti8Dnj\n\nWatch More GRiZ:\nGood Will Prevail (Full Album): http://bit.ly/2dy0Ba0\nSay It Loud (Full Album): http://bit.ly/1KrclEo\nOfficial Audio: http://bit.ly/21EWzOd\nRemixes: http://bit.ly/1T4YtGg\nLatest Uploads: http://bit.ly/2eNDyKw\nPopular Videos: http://bit.ly/1KrclEo",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/Qrh7Pd6Ei9M/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/Qrh7Pd6Ei9M/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/Qrh7Pd6Ei9M/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/Qrh7Pd6Ei9M/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     },
-     "maxres": {
-      "url": "https://i.ytimg.com/vi/Qrh7Pd6Ei9M/maxresdefault.jpg",
-      "width": 1280,
-      "height": 720
-     }
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "dSmUj50wAT0Kdj3M_zzZToFtp4Q",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "y9wwYG_bB65I3ThgcYBcOmJt3aw",
+      "id": "UExDbzhBME1BV3ZZbmxiaW5GeENJLVYzSXRDVVBGMFp1aS41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2016-10-18T16:59:30Z",
+        "channelId": "UCkEsnx-qZuVMwRJrH-GXmVg",
+        "title": "Wicked - GRiZ (ft. Eric Krasno) | Good Will Prevail",
+        "description": "Official audio for \"Wicked\" by GRiZ (ft. Eric Krasno) off the Good Will Prevail album.\nGet the album: iTunes: http://geni.us/GWPitunes | GooglePlay: http://geni.us/GWPgoogleplay\nSubscribe to GRiZ: http://bit.ly/subGRiZ | Steam album free: http://bit.ly/GWPfree\n\nGood Will Prevail, also Available On:\nAmazon: http://geni.us/GWPamazon\nSpotify: http://geni.us/GRiZspotify\n\nFollow GRiZ On:\nFacebook: https://www.facebook.com/mynameisgriz\nSoundCloud: https://soundcloud.com/griz\nTwitter: https://twitter.com/mynameisGRiZ\nInstagram: https://instagram.com/mynameisgriz/\n\nGRiZ Website:\nHome: http://www.mynameisgriz.com/\nTour Dates: http://www.mynameisgriz.com/tour\nMusic: http://www.mynameisgriz.com/music\n\nListen To GRiZ On:\niTunes: http://apple.co/1LJ4wI1\nSpotify: http://bit.ly/1OqD9si\nGooglePlay: http://bit.ly/1KvLFzY\nAmazon: http://amzn.to/1Ti8Dnj\n\nWatch More GRiZ:\nGood Will Prevail (Full Album): http://bit.ly/2dy0Ba0\nSay It Loud (Full Album): http://bit.ly/1KrclEo\nOfficial Audio: http://bit.ly/21EWzOd\nRemixes: http://bit.ly/1T4YtGg\nLatest Uploads: http://bit.ly/2eNDyKw\nPopular Videos: http://bit.ly/1KrclEo",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Qrh7Pd6Ei9M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Qrh7Pd6Ei9M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Qrh7Pd6Ei9M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Qrh7Pd6Ei9M/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Qrh7Pd6Ei9M/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "GRiZ",
+        "playlistId": "PLCo8A0MAWvYnlbinFxCI-V3ItCUPF0Zui",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Qrh7Pd6Ei9M"
+        }
+      },
+      "contentDetails": {
+        "videoId": "Qrh7Pd6Ei9M",
+        "videoPublishedAt": "2016-09-23T16:20:09Z"
+      }
     },
-    "channelTitle": "GRiZ",
-    "playlistId": "PLCo8A0MAWvYnlbinFxCI-V3ItCUPF0Zui",
-    "position": 0,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "Qrh7Pd6Ei9M"
-    }
-   },
-   "contentDetails": {
-    "videoId": "Qrh7Pd6Ei9M",
-    "videoPublishedAt": "2016-09-23T16:20:09.000Z"
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/Cc9oO8TwjdbDUHbzylqAmbIUOEA\"",
-   "id": "UExDbzhBME1BV3ZZbmxiaW5GeENJLVYzSXRDVVBGMFp1aS4yODlGNEE0NkRGMEEzMEQy",
-   "snippet": {
-    "publishedAt": "2016-10-18T17:15:25.000Z",
-    "channelId": "UCkEsnx-qZuVMwRJrH-GXmVg",
-    "title": "Can't Hold Me Down - GRiZ (ft. Tash Neal of The London Souls) | Good Will Prevail",
-    "description": "Official audio for \"Can't Hold Me Down\" by GRiZ (ft. Tash Neal) off the Good Will Prevail album.\nGet the track: iTunes: http://geni.us/CHMDitunes | GooglePlay: http://geni.us/CHMDgoogleplay\nSubscribe to GRiZ: http://bit.ly/subGRiZ | Steam Good Will Prevail free: http://bit.ly/GWPfree\n\n\"Can't Hold Me Down\", also Available On:\nDeezer: http://geni.us/CHMDdeezer\nSpotify: http://geni.us/CHMDspotify\n\nGood Will Prevail, Available On:\niTunes: http://geni.us/GWPitunes\nGooglePlay: http://geni.us/GWPgoogleplay\nAmazon: http://geni.us/GWPamazon\nSpotify: http://geni.us/GRiZspotify\n\nFollow GRiZ On:\nFacebook: https://www.facebook.com/mynameisgriz\nSoundCloud: https://soundcloud.com/griz\nTwitter: https://twitter.com/mynameisGRiZ\nInstagram: https://instagram.com/mynameisgriz/\n\nGRiZ Website:\nHome: http://www.mynameisgriz.com/\nTour Dates: http://www.mynameisgriz.com/tour\nMusic: http://www.mynameisgriz.com/music\n\nListen To GRiZ On:\niTunes: http://apple.co/1LJ4wI1\nSpotify: http://bit.ly/1OqD9si\nGooglePlay: http://bit.ly/1KvLFzY\nAmazon: http://amzn.to/1Ti8Dnj\n\nWatch More GRiZ:\nGood Will Prevail (Full Album): http://bit.ly/2dy0Ba0\nSay It Loud (Full Album): http://bit.ly/1KrclEo\nOfficial Audio: http://bit.ly/21EWzOd\nRemixes: http://bit.ly/1T4YtGg\nLatest Uploads: http://bit.ly/2eNDyKw\nPopular Videos: http://bit.ly/1KrclEo",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/KHohhuZXJR8/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/KHohhuZXJR8/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/KHohhuZXJR8/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/KHohhuZXJR8/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     },
-     "maxres": {
-      "url": "https://i.ytimg.com/vi/KHohhuZXJR8/maxresdefault.jpg",
-      "width": 1280,
-      "height": 720
-     }
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ct_CFVepjZhg8UTVe2fj16cpwic",
+      "id": "UExDbzhBME1BV3ZZbmxiaW5GeENJLVYzSXRDVVBGMFp1aS4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2016-10-18T17:15:25Z",
+        "channelId": "UCkEsnx-qZuVMwRJrH-GXmVg",
+        "title": "Can't Hold Me Down - GRiZ (ft. Tash Neal of The London Souls) | Good Will Prevail",
+        "description": "Official audio for \"Can't Hold Me Down\" by GRiZ (ft. Tash Neal) off the Good Will Prevail album.\nGet the track: iTunes: http://geni.us/CHMDitunes | GooglePlay: http://geni.us/CHMDgoogleplay\nSubscribe to GRiZ: http://bit.ly/subGRiZ | Steam Good Will Prevail free: http://bit.ly/GWPfree\n\n\"Can't Hold Me Down\", also Available On:\nDeezer: http://geni.us/CHMDdeezer\nSpotify: http://geni.us/CHMDspotify\n\nGood Will Prevail, Available On:\niTunes: http://geni.us/GWPitunes\nGooglePlay: http://geni.us/GWPgoogleplay\nAmazon: http://geni.us/GWPamazon\nSpotify: http://geni.us/GRiZspotify\n\nFollow GRiZ On:\nFacebook: https://www.facebook.com/mynameisgriz\nSoundCloud: https://soundcloud.com/griz\nTwitter: https://twitter.com/mynameisGRiZ\nInstagram: https://instagram.com/mynameisgriz/\n\nGRiZ Website:\nHome: http://www.mynameisgriz.com/\nTour Dates: http://www.mynameisgriz.com/tour\nMusic: http://www.mynameisgriz.com/music\n\nListen To GRiZ On:\niTunes: http://apple.co/1LJ4wI1\nSpotify: http://bit.ly/1OqD9si\nGooglePlay: http://bit.ly/1KvLFzY\nAmazon: http://amzn.to/1Ti8Dnj\n\nWatch More GRiZ:\nGood Will Prevail (Full Album): http://bit.ly/2dy0Ba0\nSay It Loud (Full Album): http://bit.ly/1KrclEo\nOfficial Audio: http://bit.ly/21EWzOd\nRemixes: http://bit.ly/1T4YtGg\nLatest Uploads: http://bit.ly/2eNDyKw\nPopular Videos: http://bit.ly/1KrclEo",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KHohhuZXJR8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KHohhuZXJR8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KHohhuZXJR8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KHohhuZXJR8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/KHohhuZXJR8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "GRiZ",
+        "playlistId": "PLCo8A0MAWvYnlbinFxCI-V3ItCUPF0Zui",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "KHohhuZXJR8"
+        }
+      },
+      "contentDetails": {
+        "videoId": "KHohhuZXJR8",
+        "videoPublishedAt": "2016-08-24T22:04:28Z"
+      }
     },
-    "channelTitle": "GRiZ",
-    "playlistId": "PLCo8A0MAWvYnlbinFxCI-V3ItCUPF0Zui",
-    "position": 1,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "KHohhuZXJR8"
-    }
-   },
-   "contentDetails": {
-    "videoId": "KHohhuZXJR8",
-    "videoPublishedAt": "2016-08-24T22:04:28.000Z"
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/6bhPX084R8GcumLns2Tw0da3N-k\"",
-   "id": "UExDbzhBME1BV3ZZbmxiaW5GeENJLVYzSXRDVVBGMFp1aS4wMTcyMDhGQUE4NTIzM0Y5",
-   "snippet": {
-    "publishedAt": "2016-10-18T17:17:19.000Z",
-    "channelId": "UCkEsnx-qZuVMwRJrH-GXmVg",
-    "title": "My Friends And I - GRiZ (ft. ProbCause) | Good Will Prevail",
-    "description": "Official audio for \"My Friends And I\" by GRiZ (ft. ProbCause) off the Good Will Prevail album.\nGet the album: iTunes: http://geni.us/GWPitunes | GooglePlay: http://geni.us/GWPgoogleplay\nSubscribe to GRiZ: http://bit.ly/subGRiZ | Steam album free: http://bit.ly/GWPfree\n\nGood Will Prevail, also Available On:\nAmazon: http://geni.us/GWPamazon\nSpotify: http://geni.us/GRiZspotify\n\nFollow GRiZ On:\nFacebook: https://www.facebook.com/mynameisgriz\nSoundCloud: https://soundcloud.com/griz\nTwitter: https://twitter.com/mynameisGRiZ\nInstagram: https://instagram.com/mynameisgriz/\n\nGRiZ Website:\nHome: http://www.mynameisgriz.com/\nTour Dates: http://www.mynameisgriz.com/tour\nMusic: http://www.mynameisgriz.com/music\n\nListen To GRiZ On:\niTunes: http://apple.co/1LJ4wI1\nSpotify: http://bit.ly/1OqD9si\nGooglePlay: http://bit.ly/1KvLFzY\nAmazon: http://amzn.to/1Ti8Dnj\n\nWatch More GRiZ:\nGood Will Prevail (Full Album): http://bit.ly/2dy0Ba0\nSay It Loud (Full Album): http://bit.ly/1KrclEo\nOfficial Audio: http://bit.ly/21EWzOd\nRemixes: http://bit.ly/1T4YtGg\nLatest Uploads: http://bit.ly/2eNDyKw\nPopular Videos: http://bit.ly/1KrclEo",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/tHfQfhi6Lvc/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/tHfQfhi6Lvc/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/tHfQfhi6Lvc/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/tHfQfhi6Lvc/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     },
-     "maxres": {
-      "url": "https://i.ytimg.com/vi/tHfQfhi6Lvc/maxresdefault.jpg",
-      "width": 1280,
-      "height": 720
-     }
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "1Ko2qFWNRtRPmvxKJP0EQ8Jyliw",
+      "id": "UExDbzhBME1BV3ZZbmxiaW5GeENJLVYzSXRDVVBGMFp1aS4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2016-10-18T17:17:19Z",
+        "channelId": "UCkEsnx-qZuVMwRJrH-GXmVg",
+        "title": "My Friends And I - GRiZ (ft. ProbCause) | Good Will Prevail",
+        "description": "Official audio for \"My Friends And I\" by GRiZ (ft. ProbCause) off the Good Will Prevail album.\nGet the album: iTunes: http://geni.us/GWPitunes | GooglePlay: http://geni.us/GWPgoogleplay\nSubscribe to GRiZ: http://bit.ly/subGRiZ | Steam album free: http://bit.ly/GWPfree\n\nGood Will Prevail, also Available On:\nAmazon: http://geni.us/GWPamazon\nSpotify: http://geni.us/GRiZspotify\n\nFollow GRiZ On:\nFacebook: https://www.facebook.com/mynameisgriz\nSoundCloud: https://soundcloud.com/griz\nTwitter: https://twitter.com/mynameisGRiZ\nInstagram: https://instagram.com/mynameisgriz/\n\nGRiZ Website:\nHome: http://www.mynameisgriz.com/\nTour Dates: http://www.mynameisgriz.com/tour\nMusic: http://www.mynameisgriz.com/music\n\nListen To GRiZ On:\niTunes: http://apple.co/1LJ4wI1\nSpotify: http://bit.ly/1OqD9si\nGooglePlay: http://bit.ly/1KvLFzY\nAmazon: http://amzn.to/1Ti8Dnj\n\nWatch More GRiZ:\nGood Will Prevail (Full Album): http://bit.ly/2dy0Ba0\nSay It Loud (Full Album): http://bit.ly/1KrclEo\nOfficial Audio: http://bit.ly/21EWzOd\nRemixes: http://bit.ly/1T4YtGg\nLatest Uploads: http://bit.ly/2eNDyKw\nPopular Videos: http://bit.ly/1KrclEo",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tHfQfhi6Lvc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tHfQfhi6Lvc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tHfQfhi6Lvc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tHfQfhi6Lvc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/tHfQfhi6Lvc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "GRiZ",
+        "playlistId": "PLCo8A0MAWvYnlbinFxCI-V3ItCUPF0Zui",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "tHfQfhi6Lvc"
+        }
+      },
+      "contentDetails": {
+        "videoId": "tHfQfhi6Lvc",
+        "videoPublishedAt": "2016-09-23T16:21:14Z"
+      }
     },
-    "channelTitle": "GRiZ",
-    "playlistId": "PLCo8A0MAWvYnlbinFxCI-V3ItCUPF0Zui",
-    "position": 2,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "tHfQfhi6Lvc"
-    }
-   },
-   "contentDetails": {
-    "videoId": "tHfQfhi6Lvc",
-    "videoPublishedAt": "2016-09-23T16:21:14.000Z"
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/hvSth_dHIvZRxISkmbCoJ3IbO8Q\"",
-   "id": "UExDbzhBME1BV3ZZbmxiaW5GeENJLVYzSXRDVVBGMFp1aS41MjE1MkI0OTQ2QzJGNzNG",
-   "snippet": {
-    "publishedAt": "2016-10-18T17:19:05.000Z",
-    "channelId": "UCkEsnx-qZuVMwRJrH-GXmVg",
-    "title": "I Don't Mind - GRiZ (ft. Ida Hawk, Sunsquabi & Artifakts) | Good Will Prevail",
-    "description": "Official audio for \"I Don't Mind\" by GRiZ (ft. Ida Hawk, Sunsquabi & Artifakts) off Good Will Prevail.\nGet the album: iTunes: http://geni.us/GWPitunes | GooglePlay: http://geni.us/GWPgoogleplay\nSubscribe to GRiZ: http://bit.ly/subGRiZ | Steam album free: http://bit.ly/GWPfree\n\nGood Will Prevail, also Available On:\nAmazon: http://geni.us/GWPamazon\nSpotify: http://geni.us/GRiZspotify\n\nFollow GRiZ On:\nFacebook: https://www.facebook.com/mynameisgriz\nSoundCloud: https://soundcloud.com/griz\nTwitter: https://twitter.com/mynameisGRiZ\nInstagram: https://instagram.com/mynameisgriz/\n\nGRiZ Website:\nHome: http://www.mynameisgriz.com/\nTour Dates: http://www.mynameisgriz.com/tour\nMusic: http://www.mynameisgriz.com/music\n\nListen To GRiZ On:\niTunes: http://apple.co/1LJ4wI1\nSpotify: http://bit.ly/1OqD9si\nGooglePlay: http://bit.ly/1KvLFzY\nAmazon: http://amzn.to/1Ti8Dnj\n\nWatch More GRiZ:\nGood Will Prevail (Full Album): http://bit.ly/2dy0Ba0\nSay It Loud (Full Album): http://bit.ly/1KrclEo\nOfficial Audio: http://bit.ly/21EWzOd\nRemixes: http://bit.ly/1T4YtGg\nLatest Uploads: http://bit.ly/2eNDyKw\nPopular Videos: http://bit.ly/1KrclEo",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/YxSTUMl3wVE/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/YxSTUMl3wVE/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/YxSTUMl3wVE/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/YxSTUMl3wVE/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     },
-     "maxres": {
-      "url": "https://i.ytimg.com/vi/YxSTUMl3wVE/maxresdefault.jpg",
-      "width": 1280,
-      "height": 720
-     }
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "zYuZrRgoeB5T1SyB4O14Cot0Zuw",
+      "id": "UExDbzhBME1BV3ZZbmxiaW5GeENJLVYzSXRDVVBGMFp1aS41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2016-10-18T17:19:05Z",
+        "channelId": "UCkEsnx-qZuVMwRJrH-GXmVg",
+        "title": "I Don't Mind - GRiZ (ft. Ida Hawk, Sunsquabi & Artifakts) | Good Will Prevail",
+        "description": "Official audio for \"I Don't Mind\" by GRiZ (ft. Ida Hawk, Sunsquabi & Artifakts) off Good Will Prevail.\nGet the album: iTunes: http://geni.us/GWPitunes | GooglePlay: http://geni.us/GWPgoogleplay\nSubscribe to GRiZ: http://bit.ly/subGRiZ | Steam album free: http://bit.ly/GWPfree\n\nGood Will Prevail, also Available On:\nAmazon: http://geni.us/GWPamazon\nSpotify: http://geni.us/GRiZspotify\n\nFollow GRiZ On:\nFacebook: https://www.facebook.com/mynameisgriz\nSoundCloud: https://soundcloud.com/griz\nTwitter: https://twitter.com/mynameisGRiZ\nInstagram: https://instagram.com/mynameisgriz/\n\nGRiZ Website:\nHome: http://www.mynameisgriz.com/\nTour Dates: http://www.mynameisgriz.com/tour\nMusic: http://www.mynameisgriz.com/music\n\nListen To GRiZ On:\niTunes: http://apple.co/1LJ4wI1\nSpotify: http://bit.ly/1OqD9si\nGooglePlay: http://bit.ly/1KvLFzY\nAmazon: http://amzn.to/1Ti8Dnj\n\nWatch More GRiZ:\nGood Will Prevail (Full Album): http://bit.ly/2dy0Ba0\nSay It Loud (Full Album): http://bit.ly/1KrclEo\nOfficial Audio: http://bit.ly/21EWzOd\nRemixes: http://bit.ly/1T4YtGg\nLatest Uploads: http://bit.ly/2eNDyKw\nPopular Videos: http://bit.ly/1KrclEo",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YxSTUMl3wVE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YxSTUMl3wVE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YxSTUMl3wVE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YxSTUMl3wVE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YxSTUMl3wVE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "GRiZ",
+        "playlistId": "PLCo8A0MAWvYnlbinFxCI-V3ItCUPF0Zui",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "YxSTUMl3wVE"
+        }
+      },
+      "contentDetails": {
+        "videoId": "YxSTUMl3wVE",
+        "videoPublishedAt": "2016-09-23T16:20:38Z"
+      }
     },
-    "channelTitle": "GRiZ",
-    "playlistId": "PLCo8A0MAWvYnlbinFxCI-V3ItCUPF0Zui",
-    "position": 3,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "YxSTUMl3wVE"
-    }
-   },
-   "contentDetails": {
-    "videoId": "YxSTUMl3wVE",
-    "videoPublishedAt": "2016-09-23T16:20:38.000Z"
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/aRckA-MRC0vSX72hX_XnN9gFcHU\"",
-   "id": "UExDbzhBME1BV3ZZbmxiaW5GeENJLVYzSXRDVVBGMFp1aS4wOTA3OTZBNzVEMTUzOTMy",
-   "snippet": {
-    "publishedAt": "2016-10-18T17:21:45.000Z",
-    "channelId": "UCkEsnx-qZuVMwRJrH-GXmVg",
-    "title": "Feelin' Fine - GRiZ | Good Will Prevail",
-    "description": "Official audio for \"Feelin' Fine\" by GRiZ off the Good Will Prevail album.\nGet the album: iTunes: http://geni.us/GWPitunes | GooglePlay: http://geni.us/GWPgoogleplay\nSubscribe to GRiZ: http://bit.ly/subGRiZ | Steam album free: http://bit.ly/GWPfree\n\nGood Will Prevail, also Available On:\nAmazon: http://geni.us/GWPamazon\nSpotify: http://geni.us/GRiZspotify\n\nFollow GRiZ On:\nFacebook: https://www.facebook.com/mynameisgriz\nSoundCloud: https://soundcloud.com/griz\nTwitter: https://twitter.com/mynameisGRiZ\nInstagram: https://instagram.com/mynameisgriz/\n\nGRiZ Website:\nHome: http://www.mynameisgriz.com/\nTour Dates: http://www.mynameisgriz.com/tour\nMusic: http://www.mynameisgriz.com/music\n\nListen To GRiZ On:\niTunes: http://apple.co/1LJ4wI1\nSpotify: http://bit.ly/1OqD9si\nGooglePlay: http://bit.ly/1KvLFzY\nAmazon: http://amzn.to/1Ti8Dnj\n\nWatch More GRiZ:\nGood Will Prevail (Full Album): http://bit.ly/2dy0Ba0\nSay It Loud (Full Album): http://bit.ly/1KrclEo\nOfficial Audio: http://bit.ly/21EWzOd\nRemixes: http://bit.ly/1T4YtGg\nLatest Uploads: http://bit.ly/2eNDyKw\nPopular Videos: http://bit.ly/1KrclEo",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/ZYGCr7St8sM/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/ZYGCr7St8sM/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/ZYGCr7St8sM/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/ZYGCr7St8sM/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     },
-     "maxres": {
-      "url": "https://i.ytimg.com/vi/ZYGCr7St8sM/maxresdefault.jpg",
-      "width": 1280,
-      "height": 720
-     }
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "JaOBDbvM7IlQVh0-1zlDjFTDvo8",
+      "id": "UExDbzhBME1BV3ZZbmxiaW5GeENJLVYzSXRDVVBGMFp1aS4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2016-10-18T17:21:45Z",
+        "channelId": "UCkEsnx-qZuVMwRJrH-GXmVg",
+        "title": "Feelin' Fine - GRiZ | Good Will Prevail",
+        "description": "Official audio for \"Feelin' Fine\" by GRiZ off the Good Will Prevail album.\nGet the album: iTunes: http://geni.us/GWPitunes | GooglePlay: http://geni.us/GWPgoogleplay\nSubscribe to GRiZ: http://bit.ly/subGRiZ | Steam album free: http://bit.ly/GWPfree\n\nGood Will Prevail, also Available On:\nAmazon: http://geni.us/GWPamazon\nSpotify: http://geni.us/GRiZspotify\n\nFollow GRiZ On:\nFacebook: https://www.facebook.com/mynameisgriz\nSoundCloud: https://soundcloud.com/griz\nTwitter: https://twitter.com/mynameisGRiZ\nInstagram: https://instagram.com/mynameisgriz/\n\nGRiZ Website:\nHome: http://www.mynameisgriz.com/\nTour Dates: http://www.mynameisgriz.com/tour\nMusic: http://www.mynameisgriz.com/music\n\nListen To GRiZ On:\niTunes: http://apple.co/1LJ4wI1\nSpotify: http://bit.ly/1OqD9si\nGooglePlay: http://bit.ly/1KvLFzY\nAmazon: http://amzn.to/1Ti8Dnj\n\nWatch More GRiZ:\nGood Will Prevail (Full Album): http://bit.ly/2dy0Ba0\nSay It Loud (Full Album): http://bit.ly/1KrclEo\nOfficial Audio: http://bit.ly/21EWzOd\nRemixes: http://bit.ly/1T4YtGg\nLatest Uploads: http://bit.ly/2eNDyKw\nPopular Videos: http://bit.ly/1KrclEo",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZYGCr7St8sM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZYGCr7St8sM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZYGCr7St8sM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZYGCr7St8sM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ZYGCr7St8sM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "GRiZ",
+        "playlistId": "PLCo8A0MAWvYnlbinFxCI-V3ItCUPF0Zui",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ZYGCr7St8sM"
+        }
+      },
+      "contentDetails": {
+        "videoId": "ZYGCr7St8sM",
+        "videoPublishedAt": "2016-09-23T16:21:41Z"
+      }
     },
-    "channelTitle": "GRiZ",
-    "playlistId": "PLCo8A0MAWvYnlbinFxCI-V3ItCUPF0Zui",
-    "position": 4,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "ZYGCr7St8sM"
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "9us8gkeGOqW_i1gpSImRcPRR-AI",
+      "id": "UExDbzhBME1BV3ZZbmxiaW5GeENJLVYzSXRDVVBGMFp1aS4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2016-10-18T22:31:50Z",
+        "channelId": "UCkEsnx-qZuVMwRJrH-GXmVg",
+        "title": "PS GFY - GRiZ (ft. Cherub) | Good Will Prevail",
+        "description": "Official audio for \"PS GFY\" by GRiZ (ft. Cherub) off the Good Will Prevail album.\nGet the album: iTunes: http://geni.us/GWPitunes | GooglePlay: http://geni.us/GWPgoogleplay\nSubscribe to GRiZ: http://bit.ly/subGRiZ | Steam album free: http://bit.ly/GWPfree\n\nGood Will Prevail, also Available On:\nAmazon: http://geni.us/GWPamazon\nSpotify: http://geni.us/GRiZspotify\n\nFollow GRiZ On:\nFacebook: https://www.facebook.com/mynameisgriz\nSoundCloud: https://soundcloud.com/griz\nTwitter: https://twitter.com/mynameisGRiZ\nInstagram: https://instagram.com/mynameisgriz/\n\nGRiZ Website:\nHome: http://www.mynameisgriz.com/\nTour Dates: http://www.mynameisgriz.com/tour\nMusic: http://www.mynameisgriz.com/music\n\nListen To GRiZ On:\niTunes: http://apple.co/1LJ4wI1\nSpotify: http://bit.ly/1OqD9si\nGooglePlay: http://bit.ly/1KvLFzY\nAmazon: http://amzn.to/1Ti8Dnj\n\nWatch More GRiZ:\nGood Will Prevail (Full Album): http://bit.ly/2dy0Ba0\nSay It Loud (Full Album): http://bit.ly/1KrclEo\nOfficial Audio: http://bit.ly/21EWzOd\nRemixes: http://bit.ly/1T4YtGg\nLatest Uploads: http://bit.ly/2eNDyKw\nPopular Videos: http://bit.ly/1KrclEo",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/M5a53wPTwRc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/M5a53wPTwRc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/M5a53wPTwRc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/M5a53wPTwRc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/M5a53wPTwRc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "GRiZ",
+        "playlistId": "PLCo8A0MAWvYnlbinFxCI-V3ItCUPF0Zui",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "M5a53wPTwRc"
+        }
+      },
+      "contentDetails": {
+        "videoId": "M5a53wPTwRc",
+        "videoPublishedAt": "2016-09-16T19:58:32Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "rUS21iyGE10_86BnJooWZqjn_5E",
+      "id": "UExDbzhBME1BV3ZZbmxiaW5GeENJLVYzSXRDVVBGMFp1aS5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2016-10-18T22:39:36Z",
+        "channelId": "UCkEsnx-qZuVMwRJrH-GXmVg",
+        "title": "What We've Become - GRiZ (ft. Cory Enemy & Natalola) | Good Will Prevail",
+        "description": "Official audio for \"What We've Become\" by GRiZ (ft. Cory Enemy & Natalola) off Good Will Prevail.\nGet the album: iTunes: http://geni.us/GWPitunes | GooglePlay: http://geni.us/GWPgoogleplay\nSubscribe to GRiZ: http://bit.ly/subGRiZ | Steam album free: http://bit.ly/GWPfree\n\nGood Will Prevail, also Available On:\nAmazon: http://geni.us/GWPamazon\nSpotify: http://geni.us/GRiZspotify\n\nFollow GRiZ On:\nFacebook: https://www.facebook.com/mynameisgriz\nSoundCloud: https://soundcloud.com/griz\nTwitter: https://twitter.com/mynameisGRiZ\nInstagram: https://instagram.com/mynameisgriz/\n\nGRiZ Website:\nHome: http://www.mynameisgriz.com/\nTour Dates: http://www.mynameisgriz.com/tour\nMusic: http://www.mynameisgriz.com/music\n\nListen To GRiZ On:\niTunes: http://apple.co/1LJ4wI1\nSpotify: http://bit.ly/1OqD9si\nGooglePlay: http://bit.ly/1KvLFzY\nAmazon: http://amzn.to/1Ti8Dnj\n\nWatch More GRiZ:\nGood Will Prevail (Full Album): http://bit.ly/2dy0Ba0\nSay It Loud (Full Album): http://bit.ly/1KrclEo\nOfficial Audio: http://bit.ly/21EWzOd\nRemixes: http://bit.ly/1T4YtGg\nLatest Uploads: http://bit.ly/2eNDyKw\nPopular Videos: http://bit.ly/1KrclEo",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/A7eG4j6sXI0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/A7eG4j6sXI0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/A7eG4j6sXI0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/A7eG4j6sXI0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/A7eG4j6sXI0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "GRiZ",
+        "playlistId": "PLCo8A0MAWvYnlbinFxCI-V3ItCUPF0Zui",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "A7eG4j6sXI0"
+        }
+      },
+      "contentDetails": {
+        "videoId": "A7eG4j6sXI0",
+        "videoPublishedAt": "2016-09-25T18:25:09Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "nZOpGzhCBRxyqvFtjZmKZPet_TY",
+      "id": "UExDbzhBME1BV3ZZbmxiaW5GeENJLVYzSXRDVVBGMFp1aS5EMEEwRUY5M0RDRTU3NDJC",
+      "snippet": {
+        "publishedAt": "2016-10-18T22:39:36Z",
+        "channelId": "UCkEsnx-qZuVMwRJrH-GXmVg",
+        "title": "If There Ever Comes A Day - GRiZ (ft. Eli \"Paperboy\" Reed & Louis Futon) | Good Will Prevail",
+        "description": "Official audio for \"If There Ever Comes A Day\" by GRiZ (ft. Eli Reed & Louis Futon) off Good Will Prevail.\nGet the album: iTunes: http://geni.us/GWPitunes | GooglePlay: http://geni.us/GWPgoogleplay\nSubscribe to GRiZ: http://bit.ly/subGRiZ | Steam album free: http://bit.ly/GWPfree\n\nGood Will Prevail, also Available On:\nAmazon: http://geni.us/GWPamazon\nSpotify: http://geni.us/GRiZspotify\n\nFollow GRiZ On:\nFacebook: https://www.facebook.com/mynameisgriz\nSoundCloud: https://soundcloud.com/griz\nTwitter: https://twitter.com/mynameisGRiZ\nInstagram: https://instagram.com/mynameisgriz/\n\nGRiZ Website:\nHome: http://www.mynameisgriz.com/\nTour Dates: http://www.mynameisgriz.com/tour\nMusic: http://www.mynameisgriz.com/music\n\nListen To GRiZ On:\niTunes: http://apple.co/1LJ4wI1\nSpotify: http://bit.ly/1OqD9si\nGooglePlay: http://bit.ly/1KvLFzY\nAmazon: http://amzn.to/1Ti8Dnj\n\nWatch More GRiZ:\nGood Will Prevail (Full Album): http://bit.ly/2dy0Ba0\nSay It Loud (Full Album): http://bit.ly/1KrclEo\nOfficial Audio: http://bit.ly/21EWzOd\nRemixes: http://bit.ly/1T4YtGg\nLatest Uploads: http://bit.ly/2eNDyKw\nPopular Videos: http://bit.ly/1KrclEo",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HQ8-C5SfUlU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HQ8-C5SfUlU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HQ8-C5SfUlU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/HQ8-C5SfUlU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/HQ8-C5SfUlU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "GRiZ",
+        "playlistId": "PLCo8A0MAWvYnlbinFxCI-V3ItCUPF0Zui",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "HQ8-C5SfUlU"
+        }
+      },
+      "contentDetails": {
+        "videoId": "HQ8-C5SfUlU",
+        "videoPublishedAt": "2016-09-23T16:22:03Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "tQvLMvqR1n_SeuEe_ZL4gRgOx_c",
+      "id": "UExDbzhBME1BV3ZZbmxiaW5GeENJLVYzSXRDVVBGMFp1aS5ENDU4Q0M4RDExNzM1Mjcy",
+      "snippet": {
+        "publishedAt": "2016-10-18T22:45:42Z",
+        "channelId": "UCkEsnx-qZuVMwRJrH-GXmVg",
+        "title": "Rather Be Free - GRiZ (ft. Muzzy Bearr) | Good Will Prevail",
+        "description": "Official audio for \"Rather Be Free\" by GRiZ (ft. Muzzy Bearr) off the Good Will Prevail album.\nGet the album: iTunes: http://geni.us/GWPitunes | GooglePlay: http://geni.us/GWPgoogleplay\nSubscribe to GRiZ: http://bit.ly/subGRiZ | Steam album free: http://bit.ly/GWPfree\n\nGood Will Prevail, also Available On:\nAmazon: http://geni.us/GWPamazon\nSpotify: http://geni.us/GRiZspotify\n\nFollow GRiZ On:\nFacebook: https://www.facebook.com/mynameisgriz\nSoundCloud: https://soundcloud.com/griz\nTwitter: https://twitter.com/mynameisGRiZ\nInstagram: https://instagram.com/mynameisgriz/\n\nGRiZ Website:\nHome: http://www.mynameisgriz.com/\nTour Dates: http://www.mynameisgriz.com/tour\nMusic: http://www.mynameisgriz.com/music\n\nListen To GRiZ On:\niTunes: http://apple.co/1LJ4wI1\nSpotify: http://bit.ly/1OqD9si\nGooglePlay: http://bit.ly/1KvLFzY\nAmazon: http://amzn.to/1Ti8Dnj\n\nWatch More GRiZ:\nGood Will Prevail (Full Album): http://bit.ly/2dy0Ba0\nSay It Loud (Full Album): http://bit.ly/1KrclEo\nOfficial Audio: http://bit.ly/21EWzOd\nRemixes: http://bit.ly/1T4YtGg\nLatest Uploads: http://bit.ly/2eNDyKw\nPopular Videos: http://bit.ly/1KrclEo",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/j90UT6cFOyw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/j90UT6cFOyw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/j90UT6cFOyw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/j90UT6cFOyw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/j90UT6cFOyw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "GRiZ",
+        "playlistId": "PLCo8A0MAWvYnlbinFxCI-V3ItCUPF0Zui",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "j90UT6cFOyw"
+        }
+      },
+      "contentDetails": {
+        "videoId": "j90UT6cFOyw",
+        "videoPublishedAt": "2016-09-25T18:29:46Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "xD7jMBW7yUTbLX5SbA3ruJE1CN0",
+      "id": "UExDbzhBME1BV3ZZbmxiaW5GeENJLVYzSXRDVVBGMFp1aS5EQUE1NTFDRjcwMDg0NEMz",
+      "snippet": {
+        "publishedAt": "2016-10-18T22:39:36Z",
+        "channelId": "UCkEsnx-qZuVMwRJrH-GXmVg",
+        "title": "Gotta Push On - GRiZ (ft. Brasstracks & Eric Krasno) | Good Will Prevail",
+        "description": "Official audio for \"Gotta Push On\" by GRiZ (ft. Brasstracks & Eric Krasno) off Good Will Prevail.\nGet the album: iTunes: http://geni.us/GWPitunes | GooglePlay: http://geni.us/GWPgoogleplay\nSubscribe to GRiZ: http://bit.ly/subGRiZ | Steam album free: http://bit.ly/GWPfree\n\nGood Will Prevail, also Available On:\nAmazon: http://geni.us/GWPamazon\nSpotify: http://geni.us/GRiZspotify\n\nFollow GRiZ On:\nFacebook: https://www.facebook.com/mynameisgriz\nSoundCloud: https://soundcloud.com/griz\nTwitter: https://twitter.com/mynameisGRiZ\nInstagram: https://instagram.com/mynameisgriz/\n\nGRiZ Website:\nHome: http://www.mynameisgriz.com/\nTour Dates: http://www.mynameisgriz.com/tour\nMusic: http://www.mynameisgriz.com/music\n\nListen To GRiZ On:\niTunes: http://apple.co/1LJ4wI1\nSpotify: http://bit.ly/1OqD9si\nGooglePlay: http://bit.ly/1KvLFzY\nAmazon: http://amzn.to/1Ti8Dnj\n\nWatch More GRiZ:\nGood Will Prevail (Full Album): http://bit.ly/2dy0Ba0\nSay It Loud (Full Album): http://bit.ly/1KrclEo\nOfficial Audio: http://bit.ly/21EWzOd\nRemixes: http://bit.ly/1T4YtGg\nLatest Uploads: http://bit.ly/2eNDyKw\nPopular Videos: http://bit.ly/1KrclEo",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/l-Oiu4-fer8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/l-Oiu4-fer8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/l-Oiu4-fer8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/l-Oiu4-fer8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/l-Oiu4-fer8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "GRiZ",
+        "playlistId": "PLCo8A0MAWvYnlbinFxCI-V3ItCUPF0Zui",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "l-Oiu4-fer8"
+        }
+      },
+      "contentDetails": {
+        "videoId": "l-Oiu4-fer8",
+        "videoPublishedAt": "2016-09-20T21:34:34Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "hndW1GGRHl-ke619yKRw3Ix5rA0",
+      "id": "UExDbzhBME1BV3ZZbmxiaW5GeENJLVYzSXRDVVBGMFp1aS45RTgxNDRBMzUwRjQ0MDhC",
+      "snippet": {
+        "publishedAt": "2016-10-18T22:39:36Z",
+        "channelId": "UCkEsnx-qZuVMwRJrH-GXmVg",
+        "title": "Before I Go - GRiZ (ft. Leo Napier) | Good Will Prevail",
+        "description": "Official audio for \"Before I Go\" by GRiZ (ft. Leo Napier) off the Good Will Prevail album.\nGet the album: iTunes: http://geni.us/GWPitunes | GooglePlay: http://geni.us/GWPgoogleplay\nSubscribe to GRiZ: http://bit.ly/subGRiZ | Steam album free: http://bit.ly/GWPfree\n\nGood Will Prevail, also Available On:\nAmazon: http://geni.us/GWPamazon\nSpotify: http://geni.us/GRiZspotify\n\nFollow GRiZ On:\nFacebook: https://www.facebook.com/mynameisgriz\nSoundCloud: https://soundcloud.com/griz\nTwitter: https://twitter.com/mynameisGRiZ\nInstagram: https://instagram.com/mynameisgriz/\n\nGRiZ Website:\nHome: http://www.mynameisgriz.com/\nTour Dates: http://www.mynameisgriz.com/tour\nMusic: http://www.mynameisgriz.com/music\n\nListen To GRiZ On:\niTunes: http://apple.co/1LJ4wI1\nSpotify: http://bit.ly/1OqD9si\nGooglePlay: http://bit.ly/1KvLFzY\nAmazon: http://amzn.to/1Ti8Dnj\n\nWatch More GRiZ:\nGood Will Prevail (Full Album): http://bit.ly/2dy0Ba0\nSay It Loud (Full Album): http://bit.ly/1KrclEo\nOfficial Audio: http://bit.ly/21EWzOd\nRemixes: http://bit.ly/1T4YtGg\nLatest Uploads: http://bit.ly/2eNDyKw\nPopular Videos: http://bit.ly/1KrclEo",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WnNIqyxn7j4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WnNIqyxn7j4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WnNIqyxn7j4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/WnNIqyxn7j4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/WnNIqyxn7j4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "GRiZ",
+        "playlistId": "PLCo8A0MAWvYnlbinFxCI-V3ItCUPF0Zui",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "WnNIqyxn7j4"
+        }
+      },
+      "contentDetails": {
+        "videoId": "WnNIqyxn7j4",
+        "videoPublishedAt": "2016-08-11T15:30:46Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "FGRPx-ztow-w-l3B8J4-6K98coc",
+      "id": "UExDbzhBME1BV3ZZbmxiaW5GeENJLVYzSXRDVVBGMFp1aS40NzZCMERDMjVEN0RFRThB",
+      "snippet": {
+        "publishedAt": "2016-10-18T22:39:36Z",
+        "channelId": "UCkEsnx-qZuVMwRJrH-GXmVg",
+        "title": "Driftin' - GRiZ (ft. Son Little) | Good Will Prevail",
+        "description": "Official audio for \"Driftin'\" by GRiZ (ft. Son Little) off the Good Will Prevail album.\nGet the album: iTunes: http://geni.us/GWPitunes | GooglePlay: http://geni.us/GWPgoogleplay\nSubscribe to GRiZ: http://bit.ly/subGRiZ | Steam album free: http://bit.ly/GWPfree\n\nGood Will Prevail, also Available On:\nAmazon: http://geni.us/GWPamazon\nSpotify: http://geni.us/GRiZspotify\n\nFollow GRiZ On:\nFacebook: https://www.facebook.com/mynameisgriz\nSoundCloud: https://soundcloud.com/griz\nTwitter: https://twitter.com/mynameisGRiZ\nInstagram: https://instagram.com/mynameisgriz/\n\nGRiZ Website:\nHome: http://www.mynameisgriz.com/\nTour Dates: http://www.mynameisgriz.com/tour\nMusic: http://www.mynameisgriz.com/music\n\nListen To GRiZ On:\niTunes: http://apple.co/1LJ4wI1\nSpotify: http://bit.ly/1OqD9si\nGooglePlay: http://bit.ly/1KvLFzY\nAmazon: http://amzn.to/1Ti8Dnj\n\nWatch More GRiZ:\nGood Will Prevail (Full Album): http://bit.ly/2dy0Ba0\nSay It Loud (Full Album): http://bit.ly/1KrclEo\nOfficial Audio: http://bit.ly/21EWzOd\nRemixes: http://bit.ly/1T4YtGg\nLatest Uploads: http://bit.ly/2eNDyKw\nPopular Videos: http://bit.ly/1KrclEo",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CyeeZFWC7t4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CyeeZFWC7t4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CyeeZFWC7t4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CyeeZFWC7t4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/CyeeZFWC7t4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "GRiZ",
+        "playlistId": "PLCo8A0MAWvYnlbinFxCI-V3ItCUPF0Zui",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "CyeeZFWC7t4"
+        }
+      },
+      "contentDetails": {
+        "videoId": "CyeeZFWC7t4",
+        "videoPublishedAt": "2016-09-23T16:22:34Z"
+      }
     }
-   },
-   "contentDetails": {
-    "videoId": "ZYGCr7St8sM",
-    "videoPublishedAt": "2016-09-23T16:21:41.000Z"
-   }
+  ],
+  "pageInfo": {
+    "totalResults": 12,
+    "resultsPerPage": 50
   }
- ]
 }
