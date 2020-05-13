@@ -35,7 +35,6 @@ describe 'A registered user' do
   end
 
   it 'I can click a button to connect my GitHub account using OAuth' do
-    # WebMock.allow_net_connect!
     OmniAuth.config.test_mode = true
     OmniAuth.config.mock_auth[:github] = OmniAuth::AuthHash.new({
       "credentials"=>{"token"=>ENV['GITHUB_TOKEN'], "expires"=>false},
@@ -43,10 +42,11 @@ describe 'A registered user' do
 
     user = create(:user)
     allow_any_instance_of(ApplicationController).to receive(:current_user).and_return(user)
-    
+
     visit dashboard_path
 
-    visit '/auth/github'
+    click_on 'Connect to GitHub'
+
     expect(current_path).to eq(dashboard_path)
     expect(page).to have_content("coloniusrex's GitHub")
   end
