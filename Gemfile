@@ -23,6 +23,8 @@ gem 'factory_bot_rails'
 gem 'faker'
 gem 'active_model_serializers'
 gem 'omniauth-google-oauth2'
+gem 'omniauth-github', github: 'intridea/omniauth-github'
+gem 'omniauth-openid', github: 'intridea/omniauth-openid'
 gem 'will_paginate'
 gem 'acts-as-taggable-on', '~> 6.0'
 gem 'omniauth-census', git: "https://github.com/turingschool-projects/omniauth-census"

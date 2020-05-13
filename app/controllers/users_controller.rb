@@ -1,10 +1,12 @@
 class UsersController < ApplicationController
   def show
-    response = GithubResponse.new
-    @repos = response.repos
-    @github_username = response.user_name
-    @followers = response.followers
-    @followees = response.followees
+    if current_user.token.present?
+      response = GithubResponse.new
+      @repos = response.repos(current_user.token)
+      @github_username = response.user_name(current_user.token)
+      @followers = response.followers(current_user.token)
+      @followees = response.followees(current_user.token)
+    end
   end
 
   def new

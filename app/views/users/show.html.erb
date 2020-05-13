@@ -1,7 +1,9 @@
 <section class="dashboard-main">
   <h1> <%= current_user.first_name %>'s Dashboard </h1>
-
   <%= button_to 'Log Out', logout_path, method: 'delete', class: "btn btn-primary mb1 bg-teal" %>
+  <% if current_user.token.nil? %>
+    <%= link_to 'Connect to GitHub', '/auth/github', class: "btn btn-primary mb1 bg-teal" %>
+  <% end %>
   <h3>Account Details</h3>
   <ul>
     <li> <%= current_user.first_name  %> <%= current_user.last_name %> </li>
@@ -11,31 +13,31 @@
     <h1>Bookmarked Segments</h1>
   </section>
   <% if current_user.token != nil %>
-    <section class='user-github'>
-      <h3><%= @github_username %>'s GitHub</h3>
-      <section class='repos'>
-        <% @repos[0..4].each do |repo| %>
-        <ul class='repo'>
-          <li class="name"><%= link_to repo.name, repo.html_url %></li>
-        </ul>
-        <% end %>
-      </section>
-      <section class='followers'>
-        <h4>Followers</h4>
-        <% @followers.each do |follower| %>
-          <ul>
-            <li class='follower'><%= link_to follower.username, follower.html_url %></li>
-          </ul>
-        <% end %>
-      </section>
-      <section class='following'>
-        <h4>Following</h4>
-        <% @followees.each do |followee| %>
-          <ul>
-            <li class='followee'><%= link_to followee.username, followee.html_url %></li>
-          </ul>
-        <% end %>
-      </section>
+  <section class='user-github'>
+    <h3><%= @github_username %>'s GitHub</h3>
+    <section class='repos'>
+      <% @repos[0..4].each do |repo| %>
+      <ul class='repo'>
+        <li class="name"><%= link_to repo.name, repo.html_url %></li>
+      </ul>
+      <% end %>
     </section>
+    <section class='followers'>
+      <h4>Followers</h4>
+      <% @followers.each do |follower| %>
+      <ul>
+        <li class='follower'><%= link_to follower.username, follower.html_url %></li>
+      </ul>
+      <% end %>
+    </section>
+    <section class='following'>
+      <h4>Following</h4>
+      <% @followees.each do |followee| %>
+      <ul>
+        <li class='followee'><%= link_to followee.username, followee.html_url %></li>
+      </ul>
+      <% end %>
+    </section>
+  </section>
   <% end %>
 </section>
