@@ -4,8 +4,13 @@ class Admin::TutorialsController < Admin::BaseController
   end
 
   def create
-    @tutorial = Tutorial.create(tutorial_params)
-    redirect_to new_admin_tutorial_video_path(@tutorial.id)
+    @tutorial = Tutorial.new(tutorial_params)
+    if @tutorial.save
+      redirect_or_import(@tutorial)
+    else
+      flash[:error] = @tutorial.errors.full_messages.to_sentence
+      redirect_to new_admin_tutorial_path
+    end
   end
 
   def new
@@ -33,5 +38,14 @@ class Admin::TutorialsController < Admin::BaseController
                                      :description,
                                      :thumbnail,
                                      :tag_list)
+  end
+
+  def redirect_or_import(tutorial)
+    if params[:commit] == 'Create Tutorial'
+      flash[:success] = "Tutorial succesfully created."
+      redirect_to admin_dashboard_path
+    elsif params[:commit] == 'Import YouTube Playlist'
+      redirect_to new_admin_tutorial_video_path(tutorial.id)
+    end
   end
 end

@@ -2,7 +2,22 @@ require 'rails_helper'
 
 describe 'As an admin user' do
   it "I can make a new Tutorial without videos" do
+    admin = create(:admin)
+    allow_any_instance_of(ApplicationController).to receive(:current_user).and_return(admin)
 
+    visit new_admin_tutorial_path
+
+    fill_in "tutorial[title]", with: "New Title"
+    fill_in "tutorial[description]", with: "New Description"
+    fill_in "tutorial[thumbnail]", with: "/thumbnail/address"
+
+    click_on 'Create Tutorial'
+
+    expect(current_path).to eql(admin_dashboard_path)
+    expect(page).to have_content('Tutorial succesfully created.')
+    within '.admin-tutorial-card' do
+      expect(page).to have_content('New Title')
+    end
   end
 
   it "I can make a new Tutorial populated with videos from a YouTube playlist ID" do
@@ -16,6 +31,8 @@ describe 'As an admin user' do
     visit new_admin_tutorial_path
 
     fill_in "tutorial[title]", with: "New Title"
+    fill_in "tutorial[description]", with: "New Description"
+    fill_in "tutorial[thumbnail]", with: "/thumbnail/address"
     click_on 'Import YouTube Playlist'
 
     new_tutorial = Tutorial.last
@@ -37,14 +54,16 @@ describe 'As an admin user' do
         to_return(status: 200, body: mock_response_page_2, headers: {})
     admin = create(:admin)
     allow_any_instance_of(ApplicationController).to receive(:current_user).and_return(admin)
-        
+
     visit new_admin_tutorial_path
-        
+
     fill_in "tutorial[title]", with: "New Title"
+    fill_in "tutorial[description]", with: "New Description"
+    fill_in "tutorial[thumbnail]", with: "/thumbnail/address"
     click_on 'Import YouTube Playlist'
 
     new_tutorial = Tutorial.last
-    
+
     expect(current_path).to eql(new_admin_tutorial_video_path(new_tutorial))
 
     fill_in "playlistId", with: "PLDIoUOhQQPlXr63I_vwF9GD8sAKh77dWU"
@@ -52,7 +71,7 @@ describe 'As an admin user' do
     new_tutorial = Tutorial.last
     expect(new_tutorial.videos.length).to eq(100)
     expect(current_path).to eql(admin_dashboard_path)
-    
+
     click_on new_tutorial.title
     expect(page).to have_content(new_tutorial.videos.first.title)
     expect(page).to have_content(new_tutorial.videos.last.title)
