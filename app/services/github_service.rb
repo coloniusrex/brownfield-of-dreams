@@ -1,27 +1,27 @@
 class GithubService
-  def conn
+  def conn(token)
     Faraday.new(url: 'https://api.github.com') do |faraday|
-      faraday.headers['authorization'] = "token #{ENV['GITHUB_TOKEN']}"
+      faraday.headers['authorization'] = "token #{token}"
     end
   end
 
-  def user_repos
-    response = conn.get('/user/repos')
+  def user_repos(token)
+    response = conn(token).get('/user/repos')
     JSON.parse(response.body, symbolize_names: true)
   end
 
-  def user_info
-    user_response = conn.get('/user')
+  def user_info(token)
+    user_response = conn(token).get('/user')
     JSON.parse(user_response.body, symbolize_names: true)
   end
 
-  def user_followers
-    followers_response = conn.get('/user/followers')
+  def user_followers(token)
+    followers_response = conn(token).get('/user/followers')
     JSON.parse(followers_response.body, symbolize_names: true)
   end
 
-  def user_followees
-    followees_response = conn.get('/user/following')
+  def user_followees(token)
+    followees_response = conn(token).get('/user/following')
     JSON.parse(followees_response.body, symbolize_names: true)
   end
 end
