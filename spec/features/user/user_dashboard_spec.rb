@@ -1,6 +1,40 @@
 require 'rails_helper'
 
 describe 'As a logged in user when' do
+
+  before(:each) do
+    mock_response = File.read('spec/fixtures/github/github_user_repos_response.json')
+    stub_request(:get, "https://api.github.com/user/repos").
+    with(
+         headers: {'Authorization' => "token #{ENV['GITHUB_TOKEN']}"
+           }).
+      to_return(status: 200, body: mock_response, headers: {})
+
+    mock_response_user = File.read('spec/fixtures/github/github_user_response.json')
+      stub_request(:get, "https://api.github.com/user").
+           with(
+             headers: {
+            'Authorization'=>"token #{ENV['GITHUB_TOKEN']}"
+             }).
+           to_return(status: 200, body: mock_response_user, headers: {})
+
+    mock_response_followers = File.read('spec/fixtures/github/github_user_followers_response.json')
+    stub_request(:get, "https://api.github.com/user/followers").
+         with(
+           headers: {
+          'Authorization'=>"token #{ENV['GITHUB_TOKEN']}"
+           }).
+         to_return(status: 200, body: mock_response_followers, headers: {})
+
+    mock_response_following = File.read('spec/fixtures/github/github_user_following_response.json')
+    stub_request(:get, "https://api.github.com/user/following").
+         with(
+           headers: {
+          'Authorization'=>"token #{ENV['GITHUB_TOKEN']}"
+           }).
+         to_return(status: 200, body: mock_response_following, headers: {})
+  end
+
   it "I don't see a section for GitHub with a list of 5 repositories and their name as a link to that repo if I don't have a token" do
     user = create(:user)
     allow_any_instance_of(ApplicationController).to receive(:current_user).and_return(user)
@@ -34,9 +68,7 @@ describe 'As a logged in user when' do
     visit '/dashboard'
 
     within '.user-github' do
-      within '.followers' do
-        expect(page).to have_css('.follower')
-      end
+      expect(page).to have_css('.followers')
     end
   end
 
@@ -46,11 +78,8 @@ describe 'As a logged in user when' do
 
     allow_any_instance_of(ApplicationController).to receive(:current_user).and_return(user)
     visit '/dashboard'
-
     within '.user-github' do
-      within '.following' do
-        expect(page).to have_css('.followee')
-      end
+      expect(page).to have_css('.followees')
     end
   end
 end

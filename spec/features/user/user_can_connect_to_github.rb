@@ -49,5 +49,8 @@ describe 'A registered user' do
 
     expect(current_path).to eq(dashboard_path)
     expect(page).to have_content("coloniusrex's GitHub")
+    expect(page).to have_content("GitHub Followers")
+    expect(page).to have_content("Following on GitHub")
   end
+
 end

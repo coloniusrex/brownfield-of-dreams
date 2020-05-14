@@ -17,7 +17,9 @@ class SessionsController < ApplicationController
   def update
     oauth_response = request.env['omniauth.auth']
     token = oauth_response["credentials"]["token"]
+    github_id = oauth_response[:uid]
     assign_token(token)
+    assign_github_id(github_id)
     redirect_to dashboard_path
   end
 
@@ -28,9 +30,12 @@ class SessionsController < ApplicationController
 
   private
 
+  def assign_github_id(github_id)
+    current_user.update(github_id: github_id)
+  end
+
   def assign_token(token)
-    current_user.token = token
-    current_user.save
+    current_user.update(token: token)
   end
 
 end
