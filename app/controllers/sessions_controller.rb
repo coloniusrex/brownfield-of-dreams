@@ -31,13 +31,11 @@ class SessionsController < ApplicationController
   private
 
   def assign_github_id(github_id)
-    current_user.github_id = github_id
-    current_user.save
+    current_user.update(github_id: github_id)
   end
 
   def assign_token(token)
-    current_user.token = token
-    current_user.save
+    current_user.update(token: token)
   end
 
 end
