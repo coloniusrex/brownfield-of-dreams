@@ -47,15 +47,9 @@ describe 'A registered user' do
     video3 = user.videos.create(video_params_3)
 
     visit dashboard_path
-    require "pry"; binding.pry
+
     within "#video-#{video1.id}" do
       expect(page).to have_content(video1.title)
     end
   end
 end
-
-# As a logged in user
-# When I visit '/dashboard'
-# Then I should see a list of all bookmarked segments under the Bookmarked Segments section
-# And they should be organized by which tutorial they are a part of
-# And the videos should be ordered by their position
