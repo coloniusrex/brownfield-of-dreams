@@ -17,4 +17,8 @@ class User < ApplicationRecord
   def friends
      self.followings + self.followers
   end
+
+  def sorted_videos
+    videos.sort { |a,b| a.tutorial_id <=> b.tutorial_id} 
+  end
 end

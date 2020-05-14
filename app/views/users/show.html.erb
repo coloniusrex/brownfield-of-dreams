@@ -12,7 +12,7 @@
   <section>
     <h1>Bookmarked Segments</h1>
     <ul>
-      <% current_user.videos.each do |video| %>
+      <% current_user.sorted_videos.each do |video| %>
         <li id='video-<%= video.id %>'><p>Video: <%= video.title %></p></li>
       <% end %>
     </ul>
