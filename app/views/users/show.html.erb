@@ -13,6 +13,11 @@
   </ul>
   <section>
     <h1>Bookmarked Segments</h1>
+    <ul>
+      <% current_user.sorted_videos.each do |video| %>
+        <li id='video-<%= video.id %>'><p>Video: <%= video.title %></p></li>
+      <% end %>
+    </ul>
   </section>
   <section class='local-friends'>
     <h3>Local Friends</h3>
