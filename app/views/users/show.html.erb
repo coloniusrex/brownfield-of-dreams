@@ -12,29 +12,43 @@
   <section>
     <h1>Bookmarked Segments</h1>
   </section>
+  <section class='local-friends'>
+    <h3>Local Friends</h3>
+    <ul>
+      <% current_user.friends.each do |friend| %>
+        <li><%= "Friend Name: #{friend.followed_user.first_name}" %></li>
+      <% end %>
+    </ul>
+  </section>
   <% if current_user.token != nil %>
   <section class='user-github'>
     <h3><%= @github_username %>'s GitHub</h3>
     <section class='repos'>
-      <% @repos[0..4].each do |repo| %>
-      <ul class='repo'>
-        <li class="name"><%= link_to repo.name, repo.html_url %></li>
-      </ul>
-      <% end %>
+        <% @repos[0..4].each do |repo| %>
+        <ul class='repo'>
+          <li class="name"><%= link_to repo.name, repo.html_url %></li>
+        </ul>
+        <% end %>
     </section>
     <section class='followers'>
-      <h4>Followers</h4>
-      <% @followers.each do |follower| %>
+      <h4>GitHub Followers</h4>
       <ul>
-        <li class='follower'><%= link_to follower.username, follower.html_url %></li>
-      </ul>
+      <% @github_followers.each do |github_follower| %>
+        <li id="follower-<%= github_follower.github_id %>"><%= link_to github_follower.username, github_follower.html_url %>
+        <% if github_follower.has_account? %>
+          <%= link_to 'Add Local Friend', user_path(current_user, :gh_follower_id => github_follower.github_id) %></li>
+        <% end %>
       <% end %>
+      </ul>
     </section>
-    <section class='following'>
-      <h4>Following</h4>
-      <% @followees.each do |followee| %>
+    <section class='followees'>
+      <h4>Following on GitHub</h4>
+      <% @github_followees.each do |github_followee| %>
       <ul>
-        <li class='followee'><%= link_to followee.username, followee.html_url %></li>
+        <li id='followee-<%= github_followee.github_id %>'><%= link_to github_followee.username, github_followee.html_url %>
+        <% if github_followee.has_account? %>
+        <%= link_to 'Add Local Friend', user_path(current_user, :gh_followee_id => github_followee.github_id) %>
+        <% end %></li>
       </ul>
       <% end %>
     </section>
