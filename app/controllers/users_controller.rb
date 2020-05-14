@@ -15,13 +15,8 @@ class UsersController < ApplicationController
 
   def update
     user_updates = create_friend(params)
-    if user_updates.save
-      flash[:success] = 'Added friend!'
-      redirect_to dashboard_path
-    else
-      flash[:error] = user_updates.errors.full_messages.to_sentence
-      redirect_to dashboard_path
-    end
+    update_handler(user_updates)
+    redirect_to dashboard_path
   end
 
   def create
@@ -39,6 +34,14 @@ class UsersController < ApplicationController
 
   def user_params
     params.require(:user).permit(:email, :first_name, :last_name, :password)
+  end
+
+  def update_handler(user_updates)
+    if user_updates.save
+      flash[:success] = 'Added friend!'
+    else
+      flash[:error] = user_updates.errors.full_messages.to_sentence
+    end
   end
 
   def create_friend(params)
