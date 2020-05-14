@@ -2,8 +2,10 @@
   <h1> <%= current_user.first_name %>'s Dashboard </h1>
   <%= button_to 'Log Out', logout_path, method: 'delete', class: "btn btn-primary mb1 bg-teal" %>
   <% if current_user.token.nil? %>
-    <%= link_to 'Connect to GitHub', '/auth/github', class: "btn btn-primary mb1 bg-teal" %>
+  <%= link_to 'Connect to GitHub', '/auth/github', class: "btn btn-primary mb1 bg-teal" %>
   <% end %>
+  <%= link_to 'Send an Invite', '/invite', class: "btn btn-primary mb1 bg-teal" %>
+
   <h3>Account Details</h3>
   <ul>
     <li> <%= current_user.first_name  %> <%= current_user.last_name %> </li>
@@ -16,7 +18,7 @@
     <h3>Local Friends</h3>
     <ul>
       <% current_user.friends.each do |friend| %>
-        <li><%= "Friend Name: #{friend.followed_user.first_name}" %></li>
+      <li><%= "Friend Name: #{friend.followed_user.first_name}" %></li>
       <% end %>
     </ul>
   </section>
@@ -24,21 +26,21 @@
   <section class='user-github'>
     <h3><%= @github_username %>'s GitHub</h3>
     <section class='repos'>
-        <% @repos[0..4].each do |repo| %>
-        <ul class='repo'>
-          <li class="name"><%= link_to repo.name, repo.html_url %></li>
-        </ul>
-        <% end %>
+      <% @repos[0..4].each do |repo| %>
+      <ul class='repo'>
+        <li class="name"><%= link_to repo.name, repo.html_url %></li>
+      </ul>
+      <% end %>
     </section>
     <section class='followers'>
       <h4>GitHub Followers</h4>
       <ul>
-      <% @github_followers.each do |github_follower| %>
+        <% @github_followers.each do |github_follower| %>
         <li id="follower-<%= github_follower.github_id %>"><%= link_to github_follower.username, github_follower.html_url %>
-        <% if github_follower.has_account? %>
+          <% if github_follower.has_account? %>
           <%= link_to 'Add Local Friend', user_path(current_user, :gh_follower_id => github_follower.github_id) %></li>
         <% end %>
-      <% end %>
+        <% end %>
       </ul>
     </section>
     <section class='followees'>
@@ -46,9 +48,9 @@
       <% @github_followees.each do |github_followee| %>
       <ul>
         <li id='followee-<%= github_followee.github_id %>'><%= link_to github_followee.username, github_followee.html_url %>
-        <% if github_followee.has_account? %>
-        <%= link_to 'Add Local Friend', user_path(current_user, :gh_followee_id => github_followee.github_id) %>
-        <% end %></li>
+          <% if github_followee.has_account? %>
+          <%= link_to 'Add Local Friend', user_path(current_user, :gh_followee_id => github_followee.github_id) %>
+          <% end %></li>
       </ul>
       <% end %>
     </section>
