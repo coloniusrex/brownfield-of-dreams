@@ -18,7 +18,6 @@ class SessionsController < ApplicationController
     oauth_response = request.env['omniauth.auth']
     token = oauth_response["credentials"]["token"]
     github_id = oauth_response[:uid]
-    require "pry"; binding.pry
     assign_token(token)
     assign_github_id(github_id)
     redirect_to dashboard_path
